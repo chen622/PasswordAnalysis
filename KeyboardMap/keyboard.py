@@ -1,7 +1,7 @@
 # coding=utf-8
 import time
 
-key_map = [
+key_map_big = [
     # line 1
     [['`', '~'], ['-1'], ['1', '!'], ['-1'], ['2', '@'], ['-1'], ['3', '#'], ['-1'], ['4', '$'], ['-1'], ['5', '%'],
      ['-1'], ['6', '^'], ['-1'], ['7', '&'], ['-1'], ['8', '*'], ['-1'],
@@ -17,6 +17,18 @@ key_map = [
     [['-1'], ['-1'], ['-1'], ['-1'], ['-1'], ['z'], ['-1'], ['x'], ['-1'], ['c'], ['-1'], ['v'], ['-1'], ['b'],
      ['-1'], ['n'], ['-1'], ['m'], ['-1'], [',', '<'], ['-1'], ['.', '>'], ['-1'], ['/', '?'], ['-1'], ]
 ]
+
+key_map_small = [
+    [['-1'], ['-1'], ['/'], ['-1'], ['*'], ['-1'], ['-']],
+    [['7'], ['-1'], ['8'], ['-1'], ['9'], ['-1'], ['+']],
+    [['4'], ['-1'], ['5'], ['-1'], ['6'], ['-1'], ['-1']],
+    [['1'], ['-1'], ['2'], ['-1'], ['3'], ['-1'], ['-1']],
+    [['-1'], ['0'], ['-1'], ['-1'], ['-1'], ['-1'], ['-1']]
+]
+
+use_small = True
+
+key_map = key_map_small if use_small else key_map_big
 
 
 def keyboard_map(dataset_param):
@@ -106,7 +118,8 @@ if __name__ == "__main__":
     result_map = keyboard_map(dataset)
     result_list = result_map.items()
     order_list = sorted(result_list, key=lambda item: item[1], reverse=True)
-    with open('result.dat', 'w', encoding='utf-8', errors='ignore') as out_file:
+    with open(('result_small.dat' if use_small else 'result_big.dat'), 'w', encoding='utf-8',
+              errors='ignore') as out_file:
         i = 0
         for item in order_list:
             out_file.write(f'{item[0]} {item[1]}\n')
