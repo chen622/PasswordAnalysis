@@ -26,7 +26,7 @@ key_map_small = [
     [['-1'], ['0'], ['-1'], ['-1'], ['-1'], ['-1'], ['-1']]
 ]
 
-use_small = True
+use_small = False
 
 key_map = key_map_small if use_small else key_map_big
 
@@ -105,8 +105,10 @@ if __name__ == "__main__":
         i = 0
         while line:
             str_s = line.split(' # ')
+            # str_s = line.split(':', 2)
             if len(str_s) == 3:
                 dataset.append(str_s[1])
+                # dataset.append(str_s[2])
             else:
                 print(f'error data: {line}')
             i += 1
@@ -118,7 +120,7 @@ if __name__ == "__main__":
     result_map = keyboard_map(dataset)
     result_list = result_map.items()
     order_list = sorted(result_list, key=lambda item: item[1], reverse=True)
-    with open(('result_small.dat' if use_small else 'result_big.dat'), 'w', encoding='utf-8',
+    with open(('result_small_csdn.dat' if use_small else 'result_big_csdn.dat'), 'w', encoding='utf-8',
               errors='ignore') as out_file:
         i = 0
         for item in order_list:
