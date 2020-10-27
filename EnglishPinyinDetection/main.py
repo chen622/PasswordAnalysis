@@ -8,6 +8,7 @@ class TreeNode:
     def __init__(self):
         # 26叉树，字典树
         self.nodes = dict()
+        self.word = False
 
     def insert(self, word: str):
         curr = self
@@ -15,6 +16,7 @@ class TreeNode:
             if char not in curr.nodes:
                 curr.nodes[char] = TreeNode()
             curr = curr.nodes[char]
+        curr.word = True
 
     def search(self, word: str):
         curr = self
@@ -24,7 +26,7 @@ class TreeNode:
                     return self.search(word[char:])
                 return False
             curr = curr.nodes[word[char]]
-        return True
+        return curr.word
 
 
 class PasswordGuess:
@@ -49,11 +51,14 @@ class PasswordGuess:
             self.word_tree.insert(word)
         db.close()
 
-    def type_classify(self, word):
+    def get_word(self, word):
         word = list(filter(str.isalpha, word))
+        word = "".join(word)
+        return word
+
+    def type_classify(self, word):
         if len(word) <= 2:
             return None
-        word = "".join(word)
         word_backup = word
         word.lower()
         word_len = len(word) + 1
@@ -74,17 +79,32 @@ class PasswordGuess:
         return None
 
     def usr_in(self):
+        # 导入雅虎数据库
+        with open('./plaintxt_yahoo.txt', 'r') as string:
+            uft_str = string.readlines()
+        for usr in tqdm(uft_str, total=len(uft_str), desc="yahoo数据库计算中："):
+            usr = usr[:-1]
+            usr = usr.split(':')
+            password = self.get_word(usr[2])
+            usr_mes = {
+                "name": usr[0],
+                "password": password,
+                "email": usr[1],
+                "type": self.type_classify(password)
+            }
+            self.usr_list.append(usr_mes)
         # 导入csdn密码数据
         with open('./www.csdn.net.sql', 'r', encoding='iso8859-1') as string:
             uft_str = string.readlines()
-        for usr in tqdm(uft_str, total=len(uft_str), desc="计算中："):
+        for usr in tqdm(uft_str, total=len(uft_str), desc="csdn数据库计算中："):
             usr = usr[:-1]
             usr = usr.split(' # ')
+            password = self.get_word(usr[1])
             usr_mes = {
                 "name": usr[0],
-                "password": usr[1],
+                "password": password,
                 "email": usr[2],
-                "type": self.type_classify(usr[1])
+                "type": self.type_classify(password)
             }
             self.usr_list.append(usr_mes)
 
@@ -96,6 +116,6 @@ if __name__ == "__main__":
     with open('./letter_analyze.txt', 'w') as file:
         file.write(str(app.usr_list))
     # print(app.usr_list)
-    # print(app.type_classify("shuziluoji"))
+    # print(app.type_classify("abcd"))
 
 
