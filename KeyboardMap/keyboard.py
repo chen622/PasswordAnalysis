@@ -99,16 +99,16 @@ def print_map():
 
 
 if __name__ == "__main__":
-    with open('../www.csdn.net.sql', 'r+', encoding='utf-8', errors='ignore') as data_file:
+    with open('../plaintxt_yahoo.txt', 'r+', encoding='utf-8', errors='ignore') as data_file:
         dataset = []
         line = data_file.readline()
         i = 0
         while line:
-            str_s = line.split(' # ')
-            # str_s = line.split(':', 2)
+            # str_s = line.split(' # ')
+            str_s = line.split(':', 2)
             if len(str_s) == 3:
-                dataset.append(str_s[1])
-                # dataset.append(str_s[2])
+                # dataset.append(str_s[1])
+                dataset.append(str_s[2])
             else:
                 print(f'error data: {line}')
             i += 1
@@ -120,11 +120,12 @@ if __name__ == "__main__":
     result_map = keyboard_map(dataset)
     result_list = result_map.items()
     order_list = sorted(result_list, key=lambda item: item[1], reverse=True)
-    with open(('result_small_csdn.dat' if use_small else 'result_big_csdn.dat'), 'w', encoding='utf-8',
+    with open(('result_small_csdn.dat' if use_small else 'result_big_yahoo_number.dat'), 'w', encoding='utf-8',
               errors='ignore') as out_file:
-        i = 0
+        j = 0
         for item in order_list:
-            out_file.write(f'{item[0]} {item[1]}\n')
-            i += 1
-            if i % 1000:
-                out_file.flush()
+            if item[0].isdigit():
+                out_file.write(f'{item[0]} {item[1]} {(item[1]/i):.6f} {len(item[0])}\n')
+                j += 1
+                if j % 1000:
+                    out_file.flush()
