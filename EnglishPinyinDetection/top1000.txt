@@ -1,2999 +1,2999 @@
-L wang 9750 0.001417 4
-L zhang 7826 0.001137 5
-L liu 7306 0.001062 3
-L woaini 6514 0.000947 6
-L chen 6290 0.000914 4
-L yang 5173 0.000752 4
-L xiazhili 3650 0.000530 8
-L sun 3373 0.000490 3
-L lin 3306 0.000480 3
-L huang 3045 0.000442 5
-L zhou 2722 0.000396 4
-L wei 2691 0.000391 3
-L long 2669 0.000388 4
-L feng 2548 0.000370 4
-L xiao 2453 0.000356 4
-L zhao 2439 0.000354 4
-L zhu 2141 0.000311 3
-L jiang 2071 0.000301 5
-L yan 1958 0.000285 3
-L liang 1856 0.000270 5
-L yuan 1809 0.000263 4
-L hao 1795 0.000261 3
-L gao 1704 0.000248 3
-L jia 1688 0.000245 3
-L han 1545 0.000224 3
-L song 1509 0.000219 4
-L wen 1505 0.000219 3
-L jing 1500 0.000218 4
-L luo 1483 0.000215 3
-L guo 1470 0.000214 3
-L tang 1463 0.000213 4
-L woaiwojia 1318 0.000192 9
-L wan 1307 0.000190 3
-L jin 1291 0.000188 3
-L cheng 1291 0.000188 5
-L dong 1285 0.000187 4
-L ming 1224 0.000178 4
-L hua 1151 0.000167 3
-L fang 1145 0.000166 4
-L jie 1135 0.000165 3
-L xiaoxiao 1133 0.000165 8
-L tian 1132 0.000164 4
-L aini 1124 0.000163 4
-L shi 1118 0.000162 3
-L cao 1118 0.000162 3
-L fan 1105 0.000161 3
-L hui 1094 0.000159 3
-L peng 1085 0.000158 4
-L meng 1080 0.000157 4
-L zheng 1075 0.000156 5
-L china 1065 0.000155 5
-L cai 1044 0.000152 3
-L yao 1042 0.000151 3
-L fei 1026 0.000149 3
-L sunshine 1024 0.000149 8
-L ling 1021 0.000148 4
-L shen 993 0.000144 4
-L xin 990 0.000144 3
-L yangyang 970 0.000141 8
-L xie 962 0.000140 3
-L tao 953 0.000138 3
-L weiwei 937 0.000136 6
-L woshi 922 0.000134 5
-L nihao 922 0.000134 5
-L woshishui 922 0.000134 9
-L mima 920 0.000134 4
-L hong 915 0.000133 4
-L pan 902 0.000131 3
-L jian 891 0.000129 4
-L ying 890 0.000129 4
-L lei 886 0.000129 3
-L xue 846 0.000123 3
-L lan 833 0.000121 3
-L xia 831 0.000121 3
-L xiang 829 0.000120 5
-L woai 826 0.000120 4
-L ren 805 0.000117 3
-L lili 794 0.000115 4
-L xing 789 0.000115 4
-L buzhidao 776 0.000113 8
-L jingjing 769 0.000112 8
-L mao 765 0.000111 3
-L bin 765 0.000111 3
-L deng 742 0.000108 4
-L haha 738 0.000107 4
-L maomao 722 0.000105 6
-L tan 709 0.000103 3
-L qin 709 0.000103 3
-L woainima 704 0.000102 8
-L ping 702 0.000102 4
-L ding 697 0.000101 4
-L wocaonima 695 0.000101 9
-L baobao 694 0.000101 6
-L liwei 689 0.000100 5
-L qing 682 0.000099 4
-L yun 680 0.000099 3
-L you 675 0.000098 3
-L wojiushiwo 675 0.000098 10
-L bobo 670 0.000097 4
-L qian 658 0.000096 4
-L jiajia 650 0.000094 6
-L zhangwei 650 0.000094 8
-L yue 649 0.000094 3
-L chao 643 0.000093 4
-L feifei 642 0.000093 6
-L wangwei 642 0.000093 7
-L tiantian 637 0.000093 8
-L xiaoyu 627 0.000091 6
-L bao 620 0.000090 3
-L liao 617 0.000090 4
-L ting 615 0.000089 4
-L caonima 613 0.000089 7
-L dai 601 0.000087 3
-L cui 582 0.000085 3
-L min 580 0.000084 3
-L yuanyuan 580 0.000084 8
-L qiang 576 0.000084 5
-L laopo 573 0.000083 5
-L yin 572 0.000083 3
-L qiu 568 0.000083 3
-L zhong 563 0.000082 5
-L bai 560 0.000081 3
-L shan 555 0.000081 4
-L jiao 551 0.000080 4
-L wangjian 548 0.000080 8
-L wodemima 545 0.000079 8
-L zeng 538 0.000078 4
-L sheng 527 0.000077 5
-L kai 524 0.000076 3
-L hai 523 0.000076 3
-L wangjing 517 0.000075 8
-L lulu 512 0.000074 4
-L bing 511 0.000074 4
-L dongdong 510 0.000074 8
-L shanghai 509 0.000074 8
-L chang 505 0.000073 5
-L zhanglei 497 0.000072 8
-L dan 496 0.000072 3
-L miao 492 0.000071 4
-L liuyang 491 0.000071 7
-L kang 490 0.000071 4
-L zhuzhu 486 0.000071 6
-L mama 476 0.000069 4
-L mei 475 0.000069 3
-L ning 472 0.000069 4
-L baobei 467 0.000068 6
-L juan 466 0.000068 4
-L xiong 466 0.000068 5
-L beijing 465 0.000068 7
-L shao 464 0.000067 4
-L mike 462 0.000067 4
-L xuan 462 0.000067 4
-L liuwei 461 0.000067 6
-L chenchen 459 0.000067 8
-L wode 459 0.000067 4
-L wanglei 456 0.000066 7
-L nan 444 0.000065 3
-L shanshan 439 0.000064 8
-L dandan 438 0.000064 6
-L rong 438 0.000064 4
-L hou 435 0.000063 3
-L liyang 433 0.000063 6
-L zhen 429 0.000062 4
-L mingming 427 0.000062 8
-L duan 423 0.000061 4
-L xiaolong 422 0.000061 8
-L niu 420 0.000061 3
-L tingting 413 0.000060 8
-L yong 412 0.000060 4
-L xiaowei 407 0.000059 7
-L kong 406 0.000059 4
-L linlin 403 0.000059 6
-L zhangjie 402 0.000058 8
-L huan 399 0.000058 4
-L wangpeng 397 0.000058 8
-L wangyang 397 0.000058 8
-L wangwang 397 0.000058 8
-L longlong 396 0.000058 8
-L lijie 392 0.000057 5
-L guan 388 0.000056 4
-L zou 387 0.000056 3
-L lele 385 0.000056 4
-L zhangyu 384 0.000056 7
-L xinxin 382 0.000056 6
-L qiao 381 0.000055 4
-L she 380 0.000055 3
-L gong 380 0.000055 4
-L tong 378 0.000055 4
-L lai 375 0.000054 3
-L xingxing 375 0.000054 8
-L lang 374 0.000054 4
-L lijing 373 0.000054 6
-L wangyu 371 0.000054 6
-L zhanghao 370 0.000054 8
-L woailaopo 370 0.000054 9
-L shuai 366 0.000053 5
-L lian 365 0.000053 4
-L xiaoqiang 362 0.000053 9
-L rui 359 0.000052 3
-L june 358 0.000052 4
-L xiaofeng 358 0.000052 8
-L lijian 358 0.000052 6
-L yanyan 357 0.000052 6
-L worinima 356 0.000052 8
-L wenwen 355 0.000052 6
-L lingling 348 0.000051 8
-L zhangyan 347 0.000050 8
-L wangchao 346 0.000050 8
-L miaomiao 346 0.000050 8
-L zhan 343 0.000050 4
-L ken 342 0.000050 3
-L kaka 342 0.000050 4
-L chenwei 342 0.000050 7
-L shuang 342 0.000050 6
-L xixi 341 0.000050 4
-L zhangjian 341 0.000050 9
-L shang 341 0.000050 5
-L huanhuan 335 0.000049 8
-L ben 330 0.000048 3
-L wanghao 330 0.000048 7
-L quan 327 0.000048 4
-L wanghui 326 0.000047 7
-L libo 323 0.000047 4
-L zhangjing 320 0.000046 9
-L meiyoumima 318 0.000046 10
-L taotao 316 0.000046 6
-L leilei 316 0.000046 6
-L man 315 0.000046 3
-L shu 314 0.000046 3
-L tianshi 313 0.000045 7
-L hahahaha 312 0.000045 8
-L liming 312 0.000045 6
-L lihui 307 0.000045 5
-L wangxin 306 0.000044 7
-L qiqi 305 0.000044 4
-L zhi 305 0.000044 3
-L hehe 302 0.000044 4
-L xian 302 0.000044 4
-L liujie 295 0.000043 6
-L zhanghui 295 0.000043 8
-L chenjian 294 0.000043 8
-L libin 293 0.000043 5
-L yaya 292 0.000042 4
-L yaoyao 292 0.000042 6
-L xiaozhu 291 0.000042 7
-L huihui 289 0.000042 6
-L guang 288 0.000042 5
-L zhangyang 288 0.000042 9
-L yingying 287 0.000042 8
-L fangfang 287 0.000042 8
-L momo 285 0.000041 4
-L tiancai 285 0.000041 7
-L xiaobai 284 0.000041 7
-L yanzi 283 0.000041 5
-L dingding 282 0.000041 8
-L yuyu 280 0.000041 4
-L zhuang 280 0.000041 6
-L doudou 279 0.000041 6
-L nihaoma 279 0.000041 7
-L binbin 278 0.000040 6
-L like 276 0.000040 4
-L lixin 275 0.000040 5
-L haohao 274 0.000040 6
-L huahua 274 0.000040 6
-L lixiang 274 0.000040 7
-L liangliang 274 0.000040 10
-L yoyo 272 0.000040 4
-L chun 272 0.000040 4
-L wangjie 272 0.000040 7
-L kuaile 270 0.000039 6
-L wangyan 268 0.000039 7
-L zhongguo 267 0.000039 8
-L qianqian 265 0.000039 8
-L niuniu 264 0.000038 6
-L zhangyi 263 0.000038 7
-L mengmeng 263 0.000038 8
-L wangtao 263 0.000038 7
-L wangbo 262 0.000038 6
-L jiaojiao 261 0.000038 8
-L jiejie 260 0.000038 6
-L zhangtao 260 0.000038 8
-L gang 259 0.000038 4
-L wangli 259 0.000038 6
-L jiayou 257 0.000037 6
-L wangfei 257 0.000037 7
-L wangdong 255 0.000037 8
-L baidu 254 0.000037 5
-L linda 252 0.000037 5
-L lilei 251 0.000036 5
-L ouyang 251 0.000036 6
-L wobuzhidao 251 0.000036 10
-L xiaoming 250 0.000036 8
-L zhangxin 249 0.000036 8
-L liyan 248 0.000036 5
-L xiaofei 245 0.000036 7
-L yangfan 245 0.000036 7
-L mimi 244 0.000035 4
-L qingqing 244 0.000035 8
-L zhimakaimen 242 0.000035 11
-L cong 241 0.000035 4
-L wangying 240 0.000035 8
-L beibei 240 0.000035 6
-L zhangbin 240 0.000035 8
-L wangyi 240 0.000035 6
-L wanggang 239 0.000035 8
-L wangyong 238 0.000035 8
-L chenhao 234 0.000034 7
-L guoguo 234 0.000034 6
-L kun 233 0.000034 3
-L lisa 231 0.000034 4
-L xiaoyang 231 0.000034 8
-L wangbin 231 0.000034 7
-L xiaohui 231 0.000034 7
-L meimei 230 0.000033 6
-L xiaoli 230 0.000033 6
-L liqiang 229 0.000033 7
-L benben 228 0.000033 6
-L liuyu 226 0.000033 5
-L jiangnan 226 0.000033 8
-L woshishei 226 0.000033 9
-L panda 225 0.000033 5
-L liuxin 225 0.000033 6
-L liuyan 225 0.000033 6
-L gan 224 0.000033 3
-L xiaoxin 224 0.000033 7
-L chenjie 224 0.000033 7
-L liuhui 224 0.000033 6
-L sha 222 0.000032 3
-L lichao 222 0.000032 6
-L jianjian 221 0.000032 8
-L zhangpeng 221 0.000032 9
-L kaixin 221 0.000032 6
-L zhangli 221 0.000032 7
-L liuyi 220 0.000032 5
-L wudi 220 0.000032 4
-L yangjie 220 0.000032 7
-L wangfeng 219 0.000032 8
-L liuqiang 219 0.000032 8
-L woainiwoaini 218 0.000032 12
-L huangwei 217 0.000032 8
-L chu 215 0.000031 3
-L hanhan 215 0.000031 6
-L lipeng 215 0.000031 6
-L lilin 214 0.000031 5
-L lifeng 214 0.000031 6
-L woshitiancai 212 0.000031 12
-L chenyu 212 0.000031 6
-L zhangbo 211 0.000031 7
-L wangliang 211 0.000031 9
-L chinaren 211 0.000031 8
-L minmin 210 0.000031 6
-L bingbing 210 0.000031 8
-L woshiwo 210 0.000031 7
-L yuyang 210 0.000031 6
-L future 209 0.000030 6
-L xiaoyao 208 0.000030 7
-L lihao 207 0.000030 5
-L lifei 207 0.000030 5
-L keke 206 0.000030 4
-L wangzhen 206 0.000030 8
-L jiangwei 205 0.000030 8
-L haohaoxuexi 205 0.000030 11
-L liutao 204 0.000030 6
-L tangtang 203 0.000029 8
-L litao 203 0.000029 5
-L woshizhu 202 0.000029 8
-L fengfeng 202 0.000029 8
-L susan 201 0.000029 5
-L feixiang 201 0.000029 8
-L woaiwoziji 201 0.000029 10
-L liubin 200 0.000029 6
-L dada 199 0.000029 4
-L zhouzhou 199 0.000029 8
-L xuwei 198 0.000029 5
-L yueyue 198 0.000029 6
-L woaimama 197 0.000029 8
-L liujia 197 0.000029 6
-L xiaodong 197 0.000029 8
-L zhangkai 196 0.000028 8
-L mouse 195 0.000028 5
-L wuhao 195 0.000028 5
-L xiaojing 194 0.000028 8
-L wangkai 194 0.000028 7
-L hang 193 0.000028 4
-L wangmeng 193 0.000028 8
-L yiyi 192 0.000028 4
-L sai 191 0.000028 3
-L pang 189 0.000027 4
-L zhangchao 189 0.000027 9
-L liuhao 189 0.000027 6
-L woshishen 188 0.000027 9
-L yangjing 188 0.000027 8
-L liujing 188 0.000027 7
-L songguang 188 0.000027 9
-L ran 186 0.000027 3
-L liying 186 0.000027 6
-L zhai 186 0.000027 4
-L chenxi 185 0.000027 6
-L liuliu 185 0.000027 6
-L gui 185 0.000027 3
-L tina 184 0.000027 4
-L likai 184 0.000027 5
-L liubo 184 0.000027 5
-L zhangying 183 0.000027 9
-L wangqi 183 0.000027 6
-L yanglei 183 0.000027 7
-L chenchao 183 0.000027 8
-L liujian 183 0.000027 7
-L zhangqiang 182 0.000026 10
-L zhaowei 181 0.000026 7
-L pengpeng 180 0.000026 8
-L wodeai 180 0.000026 6
-L pingping 179 0.000026 8
-L wangning 179 0.000026 8
-L zhangliang 179 0.000026 10
-L shasha 178 0.000026 6
-L xingfu 178 0.000026 6
-L wangqiang 178 0.000026 9
-L nannan 177 0.000026 6
-L chenfeng 177 0.000026 8
-L zhangzhang 177 0.000026 10
-L nishizhu 177 0.000026 8
-L youyou 176 0.000026 6
-L xuanxuan 176 0.000026 8
-L liukai 176 0.000026 6
-L xiaobao 175 0.000025 7
-L xiaogang 175 0.000025 8
-L nishishui 175 0.000025 9
-L chenlei 175 0.000025 7
-L liuchao 174 0.000025 7
-L wanghuan 174 0.000025 8
-L chi 173 0.000025 3
-L lanlan 173 0.000025 6
-L xiaojian 173 0.000025 8
-L liyong 173 0.000025 6
-L yangjian 173 0.000025 8
-L jianqiao 173 0.000025 8
-L shine 172 0.000025 5
-L zhanglin 172 0.000025 8
-L wuwei 172 0.000025 5
-L ruan 172 0.000025 4
-L liyu 172 0.000025 4
-L rongrong 172 0.000025 8
-L shilei 172 0.000025 6
-L tianya 172 0.000025 6
-L chinese 171 0.000025 7
-L huangjie 171 0.000025 8
-L yangchao 171 0.000025 8
-L liulei 170 0.000025 6
-L wangxiao 170 0.000025 8
-L lijia 169 0.000025 5
-L xiaojie 169 0.000025 7
-L chenjing 169 0.000025 8
-L liuli 169 0.000025 5
-L kaikai 168 0.000024 6
-L wangming 168 0.000024 8
-L qingfeng 168 0.000024 8
-L dou 168 0.000024 3
-L xiaoxue 168 0.000024 7
-L zhangrui 168 0.000024 8
-L kuang 167 0.000024 5
-L geng 167 0.000024 4
-L nie 166 0.000024 3
-L zaiwa 166 0.000024 5
-L yangguang 166 0.000024 9
-L xuxu 165 0.000024 4
-L zhangqi 165 0.000024 7
-L wangshuai 165 0.000024 9
-L jinjin 164 0.000024 6
-L tongtong 164 0.000024 8
-L dudu 164 0.000024 4
-L biao 164 0.000024 4
-L lidan 164 0.000024 5
-L cici 163 0.000024 4
-L heng 163 0.000024 4
-L ligang 163 0.000024 6
-L zhenzhen 163 0.000024 8
-L lizhi 163 0.000024 5
-L liyuan 162 0.000024 6
-L sean 161 0.000023 4
-L zhangming 161 0.000023 9
-L sunwei 161 0.000023 6
-L chenyang 161 0.000023 8
-L lala 160 0.000023 4
-L chai 160 0.000023 4
-L babamama 159 0.000023 8
-L chenlin 159 0.000023 7
-L zuo 158 0.000023 3
-L jiushiaini 158 0.000023 10
-L xiaoyan 158 0.000023 7
-L huhu 157 0.000023 4
-L zhangfeng 157 0.000023 9
-L chaochao 157 0.000023 8
-L panpan 157 0.000023 6
-L chenliang 157 0.000023 9
-L lou 156 0.000023 3
-L yatou 156 0.000023 5
-L tiankong 156 0.000023 8
-L zhangfan 156 0.000023 8
-L liufeng 156 0.000023 7
-L zhangxu 155 0.000023 7
-L caonimabi 155 0.000023 9
-L tianxia 155 0.000023 7
-L xiaoyi 154 0.000022 6
-L wangzi 154 0.000022 6
-L zhangmin 154 0.000022 8
-L zhangyong 154 0.000022 9
-L wangrui 154 0.000022 7
-L chenlong 153 0.000022 8
-L wangchen 153 0.000022 8
-L xiaoqi 152 0.000022 6
-L jisuanji 152 0.000022 8
-L hewei 151 0.000022 5
-L teng 151 0.000022 4
-L xujie 151 0.000022 5
-L liupeng 151 0.000022 7
-L nian 151 0.000022 4
-L liyi 150 0.000022 4
-L yezi 150 0.000022 4
-L fanfan 150 0.000022 6
-L popo 149 0.000022 4
-L baba 149 0.000022 4
-L guaiguai 149 0.000022 8
-L songsong 149 0.000022 8
-L wangqing 149 0.000022 8
-L che 148 0.000022 3
-L liufei 148 0.000022 6
-L zhoujian 148 0.000022 8
-L zhanghua 148 0.000022 8
-L chenli 147 0.000021 6
-L limin 147 0.000021 5
-L xiaolei 146 0.000021 7
-L wangping 146 0.000021 8
-L xiaohu 145 0.000021 6
-L huo 145 0.000021 3
-L pei 145 0.000021 3
-L zhangyue 145 0.000021 8
-L wangqian 145 0.000021 8
-L xiangxiang 144 0.000021 10
-L kangkang 144 0.000021 8
-L fendou 144 0.000021 6
-L maidoumaidou 144 0.000021 12
-L yangli 143 0.000021 6
-L mimamima 142 0.000021 8
-L chenhui 142 0.000021 7
-L rongfan 142 0.000021 7
-L liuxing 142 0.000021 7
-L zhouyang 142 0.000021 8
-L yangyu 142 0.000021 6
-L lirui 141 0.000020 5
-L xinyu 141 0.000020 5
-L anna 140 0.000020 4
-L zhaoyang 140 0.000020 8
-L dongfang 140 0.000020 8
-L guowei 140 0.000020 6
-L wawa 139 0.000020 4
-L juanjuan 139 0.000020 8
-L zhangqian 139 0.000020 9
-L chenfei 139 0.000020 7
-L lidong 139 0.000020 6
-L zhaojing 139 0.000020 8
-L game 138 0.000020 4
-L weng 138 0.000020 4
-L yangyong 138 0.000020 8
-L zhoujie 138 0.000020 7
-L zhangjin 138 0.000020 8
-L wangyuan 138 0.000020 8
-L haiyang 138 0.000020 7
-L limeng 138 0.000020 6
-L chengcheng 137 0.000020 10
-L shui 137 0.000020 4
-L aiziji 137 0.000020 6
-L jiangtao 136 0.000020 8
-L fengyun 136 0.000020 7
-L ruirui 136 0.000020 6
-L hanbing 136 0.000020 7
-L yongyuan 135 0.000020 8
-L chuan 135 0.000020 5
-L xiaomei 135 0.000020 7
-L bian 135 0.000020 4
-L liuying 135 0.000020 7
-L liliang 135 0.000020 7
-L wanglin 134 0.000019 7
-L woshiniba 134 0.000019 9
-L wanglong 134 0.000019 8
-L liuyong 134 0.000019 7
-L xiaobo 134 0.000019 6
-L anan 133 0.000019 4
-L wangcheng 133 0.000019 9
-L yangyi 133 0.000019 6
-L chenming 133 0.000019 8
-L xiaoxiong 133 0.000019 9
-L huwei 133 0.000019 5
-L weiweiwei 133 0.000019 9
-L yangbo 133 0.000019 6
-L zhouwei 133 0.000019 7
-L chong 132 0.000019 5
-L ningning 132 0.000019 8
-L liqi 132 0.000019 4
-L lilong 132 0.000019 6
-L dahai 132 0.000019 5
-L xiaolin 131 0.000019 7
-L san 131 0.000019 3
-L wokao 131 0.000019 5
-L gaofeng 131 0.000019 7
-L wangting 131 0.000019 8
-L youaifa 131 0.000019 7
-L lizhen 130 0.000019 6
-L wujian 130 0.000019 6
-L womendeai 130 0.000019 9
-L xixihaha 130 0.000019 8
-L xiaotian 129 0.000019 8
-L xiaohua 129 0.000019 7
-L huanghao 129 0.000019 8
-L diandian 129 0.000019 8
-L wade 128 0.000019 4
-L chan 128 0.000019 4
-L annie 128 0.000019 5
-L wokaonima 128 0.000019 9
-L lihua 128 0.000019 5
-L wocao 128 0.000019 5
-L wangyue 127 0.000018 7
-L xiaofang 127 0.000018 8
-L wangjin 127 0.000018 7
-L wangxu 127 0.000018 6
-L xiaoqing 126 0.000018 8
-L woxiangni 126 0.000018 9
-L wujing 125 0.000018 6
-L chenyan 125 0.000018 7
-L huangjian 125 0.000018 9
-L zhaozhao 125 0.000018 8
-L zhangnan 125 0.000018 8
-L lixiao 124 0.000018 6
-L xiaoliang 124 0.000018 9
-L tiantang 124 0.000018 8
-L huanglei 124 0.000018 8
-L yongheng 124 0.000018 8
-L zhendeaini 124 0.000018 10
-L xiu 124 0.000018 3
-L xujian 123 0.000018 6
-L sisi 122 0.000018 4
-L shun 122 0.000018 4
-L linfeng 122 0.000018 7
-L xiaoying 122 0.000018 8
-L zhanghong 122 0.000018 9
-L liuchang 122 0.000018 8
-L zhangzhen 122 0.000018 9
-L zhanglong 122 0.000018 9
-L qiuqiu 122 0.000018 6
-L xiaoxi 121 0.000018 6
-L xiaohao 121 0.000018 7
-L sen 120 0.000017 3
-L manman 120 0.000017 6
-L xiuxiu 120 0.000017 6
-L gaoyang 120 0.000017 7
-L wanglu 120 0.000017 6
-L chenxin 120 0.000017 7
-L mingtian 120 0.000017 8
-L gaofei 120 0.000017 6
-L fengzi 120 0.000017 6
-L tianyu 119 0.000017 6
-L wangjia 119 0.000017 7
-L mimashi 119 0.000017 7
-L jinxin 119 0.000017 6
-L wangdan 119 0.000017 7
-L chenggong 119 0.000017 9
-L wujie 119 0.000017 5
-L haozi 119 0.000017 5
-L lijin 119 0.000017 5
-L gaowei 119 0.000017 6
-L liping 118 0.000017 6
-L wanwan 118 0.000017 6
-L chenpeng 118 0.000017 8
-L nishiwode 118 0.000017 9
-L machao 118 0.000017 6
-L linan 118 0.000017 5
-L liuming 118 0.000017 7
-L hahaha 117 0.000017 6
-L sina 117 0.000017 4
-L dawei 117 0.000017 5
-L zhe 117 0.000017 3
-L haitao 117 0.000017 6
-L feiyang 117 0.000017 7
-L zhonghua 117 0.000017 8
-L zhaolei 117 0.000017 7
-L jiji 116 0.000017 4
-L chengang 116 0.000017 8
-L langzi 116 0.000017 6
-L wuhan 116 0.000017 5
-L huangtao 116 0.000017 8
-L liugang 116 0.000017 7
-L xiaopeng 116 0.000017 8
-L duoduo 115 0.000017 6
-L jiushiwo 115 0.000017 8
-L gaojie 115 0.000017 6
-L zhouyu 115 0.000017 6
-L yangming 115 0.000017 8
-L haifeng 115 0.000017 7
-L wuyan 115 0.000017 5
-L chenzhen 115 0.000017 8
-L caicai 114 0.000017 6
-L yujie 114 0.000017 5
-L wangmin 114 0.000017 7
-L chenbin 114 0.000017 7
-L wenjing 114 0.000017 7
-L qinqin 114 0.000017 6
-L jianghui 114 0.000017 8
-L monica 113 0.000016 6
-L liting 113 0.000016 6
-L mai 113 0.000016 3
-L rao 113 0.000016 3
-L xulei 113 0.000016 5
-L haiyan 113 0.000016 6
-L liuliang 113 0.000016 8
-L chenxiao 113 0.000016 8
-L luke 112 0.000016 4
-L mengxiang 112 0.000016 9
-L wangkun 112 0.000016 7
-L xuchao 112 0.000016 6
-L xiaowu 112 0.000016 6
-L lixu 112 0.000016 4
-L menghuan 112 0.000016 8
-L wangji 112 0.000016 6
-L zhangshuai 111 0.000016 10
-L sunjian 111 0.000016 7
-L woshiren 111 0.000016 8
-L wowo 111 0.000016 4
-L xiaohan 111 0.000016 7
-L bei 111 0.000016 3
-L can 110 0.000016 3
-L wangzhe 110 0.000016 7
-L wuming 110 0.000016 6
-L niaishui 110 0.000016 8
-L xiaoma 110 0.000016 6
-L zhuwei 110 0.000016 6
-L yangtao 109 0.000016 7
-L yuwei 109 0.000016 5
-L laogong 109 0.000016 7
-L shuaishuai 109 0.000016 10
-L liumin 109 0.000016 6
-L woshinidie 109 0.000016 10
-L wangfang 108 0.000016 8
-L pengfei 108 0.000016 7
-L xubin 108 0.000016 5
-L wubin 108 0.000016 5
-L caonimama 108 0.000016 9
-L chentao 108 0.000016 7
-L piao 107 0.000016 4
-L yufei 107 0.000016 5
-L luowei 107 0.000016 6
-L woshihaoren 107 0.000016 11
-L xiangni 107 0.000016 7
-L lihong 107 0.000016 6
-L libing 107 0.000016 6
-L sasa 106 0.000015 4
-L ranran 106 0.000015 6
-L xiaoqian 106 0.000015 8
-L wanghong 106 0.000015 8
-L qingtian 106 0.000015 8
-L liling 106 0.000015 6
-L liuqi 106 0.000015 5
-L honghong 106 0.000015 8
-L lizheng 106 0.000015 7
-L chenying 105 0.000015 8
-L chenyi 105 0.000015 6
-L wangbing 105 0.000015 8
-L lantian 105 0.000015 7
-L yangning 105 0.000015 8
-L xiaoxia 105 0.000015 7
-L yujian 105 0.000015 6
-L susu 104 0.000015 4
-L woaiziji 104 0.000015 8
-L yangwei 104 0.000015 7
-L chenbo 104 0.000015 6
-L huanghe 104 0.000015 7
-L liudan 104 0.000015 6
-L xujing 104 0.000015 6
-L tutu 103 0.000015 4
-L xiaomin 103 0.000015 7
-L zhangkun 103 0.000015 8
-L zhanshen 103 0.000015 8
-L zhangfei 103 0.000015 8
-L xiaohong 103 0.000015 8
-L congcong 103 0.000015 8
-L pipi 102 0.000015 4
-L liqian 102 0.000015 6
-L shangxin 102 0.000015 8
-L xiaobin 102 0.000015 7
-L wohenhao 102 0.000015 8
-L wenjie 102 0.000015 6
-L zhangyun 102 0.000015 8
-L zhangyuan 102 0.000015 9
-L gaoyuan 102 0.000015 7
-L hanwei 101 0.000015 6
-L fengye 101 0.000015 6
-L huangyan 101 0.000015 8
-L lijuan 101 0.000015 6
-L yufeng 101 0.000015 6
-L huanghuang 101 0.000015 10
-L peipei 100 0.000015 6
-L xiaobing 100 0.000015 8
-L wangxiang 99 0.000014 9
-L yangfeng 99 0.000014 8
-L xiaolu 99 0.000014 6
-L songyang 99 0.000014 8
-L xiaomao 99 0.000014 7
-L zhangxiao 99 0.000014 9
-L yunyun 99 0.000014 6
-L xiaohei 99 0.000014 7
-L weiyi 99 0.000014 5
-L hongkong 98 0.000014 8
-L liyue 98 0.000014 5
-L xufei 98 0.000014 5
-L luoluo 98 0.000014 6
-L woainiya 98 0.000014 8
-L wodezuiai 98 0.000014 9
-L tianyuan 98 0.000014 8
-L zhaohui 98 0.000014 7
-L mumu 98 0.000014 4
-L hanyu 98 0.000014 5
-L aiwo 98 0.000014 4
-L chenqi 98 0.000014 6
-L police 97 0.000014 6
-L nike 97 0.000014 4
-L bama 97 0.000014 4
-L zhuo 97 0.000014 4
-L jiangjiang 97 0.000014 10
-L shiwei 97 0.000014 6
-L caonimade 97 0.000014 9
-L wangke 97 0.000014 6
-L xuyang 97 0.000014 6
-L guoliang 97 0.000014 8
-L wangbadan 97 0.000014 9
-L chenyong 97 0.000014 8
-L heihei 97 0.000014 6
-L liuhuan 97 0.000014 7
-L songaideng 97 0.000014 10
-L time 96 0.000014 4
-L sunsun 96 0.000014 6
-L yingzi 96 0.000014 6
-L zhangwen 96 0.000014 8
-L liyun 96 0.000014 5
-L haoren 96 0.000014 6
-L liqing 96 0.000014 6
-L fen 96 0.000014 3
-L zhaoyu 96 0.000014 6
-L zhangchen 96 0.000014 9
-L wangxing 96 0.000014 8
-L dangyuan 96 0.000014 8
-L jiandanai 96 0.000014 9
-L liuqing 96 0.000014 7
-L zhangning 96 0.000014 9
-L sunhao 96 0.000014 6
-L chance 95 0.000014 6
-L lichen 95 0.000014 6
-L lixia 95 0.000014 5
-L wuyu 95 0.000014 4
-L hongwei 95 0.000014 7
-L zhujie 95 0.000014 6
-L liuxiang 95 0.000014 8
-L wushuang 95 0.000014 8
-L xuyan 95 0.000014 5
-L karen 94 0.000014 5
-L kan 94 0.000014 3
-L mali 94 0.000014 4
-L wangzheng 94 0.000014 9
-L wuliao 94 0.000014 6
-L shenzhen 94 0.000014 8
-L xuhui 94 0.000014 5
-L waini 94 0.000014 5
-L meimima 94 0.000014 7
-L licheng 94 0.000014 7
-L liudong 94 0.000014 7
-L linxing 94 0.000014 7
-L angle 93 0.000014 5
-L jiajiajia 93 0.000014 9
-L wahaha 93 0.000014 6
-L gaojian 93 0.000014 7
-L aiai 93 0.000014 4
-L zhaoyan 93 0.000014 7
-L liuqian 93 0.000014 7
-L gaoxiang 93 0.000014 8
-L xiaopang 92 0.000013 8
-L likun 92 0.000013 5
-L woxihuanni 92 0.000013 10
-L shitou 92 0.000013 6
-L zhoufeng 92 0.000013 8
-L huangxin 92 0.000013 8
-L mamawoaini 92 0.000013 10
-L wangyun 92 0.000013 7
-L nanjing 92 0.000013 7
-L hubin 92 0.000013 5
-L jiawei 91 0.000013 6
-L zha 91 0.000013 3
-L xun 91 0.000013 3
-L bendan 91 0.000013 6
-L liuyun 91 0.000013 6
-L xiaohe 91 0.000013 6
-L sunyanzi 91 0.000013 8
-L ruanjian 91 0.000013 8
-L zhaojian 91 0.000013 8
-L chencheng 91 0.000013 9
-L zhoujing 91 0.000013 8
-L huanghui 91 0.000013 8
-L weiyu 91 0.000013 5
-L wowangle 91 0.000013 8
-L duke 90 0.000013 4
-L didi 90 0.000013 4
-L daidai 90 0.000013 6
-L xihuanni 90 0.000013 8
-L lingfeng 90 0.000013 8
-L sunlei 90 0.000013 6
-L xiaoyong 90 0.000013 8
-L maomaomao 90 0.000013 9
-L shijian 90 0.000013 7
-L zhouli 90 0.000013 6
-L xiaomi 90 0.000013 6
-L shenyang 89 0.000013 8
-L fengyu 89 0.000013 6
-L weishenme 89 0.000013 9
-L hetao 89 0.000013 5
-L woshini 89 0.000013 7
-L chenkai 89 0.000013 7
-L woshinibaba 89 0.000013 11
-L zhanglu 89 0.000013 7
-L laopowoaini 89 0.000013 11
-L xiaoping 89 0.000013 8
-L qiong 89 0.000013 5
-L liuwen 89 0.000013 6
-L women 88 0.000013 5
-L xiaomeng 88 0.000013 8
-L leng 88 0.000013 4
-L shengri 88 0.000013 7
-L weixiao 88 0.000013 7
-L chendong 88 0.000013 8
-L tianyi 88 0.000013 6
-L yangfei 88 0.000013 7
-L xiaohai 88 0.000013 7
-L xuhao 88 0.000013 5
-L lixing 88 0.000013 6
-L xiaowen 88 0.000013 7
-L huanying 88 0.000013 8
-L zhongnan 88 0.000013 8
-L liujianliu 88 0.000013 10
-L dean 87 0.000013 4
-L zhanghan 87 0.000013 8
-L baichi 87 0.000013 6
-L zhangmeng 87 0.000013 9
-L xiaoxu 87 0.000013 6
-L sunyan 87 0.000013 6
-L zhangjia 87 0.000013 8
-L changjiang 87 0.000013 10
-L shijie 87 0.000013 6
-L zhangcheng 87 0.000013 10
-L zhangheng 87 0.000013 9
-L kangta 87 0.000013 6
-L yangliu 87 0.000013 7
-L wenhui 87 0.000013 6
-L wanghai 87 0.000013 7
-L ranger 86 0.000012 6
-L caocao 86 0.000012 6
-L liwen 86 0.000012 5
-L liuxiao 86 0.000012 7
-L zhuzhuzhu 86 0.000012 9
-L heyong 86 0.000012 6
-L yangpeng 86 0.000012 8
-L hujie 86 0.000012 5
-L qinghua 86 0.000012 7
-L guodong 86 0.000012 7
-L yuyan 86 0.000012 5
-L wangsong 86 0.000012 8
-L milan 85 0.000012 5
-L suzhou 85 0.000012 6
-L dang 85 0.000012 4
-L tuzi 85 0.000012 4
-L niaiwoma 85 0.000012 8
-L linyu 85 0.000012 5
-L lifang 85 0.000012 6
-L haohaohao 85 0.000012 9
-L luwei 85 0.000012 5
-L liuyuan 85 0.000012 7
-L wobuaini 85 0.000012 8
-L zhaopeng 85 0.000012 8
-L diao 85 0.000012 4
-L guolei 85 0.000012 6
-L lishuang 85 0.000012 8
-L liuxu 84 0.000012 5
-L lao 84 0.000012 3
-L kaoyan 84 0.000012 6
-L yangbin 84 0.000012 7
-L yanwei 84 0.000012 6
-L hanxiao 84 0.000012 7
-L liucheng 84 0.000012 8
-L sunjing 83 0.000012 7
-L liudehua 83 0.000012 8
-L xianjian 83 0.000012 8
-L weijie 83 0.000012 6
-L zhangqing 83 0.000012 9
-L zhaoming 83 0.000012 8
-L zhoulei 83 0.000012 7
-L love 7161 0.001041 4
-L password 5507 0.000800 8
-L iloveyou 4345 0.000631 8
-L www 3257 0.000473 3
-L happy 1759 0.000256 5
-L king 1710 0.000248 4
-L qwerty 1581 0.000230 6
-L code 1422 0.000207 4
-L sky 1295 0.000188 3
-L apple 1211 0.000176 5
-L hello 1123 0.000163 5
-L windows 1123 0.000163 7
-L jun 1089 0.000158 3
-L angel 1075 0.000156 5
-L lee 1065 0.000155 3
-L jay 923 0.000134 3
-L andy 912 0.000133 4
-L welcome 873 0.000127 7
-L dragon 782 0.000114 6
-L why 780 0.000113 3
-L computer 776 0.000113 8
-L superman 773 0.000112 8
-L forever 765 0.000111 7
-L xxx 731 0.000106 3
-L star 726 0.000105 4
-L kevin 723 0.000105 5
-L michael 698 0.000101 7
-L fly 690 0.000100 3
-L monkey 679 0.000099 6
-L baby 658 0.000096 4
-L pass 654 0.000095 4
-L loveyou 636 0.000092 7
-L test 621 0.000090 4
-L tiger 619 0.000090 5
-L lily 596 0.000087 4
-L tony 585 0.000085 4
-L david 580 0.000084 5
-L freedom 579 0.000084 7
-L sunny 575 0.000084 5
-L leo 570 0.000083 3
-L sss 564 0.000082 3
-L kiss 555 0.000081 4
-L money 553 0.000080 5
-L blue 550 0.000080 4
-L summer 549 0.000080 6
-L jordan 548 0.000080 6
-L fuckyou 532 0.000077 7
-L beyond 528 0.000077 6
-L james 527 0.000077 5
-L good 521 0.000076 4
-L ilove 520 0.000076 5
-L ccc 499 0.000073 3
-L kkk 488 0.000071 3
-L john 487 0.000071 4
-L lucky 483 0.000070 5
-L nana 479 0.000070 4
-L shadow 470 0.000068 6
-L helloworld 470 0.000068 10
-L success 467 0.000068 7
-L eric 463 0.000067 4
-L sam 461 0.000067 3
-L nba 456 0.000066 3
-L java 448 0.000065 4
-L killer 446 0.000065 6
-L fish 432 0.000063 4
-L kobe 429 0.000062 4
-L princess 414 0.000060 8
-L daniel 413 0.000060 6
-L jesus 408 0.000059 5
-L super 408 0.000059 5
-L nicholas 407 0.000059 8
-L snow 405 0.000059 4
-L win 405 0.000059 3
-L ninja 395 0.000057 5
-L rain 394 0.000057 4
-L jerry 392 0.000057 5
-L hunter 391 0.000057 6
-L allen 391 0.000057 5
-L wolf 385 0.000056 4
-L nokia 385 0.000056 5
-L justdoit 378 0.000055 8
-L smile 373 0.000054 5
-L writer 366 0.000053 6
-L may 365 0.000053 3
-L hero 363 0.000053 4
-L dream 362 0.000053 5
-L peter 362 0.000053 5
-L orange 359 0.000052 6
-L boy 355 0.000052 3
-L zero 346 0.000050 4
-L stone 345 0.000050 5
-L winner 343 0.000050 6
-L tom 341 0.000050 3
-L mmm 340 0.000049 3
-L lcl 340 0.000049 3
-L wangjun 339 0.000049 7
-L cool 338 0.000049 4
-L shy 337 0.000049 3
-L family 333 0.000048 6
-L jimmy 332 0.000048 5
-L internet 331 0.000048 8
-L phoenix 328 0.000048 7
-L spring 328 0.000048 6
-L football 326 0.000047 8
-L jacky 325 0.000047 5
-L leon 324 0.000047 4
-L wind 323 0.000047 4
-L master 318 0.000046 6
-L candy 317 0.000046 5
-L adsl 316 0.000046 4
-L water 315 0.000046 5
-L hacker 315 0.000046 6
-L crystal 314 0.000046 7
-L sea 312 0.000045 3
-L butterfly 310 0.000045 9
-L max 308 0.000045 3
-L home 306 0.000044 4
-L testtest 304 0.000044 8
-L moon 303 0.000044 4
-L fox 301 0.000044 3
-L cctv 301 0.000044 4
-L frank 298 0.000043 5
-L wll 298 0.000043 3
-L henry 297 0.000043 5
-L ice 295 0.000043 3
-L wsj 295 0.000043 3
-L cherry 293 0.000043 6
-L bbs 293 0.000043 3
-L purple 292 0.000042 6
-L system 289 0.000042 6
-L power 288 0.000042 5
-L handsome 287 0.000042 8
-L microsoft 287 0.000042 9
-L andrew 286 0.000042 6
-L genius 285 0.000041 6
-L lxx 285 0.000041 3
-L secret 282 0.000041 6
-L kitty 281 0.000041 5
-L bbb 281 0.000041 3
-L nick 279 0.000041 4
-L george 279 0.000041 6
-L rainbow 276 0.000040 7
-L mark 276 0.000040 4
-L red 275 0.000040 3
-L free 275 0.000040 4
-L robert 273 0.000040 6
-L nicole 273 0.000040 6
-L associated 272 0.000040 10
-L fuck 270 0.000039 4
-L july 267 0.000039 4
-L sos 267 0.000039 3
-L ddd 265 0.000039 3
-L jasmine 263 0.000038 7
-L ray 263 0.000038 3
-L content 261 0.000038 7
-L jackie 261 0.000038 6
-L alan 261 0.000038 4
-L snoopy 258 0.000037 6
-L flower 258 0.000037 6
-L jackson 258 0.000037 7
-L and 258 0.000037 3
-L tigger 257 0.000037 6
-L ghost 257 0.000037 5
-L magic 255 0.000037 5
-L jeff 255 0.000037 4
-L administrator 255 0.000037 13
-L jane 254 0.000037 4
-L green 252 0.000037 5
-L bill 252 0.000037 4
-L yellow 251 0.000036 6
-L cookie 250 0.000036 6
-L joshua 249 0.000036 6
-L lovely 246 0.000036 6
-L bob 246 0.000036 3
-L rose 246 0.000036 4
-L diamond 243 0.000035 7
-L april 243 0.000035 5
-L net 243 0.000035 3
-L mickey 242 0.000035 6
-L richard 240 0.000035 7
-L heaven 239 0.000035 6
-L baseball 239 0.000035 8
-L winter 238 0.000035 6
-L mac 236 0.000034 3
-L prince 236 0.000034 6
-L yes 236 0.000034 3
-L beckham 235 0.000034 7
-L coco 234 0.000034 4
-L new 234 0.000034 3
-L soccer 233 0.000034 6
-L anthony 233 0.000034 7
-L english 230 0.000033 7
-L thomas 230 0.000033 6
-L rabbit 230 0.000033 6
-L wing 229 0.000033 4
-L grace 227 0.000033 5
-L seven 227 0.000033 5
-L owen 227 0.000033 4
-L will 226 0.000033 4
-L daisy 226 0.000033 5
-L junjun 225 0.000033 6
-L open 223 0.000032 4
-L lht 223 0.000032 3
-L victor 221 0.000032 6
-L honey 220 0.000032 5
-L matthew 219 0.000032 7
-L august 218 0.000032 6
-L top 218 0.000032 3
-L ginger 216 0.000031 6
-L knight 216 0.000031 6
-L eagle 213 0.000031 5
-L ufo 212 0.000031 3
-L amy 211 0.000031 3
-L jim 210 0.000031 3
-L vip 210 0.000031 3
-L lwl 210 0.000031 3
-L kingking 209 0.000030 8
-L wwwwww 209 0.000030 6
-L cyc 209 0.000030 3
-L paul 208 0.000030 4
-L sandy 207 0.000030 5
-L wendy 205 0.000030 5
-L destiny 204 0.000030 7
-L edward 204 0.000030 6
-L robin 204 0.000030 5
-L mary 203 0.000029 4
-L terry 203 0.000029 5
-L taylor 202 0.000029 6
-L fantasy 202 0.000029 7
-L mother 201 0.000029 6
-L adam 201 0.000029 4
-L lover 201 0.000029 5
-L legend 199 0.000029 6
-L samsung 199 0.000029 7
-L echo 198 0.000029 4
-L jenny 197 0.000029 5
-L austin 196 0.000028 6
-L aaron 196 0.000028 5
-L lion 196 0.000028 4
-L kelly 195 0.000028 5
-L flying 194 0.000028 6
-L support 194 0.000028 7
-L lmh 194 0.000028 3
-L blessed 193 0.000028 7
-L crazy 192 0.000028 5
-L operation 191 0.000028 9
-L lcj 191 0.000028 3
-L silver 190 0.000028 6
-L chenjun 190 0.000028 7
-L whatever 189 0.000027 8
-L rock 189 0.000027 4
-L wow 189 0.000027 3
-L lhc 187 0.000027 3
-L bear 185 0.000027 4
-L martin 185 0.000027 6
-L music 185 0.000027 5
-L lemon 184 0.000027 5
-L joy 184 0.000027 3
-L pop 183 0.000027 3
-L young 183 0.000027 5
-L delphi 183 0.000027 6
-L babygirl 182 0.000026 8
-L coffee 181 0.000026 6
-L jessie 181 0.000026 6
-L november 181 0.000026 8
-L hot 181 0.000026 3
-L beautiful 180 0.000026 9
-L fire 180 0.000026 4
-L another 180 0.000026 7
-L ryan 179 0.000026 4
-L rachel 179 0.000026 6
-L dell 179 0.000026 4
-L naruto 179 0.000026 6
-L jan 178 0.000026 3
-L howareyou 178 0.000026 9
-L emily 177 0.000026 5
-L friend 177 0.000026 6
-L key 177 0.000026 3
-L bailey 176 0.000026 6
-L victory 175 0.000025 7
-L yangjun 175 0.000025 7
-L kill 174 0.000025 4
-L paradise 172 0.000025 8
-L alexander 172 0.000025 9
-L download 172 0.000025 8
-L sweet 171 0.000025 5
-L johnny 171 0.000025 6
-L peanut 171 0.000025 6
-L change 171 0.000025 6
-L thunder 170 0.000025 7
-L buster 170 0.000025 6
-L gemini 170 0.000025 6
-L lucy 170 0.000025 4
-L alice 170 0.000025 5
-L hsh 169 0.000025 3
-L harry 168 0.000024 5
-L october 168 0.000024 7
-L lcm 168 0.000024 3
-L writing 167 0.000024 7
-L mars 167 0.000024 4
-L luck 167 0.000024 4
-L mustang 166 0.000024 7
-L wonderful 166 0.000024 9
-L ldh 166 0.000024 3
-L cindy 165 0.000024 5
-L iam 165 0.000024 3
-L chocolate 164 0.000024 9
-L remember 164 0.000024 8
-L pig 164 0.000024 3
-L cisco 164 0.000024 5
-L linux 164 0.000024 5
-L miss 164 0.000024 4
-L pepper 163 0.000024 6
-L march 163 0.000024 5
-L iiii 163 0.000024 4
-L madison 162 0.000024 7
-L faith 161 0.000023 5
-L sherry 161 0.000023 6
-L yahoo 161 0.000023 5
-L snake 161 0.000023 5
-L jake 159 0.000023 4
-L god 158 0.000023 3
-L nancy 157 0.000023 5
-L eva 157 0.000023 3
-L best 157 0.000023 4
-L charles 156 0.000023 7
-L basketball 156 0.000023 10
-L black 156 0.000023 5
-L oliver 155 0.000023 6
-L myself 155 0.000023 6
-L tel 155 0.000023 3
-L show 155 0.000023 4
-L diablo 154 0.000022 6
-L iou 154 0.000022 3
-L lining 154 0.000022 6
-L joseph 153 0.000022 6
-L batman 151 0.000022 6
-L fighting 151 0.000022 8
-L banana 150 0.000022 6
-L benjamin 150 0.000022 8
-L enter 150 0.000022 5
-L root 150 0.000022 4
-L westlife 150 0.000022 8
-L melody 149 0.000022 6
-L poi 149 0.000022 3
-L cndkervip 149 0.000022 9
-L scorpio 148 0.000022 7
-L nothing 148 0.000022 7
-L helen 148 0.000022 5
-L sally 148 0.000022 5
-L perfect 147 0.000021 7
-L ocean 147 0.000021 5
-L ycl 147 0.000021 3
-L emma 146 0.000021 4
-L gary 146 0.000021 4
-L iop 146 0.000021 3
-L guitar 145 0.000021 6
-L happyday 145 0.000021 8
-L hellohello 145 0.000021 10
-L danny 145 0.000021 5
-L web 145 0.000021 3
-L vicky 145 0.000021 5
-L rocky 144 0.000021 5
-L edison 144 0.000021 6
-L kid 144 0.000021 3
-L bbc 144 0.000021 3
-L dog 143 0.000021 3
-L user 143 0.000021 4
-L buddy 142 0.000021 5
-L dolphin 141 0.000020 7
-L cheese 141 0.000020 6
-L devil 141 0.000020 5
-L boss 141 0.000020 4
-L supervisor 141 0.000020 10
-L sarah 140 0.000020 5
-L hope 140 0.000020 4
-L ace 140 0.000020 3
-L student 140 0.000020 7
-L sunday 140 0.000020 6
-L software 140 0.000020 8
-L ivan 139 0.000020 4
-L december 139 0.000020 8
-L gogo 139 0.000020 4
-L number 138 0.000020 6
-L adidas 138 0.000020 6
-L oscar 138 0.000020 5
-L maple 137 0.000020 5
-L apollo 136 0.000020 6
-L ass 136 0.000020 3
-L fifa 136 0.000020 4
-L matrix 135 0.000020 6
-L violet 135 0.000020 6
-L philips 135 0.000020 7
-L css 135 0.000020 3
-L cyp 135 0.000020 3
-L chicken 134 0.000019 7
-L cloud 134 0.000019 5
-L morgan 133 0.000019 6
-L beauty 133 0.000019 6
-L autumn 133 0.000019 6
-L ivy 133 0.000019 3
-L talent 132 0.000019 6
-L wilson 132 0.000019 6
-L fred 132 0.000019 4
-L oracle 132 0.000019 6
-L aaabbb 132 0.000019 6
-L lcf 132 0.000019 3
-L tommy 131 0.000019 5
-L jiangjun 131 0.000019 8
-L hcl 131 0.000019 3
-L sony 130 0.000019 4
-L billy 130 0.000019 5
-L yyz 130 0.000019 3
-L lavender 129 0.000019 8
-L foreverlove 129 0.000019 11
-L bandit 128 0.000019 6
-L asa 128 0.000019 3
-L alpha 127 0.000018 5
-L slamdunk 127 0.000018 8
-L tank 126 0.000018 4
-L molly 126 0.000018 5
-L alexis 126 0.000018 6
-L tomorrow 126 0.000018 8
-L badboy 125 0.000018 6
-L johnson 124 0.000018 7
-L heather 124 0.000018 7
-L demon 124 0.000018 5
-L junior 123 0.000018 6
-L cathy 122 0.000018 5
-L tim 122 0.000018 3
-L spider 122 0.000018 6
-L playboy 122 0.000018 7
-L spirit 121 0.000018 6
-L catherine 121 0.000018 9
-L betty 121 0.000018 5
-L wwf 121 0.000018 3
-L ann 120 0.000017 3
-L athena 120 0.000017 6
-L wlm 120 0.000017 3
-L hyp 120 0.000017 3
-L hjs 120 0.000017 3
-L sammy 119 0.000017 5
-L ruby 119 0.000017 4
-L ada 119 0.000017 3
-L manager 119 0.000017 7
-L sly 119 0.000017 3
-L dick 119 0.000017 4
-L kenny 118 0.000017 5
-L hawk 118 0.000017 4
-L thinkpad 118 0.000017 8
-L tyler 117 0.000017 5
-L jonathan 117 0.000017 8
-L london 116 0.000017 6
-L monster 116 0.000017 7
-L elizabeth 116 0.000017 9
-L great 116 0.000017 5
-L america 116 0.000017 7
-L kobebryant 116 0.000017 10
-L passion 115 0.000017 7
-L chelsea 115 0.000017 7
-L matt 115 0.000017 4
-L passport 115 0.000017 8
-L wsb 115 0.000017 3
-L lws 115 0.000017 3
-L dec 114 0.000017 3
-L asshole 114 0.000017 7
-L hellokitty 113 0.000016 10
-L sunflower 113 0.000016 9
-L online 113 0.000016 6
-L ronaldo 113 0.000016 7
-L eleven 113 0.000016 6
-L light 113 0.000016 5
-L write 112 0.000016 5
-L christ 111 0.000016 6
-L xxxxxx 111 0.000016 6
-L golden 111 0.000016 6
-L whp 111 0.000016 3
-L gogogogo 111 0.000016 8
-L scooter 110 0.000016 7
-L bruce 110 0.000016 5
-L january 110 0.000016 7
-L flash 110 0.000016 5
-L hit 110 0.000016 3
-L hawaii 109 0.000016 6
-L life 109 0.000016 4
-L sonic 109 0.000016 5
-L leslie 109 0.000016 6
-L smart 109 0.000016 5
-L usa 109 0.000016 3
-L lucifer 109 0.000016 7
-L ldc 109 0.000016 3
-L elephant 108 0.000016 8
-L bird 108 0.000016 4
-L victoria 108 0.000016 8
-L happiness 108 0.000016 9
-L cowboy 108 0.000016 6
-L one 108 0.000016 3
-L nirvana 108 0.000016 7
-L play 107 0.000016 4
-L pumpkin 107 0.000016 7
-L kitten 107 0.000016 6
-L amber 107 0.000016 5
-L dear 107 0.000016 4
-L book 107 0.000016 4
-L winston 106 0.000015 7
-L little 106 0.000015 6
-L birthday 106 0.000015 8
-L acer 106 0.000015 4
-L ssl 106 0.000015 3
-L llc 106 0.000015 3
-L pink 105 0.000015 4
-L dallas 105 0.000015 6
-L jesse 105 0.000015 5
-L dangerous 105 0.000015 9
-L only 105 0.000015 4
-L meteor 105 0.000015 6
-L sjc 105 0.000015 3
-L work 104 0.000015 4
-L school 104 0.000015 6
-L brian 104 0.000015 5
-L allan 104 0.000015 5
-L penguin 103 0.000015 7
-L server 103 0.000015 6
-L cocacola 103 0.000015 8
-L icecream 103 0.000015 8
-L wisdom 103 0.000015 6
-L pwd 103 0.000015 3
-L danielle 102 0.000015 8
-L bonnie 102 0.000015 6
-L pokemon 102 0.000015 7
-L peace 102 0.000015 5
-L swallow 102 0.000015 7
-L way 102 0.000015 3
-L teacher 102 0.000015 7
-L zoo 102 0.000015 3
-L forget 102 0.000015 6
-L chicago 101 0.000015 7
-L associatedcontent 101 0.000015 17
-L format 101 0.000015 6
-L gameover 101 0.000015 8
-L lbj 101 0.000015 3
-L goodgood 101 0.000015 8
-L wsp 101 0.000015 3
-L happyboy 101 0.000015 8
-L children 100 0.000015 8
-L sara 100 0.000015 4
-L windy 100 0.000015 5
-L harrypotter 100 0.000015 11
-L lst 100 0.000015 3
-L sydney 99 0.000014 6
-L midnight 99 0.000014 8
-L muffin 99 0.000014 6
-L river 99 0.000014 5
-L mandy 99 0.000014 5
-L bmw 99 0.000014 3
-L command 98 0.000014 7
-L miracle 98 0.000014 7
-L sex 98 0.000014 3
-L wcc 98 0.000014 3
-L answer 98 0.000014 6
-L dave 97 0.000014 4
-L vampire 97 0.000014 7
-L smokey 97 0.000014 6
-L steve 97 0.000014 5
-L dancer 97 0.000014 6
-L sugar 97 0.000014 5
-L simple 97 0.000014 6
-L gold 97 0.000014 4
-L hotmail 97 0.000014 7
-L mine 97 0.000014 4
-L kay 97 0.000014 3
-L dhl 97 0.000014 3
-L inter 97 0.000014 5
-L msn 97 0.000014 3
-L sabrina 96 0.000014 7
-L willow 96 0.000014 6
-L kyle 96 0.000014 4
-L miller 96 0.000014 6
-L cynthia 96 0.000014 7
-L rich 96 0.000014 4
-L cgh 96 0.000014 3
-L christian 95 0.000014 9
-L mail 95 0.000014 4
-L ihateyou 95 0.000014 8
-L cab 95 0.000014 3
-L champion 95 0.000014 8
-L forest 95 0.000014 6
-L shf 95 0.000014 3
-L hcj 95 0.000014 3
-L xsl 95 0.000014 3
-L cassie 94 0.000014 6
-L scott 94 0.000014 5
-L september 94 0.000014 9
-L casper 94 0.000014 6
-L ever 94 0.000014 4
-L jacob 94 0.000014 5
-L jade 94 0.000014 4
-L soft 94 0.000014 4
-L sql 94 0.000014 3
-L arthur 93 0.000014 6
-L easy 93 0.000014 4
-L bobby 93 0.000014 5
-L pretty 93 0.000014 6
-L albert 93 0.000014 6
-L bella 93 0.000014 5
-L hack 93 0.000014 4
-L lms 93 0.000014 3
-L dark 93 0.000014 4
-L capslock 93 0.000014 8
-L thy 93 0.000014 3
-L lgm 93 0.000014 3
-L xml 93 0.000014 3
-L dnf 93 0.000014 3
-L business 92 0.000013 8
-L nov 92 0.000013 3
-L ricky 92 0.000013 5
-L vic 92 0.000013 3
-L hgh 92 0.000013 3
-L lcp 92 0.000013 3
-L melissa 91 0.000013 7
-L maxwell 91 0.000013 7
-L shit 91 0.000013 4
-L office 91 0.000013 6
-L sniper 91 0.000013 6
-L just 91 0.000013 4
-L roc 91 0.000013 3
-L myl 91 0.000013 3
-L along 91 0.000013 5
-L verygood 91 0.000013 8
-L huangjun 91 0.000013 8
-L cmy 91 0.000013 3
-L trinity 90 0.000013 7
-L justice 90 0.000013 7
-L player 90 0.000013 6
-L start 90 0.000013 5
-L warcraft 90 0.000013 8
-L well 90 0.000013 4
-L javascript 90 0.000013 10
-L wap 90 0.000013 3
-L cash 89 0.000013 4
-L sue 89 0.000013 3
-L arsenal 89 0.000013 7
-L liverpool 89 0.000013 9
-L gabriel 89 0.000013 7
-L murphy 89 0.000013 6
-L login 89 0.000013 5
-L turtle 88 0.000013 6
-L jasper 88 0.000013 6
-L zachary 88 0.000013 7
-L sapphire 88 0.000013 8
-L precious 88 0.000013 8
-L tree 88 0.000013 4
-L asp 88 0.000013 3
-L kelvin 88 0.000013 6
-L passpass 88 0.000013 8
-L air 88 0.000013 3
-L merlin 87 0.000013 6
-L stupid 87 0.000013 6
-L feb 87 0.000013 3
-L dreamer 87 0.000013 7
-L carter 87 0.000013 6
-L window 87 0.000013 6
-L add 87 0.000013 3
-L napoleon 87 0.000013 8
-L include 87 0.000013 7
-L lhd 87 0.000013 3
-L falcon 86 0.000012 6
-L abb 86 0.000012 3
-L benny 86 0.000012 5
-L carol 86 0.000012 5
-L duck 86 0.000012 4
-L weblogic 86 0.000012 8
-L clx 86 0.000012 3
-L boston 85 0.000012 6
-L louise 85 0.000012 6
-L fuckfuck 85 0.000012 8
-L judy 85 0.000012 4
-L garfield 85 0.000012 8
-L spiderman 85 0.000012 9
-L silence 85 0.000012 7
-L cinderella 85 0.000012 10
-L kent 85 0.000012 4
-L hockey 84 0.000012 6
-L sexy 84 0.000012 4
-L compaq 84 0.000012 6
-L ethan 84 0.000012 5
-L people 84 0.000012 6
-L louis 84 0.000012 5
-L creative 84 0.000012 8
-L elijah 84 0.000012 6
-L ssssss 84 0.000012 6
-L wonder 84 0.000012 6
-L carl 84 0.000012 4
-L csb 84 0.000012 3
-L mlf 84 0.000012 3
-L ctt 84 0.000012 3
-L dexter 83 0.000012 6
-L wizard 83 0.000012 6
-L venus 83 0.000012 5
-L joey 83 0.000012 4
-L felix 83 0.000012 5
-L double 83 0.000012 6
-L nic 83 0.000012 3
-L foxconn 83 0.000012 7
-L poohbear 82 0.000012 8
-L evan 82 0.000012 4
-L goddess 82 0.000012 7
-L florida 82 0.000012 7
-L shorty 82 0.000012 6
-L maverick 82 0.000012 8
-L year 82 0.000012 4
-L mommy 82 0.000012 5
-L cooper 82 0.000012 6
-L sheep 82 0.000012 5
-L white 82 0.000012 5
-L leaf 82 0.000012 4
-L wert 82 0.000012 4
-L cherish 82 0.000012 7
-L iris 82 0.000012 4
-L csf 82 0.000012 3
-L never 81 0.000012 5
-L sept 81 0.000012 4
-L williams 81 0.000012 8
-L bingo 81 0.000012 5
-L hotdog 81 0.000012 6
-L kathy 81 0.000012 5
-L stanley 81 0.000012 7
-L butter 81 0.000012 6
-L girl 81 0.000012 4
-L darling 81 0.000012 7
-L bamboo 81 0.000012 6
-L wdm 81 0.000012 3
-L brandy 80 0.000012 6
-L tiffany 80 0.000012 7
-L sherlock 80 0.000012 8
-L joker 80 0.000012 5
-L look 80 0.000012 4
-L ccs 80 0.000012 3
-L clover 79 0.000011 6
-L tennis 79 0.000011 6
-L monday 79 0.000011 6
-L jean 79 0.000011 4
-L rocket 79 0.000011 6
-L happyhappy 79 0.000011 10
-L what 79 0.000011 4
-L lonely 79 0.000011 6
-L sad 79 0.000011 3
-L seed 79 0.000011 4
-L study 79 0.000011 5
-L west 78 0.000011 4
-L liberty 78 0.000011 7
-L tomato 78 0.000011 6
-L oct 78 0.000011 3
-L norman 78 0.000011 6
-L goldfish 78 0.000011 8
-L father 78 0.000011 6
-L ustc 78 0.000011 4
-L sin 78 0.000011 3
-L cad 78 0.000011 3
-L wwwwwwwww 78 0.000011 9
-L eddie 77 0.000011 5
-L horse 77 0.000011 5
-L testing 77 0.000011 7
-L nintendo 77 0.000011 8
-L intel 77 0.000011 5
-L link 77 0.000011 4
-L dsl 77 0.000011 3
-L comer 77 0.000011 5
-L gracie 76 0.000011 6
-L pisces 76 0.000011 6
-L makemoney 76 0.000011 9
-L cookies 76 0.000011 7
-L panther 76 0.000011 7
-L toby 76 0.000011 4
-L wood 76 0.000011 4
-L first 76 0.000011 5
-L yesterday 76 0.000011 9
-L day 76 0.000011 3
-L virgo 75 0.000011 5
-L friday 75 0.000011 6
-L libra 75 0.000011 5
-L veronica 75 0.000011 8
-L isaiah 75 0.000011 6
-L bigdaddy 75 0.000011 8
-L memory 75 0.000011 6
-L motorola 75 0.000011 8
-L war 75 0.000011 3
-L auto 75 0.000011 4
-L snail 75 0.000011 5
-L wps 75 0.000011 3
-L phantom 74 0.000011 7
-L abby 74 0.000011 4
-L sierra 74 0.000011 6
-L larry 74 0.000011 5
-L penny 74 0.000011 5
-L strong 74 0.000011 6
-L cmh 74 0.000011 3
-L shawn 74 0.000011 5
-L bryant 74 0.000011 6
-L makelove 74 0.000011 8
-L hdl 74 0.000011 3
-L honda 73 0.000011 5
-L bright 73 0.000011 6
-L kingdom 73 0.000011 7
-L mountain 73 0.000011 8
-L popcorn 73 0.000011 7
-L fucker 73 0.000011 6
-L franklin 73 0.000011 8
-L kisskiss 73 0.000011 8
-L shh 73 0.000011 3
-L lam 73 0.000011 3
-L clc 73 0.000011 3
-L kissyou 73 0.000011 7
-L kingsoft 73 0.000011 8
-L andrea 72 0.000010 6
-L shelly 72 0.000010 6
-L solomon 72 0.000010 7
-L savannah 72 0.000010 8
-L chloe 72 0.000010 5
-L rick 72 0.000010 4
-L josh 72 0.000010 4
-L ladybug 72 0.000010 7
-L single 72 0.000010 6
-L mini 72 0.000010 4
-L logitech 72 0.000010 8
-L nina 72 0.000010 4
-L unique 72 0.000010 6
-L javajava 72 0.000010 8
-L ibm 72 0.000010 3
-L fairy 71 0.000010 5
-L lionking 71 0.000010 8
-L dodo 71 0.000010 4
-L timothy 70 0.000010 7
-L shark 70 0.000010 5
-L wesley 70 0.000010 6
-L please 70 0.000010 6
-L world 70 0.000010 5
-L soul 70 0.000010 4
-L serenity 70 0.000010 8
-L iii 70 0.000010 3
-L connie 70 0.000010 6
-L mar 70 0.000010 3
-L acd 70 0.000010 3
-L wenjun 70 0.000010 6
-L mercury 69 0.000010 7
-L fluffy 69 0.000010 6
-L mydream 69 0.000010 7
-L design 69 0.000010 6
-L showtime 69 0.000010 8
-L the 69 0.000010 3
-L rex 69 0.000010 3
-L diana 69 0.000010 5
-L dawn 69 0.000010 4
-L romantic 69 0.000010 8
-L loveforever 69 0.000010 11
-L down 69 0.000010 4
-L autoexec 69 0.000010 8
-L cancer 68 0.000010 6
-L onelove 68 0.000010 7
-L rush 68 0.000010 4
-L gateway 68 0.000010 7
-L sword 68 0.000010 5
-L brittany 68 0.000010 8
-L sister 68 0.000010 6
-L noah 68 0.000010 4
-L spencer 68 0.000010 7
-L moonlight 68 0.000010 9
-L universe 68 0.000010 8
-L hlf 68 0.000010 3
-L engineer 68 0.000010 8
-L dll 68 0.000010 3
-L jam 68 0.000010 3
-L tty 68 0.000010 3
-L casey 67 0.000010 5
-L archer 67 0.000010 6
-L access 67 0.000010 6
-L copper 67 0.000010 6
-L frenzy 67 0.000010 6
-L bluebird 67 0.000010 8
-L appleapple 67 0.000010 10
-L question 67 0.000010 8
-L truelove 67 0.000010 8
-L pentium 67 0.000010 7
-L sorry 67 0.000010 5
-L east 67 0.000010 4
-L index 67 0.000010 5
-L mayday 67 0.000010 6
-L explorer 67 0.000010 8
-L wto 67 0.000010 3
-L digital 66 0.000010 7
-L bunny 66 0.000010 5
-L tinkerbell 66 0.000010 10
-L sweety 66 0.000010 6
-L iceman 66 0.000010 6
-L mango 66 0.000010 5
-L gordon 66 0.000010 6
-L sweetie 66 0.000010 7
-L lightning 66 0.000010 9
-L saber 66 0.000010 5
-L babydoll 66 0.000010 8
-L born 66 0.000010 4
-L shm 66 0.000010 3
-L lcd 66 0.000010 3
-L wdp 66 0.000010 3
-L comeonbaby 66 0.000010 10
-L aquarius 65 0.000009 8
-L poop 65 0.000009 4
-L marcus 65 0.000009 6
-L lincoln 65 0.000009 7
-L fisher 65 0.000009 6
-L luna 65 0.000009 4
-L private 65 0.000009 7
-L loving 65 0.000009 6
-L starstar 65 0.000009 8
-L sunlight 65 0.000009 8
-L yvonne 65 0.000009 6
-L morning 65 0.000009 7
-L yeah 65 0.000009 4
-L gyp 65 0.000009 3
-L mvp 65 0.000009 3
-L donkey 64 0.000009 6
-L swordfish 64 0.000009 9
-L brooklyn 64 0.000009 8
-L holly 64 0.000009 5
-L aug 64 0.000009 3
-L snowball 64 0.000009 8
-L network 64 0.000009 7
-L softball 64 0.000009 8
-L cdd 64 0.000009 3
-L starcraft 64 0.000009 9
-L ash 64 0.000009 3
-L batistuta 64 0.000009 9
-L ccm 64 0.000009 3
-L anycall 64 0.000009 7
-L weijun 64 0.000009 6
-L yanjun 64 0.000009 6
-L ingtake 64 0.000009 7
-L carrie 63 0.000009 6
-L trouble 63 0.000009 7
-L nascar 63 0.000009 6
-L poetry 63 0.000009 6
-L security 63 0.000009 8
-L ring 63 0.000009 4
-L voodoo 63 0.000009 6
-L squall 63 0.000009 6
-L toyota 63 0.000009 6
-L india 63 0.000009 5
-L hans 63 0.000009 4
-L flyinsky 63 0.000009 8
-L laser 62 0.000009 5
-L chevy 62 0.000009 5
-L buddha 62 0.000009 6
-L scorpion 62 0.000009 8
-L thinking 62 0.000009 8
-L tucker 62 0.000009 6
-L delta 62 0.000009 5
-L walter 62 0.000009 6
-L eugene 62 0.000009 6
-L texas 62 0.000009 5
-L jamesbond 62 0.000009 9
-L hill 62 0.000009 4
-L canada 62 0.000009 6
-L loveless 62 0.000009 8
-L spy 62 0.000009 3
-L ccw 62 0.000009 3
-L jcl 62 0.000009 3
-L wdc 62 0.000009 3
-L sassy 61 0.000009 5
-L slipknot 61 0.000009 8
-L vision 61 0.000009 6
-L ireland 61 0.000009 7
-L marvin 61 0.000009 6
-L jupiter 61 0.000009 7
-L college 61 0.000009 7
-L million 61 0.000009 7
-L today 61 0.000009 5
-L shane 61 0.000009 5
-L pakistan 61 0.000009 8
-L eclipse 61 0.000009 7
-L jazz 61 0.000009 4
-L aries 61 0.000009 5
-L toshiba 61 0.000009 7
-L irene 61 0.000009 5
-L class 61 0.000009 5
-L wingzero 61 0.000009 8
-L freeman 61 0.000009 7
-L was 61 0.000009 3
-L andyandy 61 0.000009 8
-L lewis 61 0.000009 5
-L sty 61 0.000009 3
-L confidence 61 0.000009 10
-L wpc 61 0.000009 3
-L catdog 60 0.000009 6
-L barney 60 0.000009 6
-L better 60 0.000009 6
-L blizzard 60 0.000009 8
-L disney 60 0.000009 6
-L saint 60 0.000009 5
-L xavier 60 0.000009 6
-L believe 60 0.000009 7
-L a 79400 0.011537 1
-L dearbook 46149 0.006706 8
-L qq 33325 0.004842 2
-L aa 24899 0.003618 2
-L abc 22155 0.003219 3
-L q 15182 0.002206 1
-L z 12830 0.001864 1
-L w 11007 0.001599 1
-L asd 10909 0.001585 3
-L abcd 9779 0.001421 4
-L qwer 9291 0.001350 4
-L li 7964 0.001157 2
-L aaa 7727 0.001123 3
-L l 6756 0.000982 1
-L qwe 6749 0.000981 3
-L s 6633 0.000964 1
-L as 6534 0.000949 2
-L x 6191 0.000900 1
-L ab 6099 0.000886 2
-L qazwsx 5803 0.000843 6
-L aaaaaaaa 5551 0.000807 8
-L A 5442 0.000791 1
-L zz 5081 0.000738 2
-L zx 4934 0.000717 2
-L qaz 4841 0.000703 3
-L asdf 4833 0.000702 4
-L yy 4800 0.000697 2
-L c 4480 0.000651 1
-L ly 4360 0.000634 2
-L csdn 4286 0.000623 4
-L zy 4116 0.000598 2
-L ww 4028 0.000585 2
-L y 3840 0.000558 1
-L h 3750 0.000545 1
-L qw 3728 0.000542 2
-L zxc 3723 0.000541 3
-L yu 3710 0.000539 2
-L mm 3682 0.000535 2
-L cc 3563 0.000518 2
-L qwertyuiop 3555 0.000517 10
-L ll 3528 0.000513 2
-L b 3396 0.000493 1
-L xx 3350 0.000487 2
-L m 3347 0.000486 1
-L qqqqqqqq 3346 0.000486 8
-L asdfghjkl 3314 0.000482 9
-L zj 3096 0.000450 2
-L zl 3023 0.000439 2
-L lj 3012 0.000438 2
-L qazwsxedc 2910 0.000423 9
-L f 2856 0.000415 1
-L wy 2804 0.000407 2
-L ss 2799 0.000407 2
-L wu 2749 0.000399 2
-L zh 2691 0.000391 2
-L wj 2683 0.000390 2
-L qwert 2679 0.000389 5
-L aaaa 2678 0.000389 4
-L d 2658 0.000386 1
-L ok 2572 0.000374 2
-L xy 2570 0.000373 2
-L qqq 2516 0.000366 3
-L wo 2505 0.000364 2
-L QQ 2467 0.000358 2
-L xu 2465 0.000358 2
-L zxcvbnm 2440 0.000355 7
-L k 2404 0.000349 1
-L asdasdasd 2333 0.000339 9
-L g 2331 0.000339 1
-L jj 2326 0.000338 2
-L cs 2258 0.000328 2
-L hu 2250 0.000327 2
-L bb 2249 0.000327 2
-L wl 2166 0.000315 2
-L j 2161 0.000314 1
-L lx 2148 0.000312 2
-L p 2147 0.000312 1
-L qqqq 2113 0.000307 4
-L t 2100 0.000305 1
-L qwertyui 2084 0.000303 8
-L asdfasdf 2075 0.000302 8
-L wq 2050 0.000298 2
-L hy 1999 0.000290 2
-L tt 1991 0.000289 2
-L pp 1954 0.000284 2
-L zw 1950 0.000283 2
-L zc 1940 0.000282 2
-L dd 1905 0.000277 2
-L kk 1904 0.000277 2
-L ma 1899 0.000276 2
-L sd 1891 0.000275 2
-L hh 1879 0.000273 2
-L AA 1843 0.000268 2
-L ws 1837 0.000267 2
-L ABC 1818 0.000264 3
-L zq 1790 0.000260 2
-L wx 1749 0.000254 2
-L qweasd 1737 0.000252 6
-L lh 1727 0.000251 2
-L admin 1686 0.000245 5
-L yj 1674 0.000243 2
-L wh 1658 0.000241 2
-L cy 1642 0.000239 2
-L hj 1633 0.000237 2
-L qweasdzxc 1628 0.000237 9
-L lc 1622 0.000236 2
-L ai 1591 0.000231 2
-L my 1581 0.000230 2
-L ch 1564 0.000227 2
-L lb 1557 0.000226 2
-L cj 1548 0.000225 2
-L xyz 1542 0.000224 3
-L sy 1542 0.000224 2
-L abcde 1534 0.000223 5
-L he 1529 0.000222 2
-L jy 1513 0.000220 2
-L lp 1490 0.000217 2
-L lq 1481 0.000215 2
-L lw 1476 0.000214 2
-L lz 1469 0.000213 2
-L lu 1416 0.000206 2
-L ff 1414 0.000205 2
-L ls 1406 0.000204 2
-L cx 1405 0.000204 2
-L az 1391 0.000202 2
-L yl 1374 0.000200 2
-L o 1369 0.000199 1
-L lm 1360 0.000198 2
-L cl 1352 0.000196 2
-L qazxsw 1349 0.000196 6
-L xj 1335 0.000194 2
-L xl 1325 0.000193 2
-L yh 1320 0.000192 2
-L ty 1319 0.000192 2
-L zb 1304 0.000189 2
-L sj 1283 0.000186 2
-L msjxj 1268 0.000184 5
-L zzzzzzzz 1265 0.000184 8
-L zzz 1265 0.000184 3
-L wz 1253 0.000182 2
-L zs 1245 0.000181 2
-L gg 1241 0.000180 2
-L qweqweqwe 1227 0.000178 9
-L zm 1196 0.000174 2
-L com 1189 0.000173 3
-L jack 1183 0.000172 4
-L zf 1178 0.000171 2
-L lf 1174 0.000171 2
-L sz 1171 0.000170 2
-L wf 1165 0.000169 2
-L lk 1161 0.000169 2
-L hl 1154 0.000168 2
-L sl 1147 0.000167 2
-L sh 1128 0.000164 2
-L wd 1127 0.000164 2
-L asdfghjk 1100 0.000160 8
-L wc 1093 0.000159 2
-L zp 1069 0.000155 2
-L ac 1040 0.000151 2
-L dj 1030 0.000150 2
-L e 1030 0.000150 1
-L xz 1029 0.000150 2
-L wb 1020 0.000148 2
-L zxcv 1017 0.000148 4
-L lg 1011 0.000147 2
-L Q 1008 0.000146 1
-L gy 1000 0.000145 2
-L asdasd 999 0.000145 6
-L yc 987 0.000143 2
-L yf 984 0.000143 2
-L cz 978 0.000142 2
-L r 977 0.000142 1
-L zt 962 0.000140 2
-L sw 951 0.000138 2
-L yx 944 0.000137 2
-L xc 940 0.000137 2
-L wt 939 0.000136 2
-L Aa 938 0.000136 2
-L wp 933 0.000136 2
-L ad 930 0.000135 2
-L zk 924 0.000134 2
-L xh 921 0.000134 2
-L lt 920 0.000134 2
-L cd 918 0.000133 2
-L gh 914 0.000133 2
-L asdfg 913 0.000133 5
-L ye 906 0.000132 2
-L oo 894 0.000130 2
-L kingcom 894 0.000130 7
-L yz 876 0.000127 2
-L hb 875 0.000127 2
-L zxy 868 0.000126 3
-L wwwwwwww 867 0.000126 8
-L qwaszx 855 0.000124 6
-L yt 852 0.000124 2
-L xf 849 0.000123 2
-L zxl 848 0.000123 3
-L hx 839 0.000122 2
-L wm 834 0.000121 2
-L wk 833 0.000121 2
-L sc 830 0.000121 2
-L zhy 823 0.000120 3
-L lxy 823 0.000120 3
-L qweqwe 811 0.000118 6
-L st 806 0.000117 2
-L ld 805 0.000117 2
-L sx 801 0.000116 2
-L jk 800 0.000116 2
-L google 800 0.000116 6
-L W 798 0.000116 1
-L xm 792 0.000115 2
-L abcdef 791 0.000115 6
-L su 790 0.000115 2
-L n 783 0.000114 1
-L lilylily 780 0.000113 8
-L Z 778 0.000113 1
-L ABCD 778 0.000113 4
-L tj 772 0.000112 2
-L ml 767 0.000111 2
-L sa 767 0.000111 2
-L mn 766 0.000111 2
-L ds 765 0.000111 2
-L cn 765 0.000111 2
-L ys 765 0.000111 2
-L fy 759 0.000110 2
-L xp 759 0.000110 2
-L sb 756 0.000110 2
-L aaaaaa 752 0.000109 6
-L jh 752 0.000109 2
-L dy 746 0.000108 2
-L xw 745 0.000108 2
-L dl 736 0.000107 2
-L mj 735 0.000107 2
-L cq 732 0.000106 2
-L shmily 731 0.000106 6
-L yb 731 0.000106 2
-L cf 729 0.000106 2
-L abcabc 722 0.000105 6
-L abcdefg 719 0.000104 7
-L jl 714 0.000104 2
-L zd 713 0.000104 2
-L lyh 710 0.000103 3
-L an 706 0.000103 2
-L sq 706 0.000103 2
-L xq 706 0.000103 2
-L qqcom 705 0.000102 5
-L cw 702 0.000102 2
-L ak 695 0.000101 2
-L lxl 692 0.000101 3
-L hf 685 0.000100 2
-L hw 680 0.000099 2
-L lll 677 0.000098 3
-L gj 674 0.000098 2
-L fu 673 0.000098 2
-L ck 672 0.000098 2
-L gl 672 0.000098 2
-L zzy 672 0.000098 3
-L ASD 668 0.000097 3
-L ffffffff 668 0.000097 8
-L cb 667 0.000097 2
-L lv 664 0.000096 2
-L L 663 0.000096 1
-L hk 663 0.000096 2
-L hz 662 0.000096 2
-L lzy 659 0.000096 3
-L dg 654 0.000095 2
-L wxy 653 0.000095 3
-L xb 652 0.000095 2
-L dx 644 0.000094 2
-L ljh 643 0.000093 3
-L yq 639 0.000093 2
-L fj 634 0.000092 2
-L ssssssss 633 0.000092 8
-L kl 630 0.000092 2
-L dh 630 0.000092 2
-L goodluck 623 0.000091 8
-L df 622 0.000090 2
-L hs 622 0.000090 2
-L js 622 0.000090 2
-L AAA 622 0.000090 3
-L csdncsdn 621 0.000090 8
-L i 618 0.000090 1
-L WANG 618 0.000090 4
-L v 614 0.000089 1
-L X 612 0.000089 1
-L ht 611 0.000089 2
-L cm 610 0.000089 2
-L jason 610 0.000089 5
-L lzh 608 0.000088 3
-L gf 606 0.000088 2
-L zaqwsx 604 0.000088 6
-L zzh 604 0.000088 3
-L tl 599 0.000087 2
-L zyh 599 0.000087 3
-L hc 597 0.000087 2
-L wa 596 0.000087 2
-L yw 596 0.000087 2
-L lyj 593 0.000086 3
-L xt 592 0.000086 2
-L qwerasdf 591 0.000086 8
-L yi 590 0.000086 2
-L ym 589 0.000086 2
-L alex 584 0.000085 4
-L qa 583 0.000085 2
-L jx 582 0.000085 2
-L lyf 581 0.000084 3
-L zyj 579 0.000084 3
-L ln 576 0.000084 2
-L AB 575 0.000084 2
-L xs 574 0.000083 2
-L abcdefgh 573 0.000083 8
-L bj 569 0.000083 2
-L aq 567 0.000082 2
-L zjh 566 0.000082 3
-L wg 566 0.000082 2
-L gx 562 0.000082 2
-L hp 559 0.000081 2
-L zyl 559 0.000081 3
-L zhj 557 0.000081 3
-L lyl 554 0.000080 3
-L zaq 550 0.000080 3
-L ljy 549 0.000080 3
-L qazqaz 548 0.000080 6
-L yk 547 0.000079 2
-L gu 545 0.000079 2
-L LI 544 0.000079 2
-L du 543 0.000079 2
-L zyf 543 0.000079 3
-L zhl 537 0.000078 3
-L lhy 537 0.000078 3
-L sk 535 0.000078 2
-L dc 534 0.000078 2
-L ljj 534 0.000078 3
-L zjl 533 0.000077 3
-L sf 532 0.000077 2
-L sm 530 0.000077 2
-L yyy 529 0.000077 3
-L dddddddd 528 0.000077 8
-L zxczxczxc 527 0.000077 9
-L LIU 524 0.000076 3
-L ms 522 0.000076 2
-L qi 521 0.000076 2
-L S 518 0.000075 1
-L tc 517 0.000075 2
-L zyy 516 0.000075 3
-L asdfgh 511 0.000074 6
-L QWER 509 0.000074 4
-L wwww 509 0.000074 4
-L me 508 0.000074 2
-L wxl 508 0.000074 3
-L lyy 508 0.000074 3
-L pl 507 0.000074 2
-L hq 507 0.000074 2
-L xd 506 0.000074 2
-L zjj 506 0.000074 3
-L wzy 504 0.000073 3
-L lxj 503 0.000073 3
-L aaaaaaaaa 503 0.000073 9
-L sr 502 0.000073 2
-L zxj 500 0.000073 3
-L nn 499 0.000073 2
-L lxh 496 0.000072 3
-L zxh 491 0.000071 3
-L zjy 490 0.000071 3
-L jm 488 0.000071 2
-L qy 487 0.000071 2
-L mylove 484 0.000070 6
-L by 482 0.000070 2
-L sp 481 0.000070 2
-L zyx 479 0.000070 3
-L dw 478 0.000069 2
-L lijun 478 0.000069 5
-L xxxxxxxx 474 0.000069 8
-L zxf 472 0.000069 3
-L jw 471 0.000068 2
-L pk 471 0.000068 2
-L ljl 471 0.000068 3
-L hm 469 0.000068 2
-L we 469 0.000068 2
-L zxd 467 0.000068 3
-L wzh 466 0.000068 3
-L zn 461 0.000067 2
-L cp 460 0.000067 2
-L wjj 460 0.000067 3
-L zzx 459 0.000067 3
-L ZHANG 458 0.000067 5
-L wyl 457 0.000066 3
-L LOVE 457 0.000066 4
-L oooo 456 0.000066 4
-L zr 456 0.000066 2
-L cg 453 0.000066 2
-L zzzz 451 0.000066 4
-L ji 451 0.000066 2
-L jc 449 0.000065 2
-L wyj 449 0.000065 3
-L gz 448 0.000065 2
-L th 445 0.000065 2
-L py 444 0.000065 2
-L da 444 0.000065 2
-L csdnnet 444 0.000065 7
-L wjh 443 0.000064 3
-L jkl 442 0.000064 3
-L fl 442 0.000064 2
-L lyq 441 0.000064 3
-L zzq 440 0.000064 3
-L QWE 439 0.000064 3
-L zg 439 0.000064 2
-L aptx 438 0.000064 4
-L jb 436 0.000063 2
-L aaaaa 436 0.000063 5
-L ct 435 0.000063 2
-L wyh 434 0.000063 3
-L ljx 433 0.000063 3
-L ft 432 0.000063 2
-L bo 431 0.000063 2
-L aA 431 0.000063 2
-L zzj 430 0.000062 3
-L aaaaaaaaaa 429 0.000062 10
-L lsy 429 0.000062 3
-L fc 427 0.000062 2
-L fx 427 0.000062 2
-L lzj 427 0.000062 3
-L zxm 427 0.000062 3
-L ljw 425 0.000062 3
-L wjy 425 0.000062 3
-L lr 424 0.000062 2
-L hg 424 0.000062 2
-L lxf 424 0.000062 3
-L zyc 423 0.000061 3
-L fa 421 0.000061 2
-L zyq 420 0.000061 3
-L gs 419 0.000061 2
-L ljb 419 0.000061 3
-L fs 416 0.000060 2
-L hd 413 0.000060 2
-L gw 413 0.000060 2
-L tx 412 0.000060 2
-L gb 412 0.000060 2
-L chris 410 0.000060 5
-L jz 410 0.000060 2
-L op 410 0.000060 2
-L lyx 409 0.000059 3
-L zhb 408 0.000059 3
-L yp 408 0.000059 2
-L wr 407 0.000059 2
-L ljf 407 0.000059 3
-L yg 405 0.000059 2
-L lwj 405 0.000059 3
-L lzq 402 0.000058 3
-L lyc 402 0.000058 3
-L cat 401 0.000058 3
-L lcy 401 0.000058 3
-L loveme 400 0.000058 6
-L AS 398 0.000058 2
-L lyz 398 0.000058 3
-L wyf 398 0.000058 3
-L wyq 398 0.000058 3
-L lxm 396 0.000058 3
-L QAZ 396 0.000058 3
-L db 393 0.000057 2
-L cxy 393 0.000057 3
-L zsj 392 0.000057 3
-L vv 391 0.000057 2
-L zsy 391 0.000057 3
-L mc 390 0.000057 2
-L QWERTYUIOP 389 0.000057 10
-L wxj 389 0.000057 3
-L zjw 387 0.000056 3
-L QAZWSX 385 0.000056 6
-L sn 382 0.000056 2
-L psswrd 380 0.000055 6
-L pc 380 0.000055 2
-L ee 380 0.000055 2
-L jf 379 0.000055 2
-L zwj 379 0.000055 3
-L wjl 378 0.000055 3
-L Psswrd 375 0.000054 6
-L pj 375 0.000054 2
-L mo 375 0.000054 2
-L sg 375 0.000054 2
-L YY 375 0.000054 2
-L zxx 374 0.000054 3
-L qj 374 0.000054 2
-L hhh 372 0.000054 3
-L CHEN 371 0.000054 4
-L zjf 370 0.000054 3
-L gc 369 0.000054 2
-L ZZ 368 0.000053 2
-L zzl 367 0.000053 3
-L ts 366 0.000053 2
-L newhappy 366 0.000053 8
-L qz 366 0.000053 2
-L wn 365 0.000053 2
-L fh 364 0.000053 2
-L wxf 364 0.000053 3
-L lzx 364 0.000053 3
-L qazxswedc 363 0.000053 9
-L hxy 363 0.000053 3
-L dz 362 0.000053 2
-L Password 362 0.000053 8
-L xk 362 0.000053 2
-L zxw 362 0.000053 3
-L nj 361 0.000052 2
-L lsh 360 0.000052 3
-L lovelove 358 0.000052 8
-L maggie 355 0.000052 6
-L lzl 355 0.000052 3
-L william 354 0.000051 7
-L dk 354 0.000051 2
-L gm 354 0.000051 2
-L ql 354 0.000051 2
-L lhl 354 0.000051 3
-L hyj 353 0.000051 3
-L tw 352 0.000051 2
-L AAAAAAAA 352 0.000051 8
-L wiiidsE 351 0.000051 7
-L passwrd 350 0.000051 7
-L wyy 348 0.000051 3
-L yd 348 0.000051 2
-L hn 347 0.000050 2
-L za 347 0.000050 2
-L H 347 0.000050 1
-L chy 347 0.000050 3
-L wasd 344 0.000050 4
-L lsj 344 0.000050 3
-L zll 344 0.000050 3
-L qqqqqq 343 0.000050 6
-L lhb 343 0.000050 3
-L lhj 343 0.000050 3
-L mx 343 0.000050 2
-L zxq 343 0.000050 3
-L LY 342 0.000050 2
-L qazqazqaz 340 0.000049 9
-L fq 339 0.000049 2
-L gq 338 0.000049 2
-L zcy 338 0.000049 3
-L mz 337 0.000049 2
-L steven 336 0.000049 6
-L asdfjkl 335 0.000049 7
-L wxh 335 0.000049 3
-L jt 334 0.000049 2
-L aabb 334 0.000049 4
-L xg 334 0.000049 2
-L wsh 333 0.000048 3
-L whj 333 0.000048 3
-L wwj 333 0.000048 3
-L rr 332 0.000048 2
-L zjx 332 0.000048 3
-L wxm 331 0.000048 3
-L lxd 331 0.000048 3
-L jp 330 0.000048 2
-L lyb 330 0.000048 3
-L wyx 329 0.000048 3
-L zxcvb 328 0.000048 5
-L hjh 328 0.000048 3
-L Y 327 0.000048 1
-L zlj 327 0.000048 3
-L zzw 327 0.000048 3
-L czy 327 0.000048 3
-L tk 326 0.000047 2
-L ni 326 0.000047 2
-L B 325 0.000047 1
-L qs 325 0.000047 2
-L zxb 325 0.000047 3
-L dq 321 0.000047 2
-L al 320 0.000046 2
-L tf 320 0.000046 2
-L YANG 318 0.000046 4
-L lys 318 0.000046 3
-L WW 317 0.000046 2
-L xxxx 316 0.000046 4
-L ya 316 0.000046 2
-L zcl 316 0.000046 3
-L wxd 315 0.000046 3
-L dt 314 0.000046 2
-L wzj 314 0.000046 3
-L wwwcom 313 0.000045 6
-L zhangjun 313 0.000045 8
-L ooo 312 0.000045 3
-L ap 312 0.000045 2
-L asas 312 0.000045 4
-L wsy 312 0.000045 3
-L C 311 0.000045 1
-L ba 310 0.000045 2
-L zyz 310 0.000045 3
-L whl 309 0.000045 3
-L hjj 309 0.000045 3
-L wjf 309 0.000045 3
-L yyh 308 0.000045 3
-L kj 307 0.000045 2
-L hyl 306 0.000044 3
-L cyj 306 0.000044 3
-L ppp 305 0.000044 3
-L u 304 0.000044 1
-L ljc 303 0.000044 3
-L qwqw 301 0.000044 4
-L wsx 301 0.000044 3
-L lyp 301 0.000044 3
-L mh 300 0.000044 2
-L LL 300 0.000044 2
-L yhy 300 0.000044 3
-L ASDF 300 0.000044 4
-L liujun 300 0.000044 6
-L ha 299 0.000043 2
-L ljm 299 0.000043 3
-L cxl 299 0.000043 3
-L yzh 299 0.000043 3
-L whb 299 0.000043 3
-L hyh 299 0.000043 3
-L hr 298 0.000043 2
-L F 298 0.000043 1
-L michelle 297 0.000043 8
-L gt 297 0.000043 2
-L M 297 0.000043 1
-L ily 296 0.000043 3
-L fz 296 0.000043 2
-L cyy 296 0.000043 3
-L yxy 296 0.000043 3
-L justin 294 0.000043 6
-L gp 294 0.000043 2
-L zyp 294 0.000043 3
-L lzw 293 0.000043 3
-L wzx 293 0.000043 3
-L qx 291 0.000042 2
-L ZX 291 0.000042 2
-L dm 290 0.000042 2
-L fd 290 0.000042 2
-L zzc 290 0.000042 3
-L ljq 290 0.000042 3
-L zly 289 0.000042 3
-L wzq 289 0.000042 3
-L ps 288 0.000042 2
-L pw 288 0.000042 2
-L tz 288 0.000042 2
-L cyh 288 0.000042 3
-L wjx 288 0.000042 3
-L lch 287 0.000042 3
-L zjm 287 0.000042 3
-L gd 286 0.000042 2
-L ph 286 0.000042 2
-L tb 285 0.000041 2
-L zxz 285 0.000041 3
-L WOAINI 285 0.000041 6
-L bc 284 0.000041 2
-L zch 283 0.000041 3
-L mmmmmmmm 282 0.000041 8
-L qqqqq 282 0.000041 5
-L zsh 282 0.000041 3
-L zhq 282 0.000041 3
-L hxl 282 0.000041 3
-L yxl 282 0.000041 3
-L lsl 281 0.000041 3
-L zcx 281 0.000041 3
-L zys 281 0.000041 3
-L letmein 280 0.000041 7
-L zhh 280 0.000041 3
-L asasasas 279 0.000041 8
-L llllllll 279 0.000041 8
-L lxc 279 0.000041 3
-L zhw 279 0.000041 3
-L lxq 279 0.000041 3
-L zym 279 0.000041 3
-L wyc 279 0.000041 3
-L G 278 0.000040 1
-L tm 278 0.000040 2
-L ASDFGHJKL 278 0.000040 9
-L fb 277 0.000040 2
-L lym 277 0.000040 3
-L imissyou 276 0.000040 8
-L joe 275 0.000040 3
-L ZY 275 0.000040 2
-L simon 274 0.000040 5
-L zxcvbn 273 0.000040 6
-L zaqxsw 273 0.000040 6
-L fw 273 0.000040 2
-L wxw 273 0.000040 3
-L hjl 272 0.000040 3
-L zjc 272 0.000040 3
-L pb 271 0.000039 2
-L ssss 271 0.000039 4
-L lxw 271 0.000039 3
-L sxy 270 0.000039 3
-L poiu 270 0.000039 4
-L charlie 269 0.000039 7
-L hzy 269 0.000039 3
-L lxb 269 0.000039 3
-L zsq 268 0.000039 3
-L jessica 267 0.000039 7
-L ljp 267 0.000039 3
-L af 267 0.000039 2
-L lzc 267 0.000039 3
-L zht 266 0.000039 3
-L MM 266 0.000039 2
-L tzwadmin 266 0.000039 8
-L ZXC 266 0.000039 3
-L llj 266 0.000039 3
-L zyb 266 0.000039 3
-L yzy 266 0.000039 3
-L lmj 266 0.000039 3
-L zjq 266 0.000039 3
-L jn 265 0.000039 2
-L wlj 265 0.000039 3
-L ke 264 0.000038 2
-L mk 264 0.000038 2
-L yyyy 264 0.000038 4
-L mt 263 0.000038 2
-L ky 263 0.000038 2
-L fm 263 0.000038 2
-L yn 263 0.000038 2
-L wsl 263 0.000038 3
-L hyf 263 0.000038 3
-L cjy 262 0.000038 3
-L hjy 262 0.000038 3
-L zsl 262 0.000038 3
-L qqqqqqqqqq 261 0.000038 10
-L lxp 261 0.000038 3
-L yjh 261 0.000038 3
-L cr 260 0.000038 2
-L qqww 260 0.000038 4
-L cyl 260 0.000038 3
-L cjl 259 0.000038 3
-L ljs 259 0.000038 3
-L hzh 259 0.000038 3
-L cxj 259 0.000038 3
-L zhf 259 0.000038 3
-L zxczxc 258 0.000037 6
-L lly 258 0.000037 3
-L wjw 258 0.000037 3
-L qqqqqqqqq 258 0.000037 9
-L mq 257 0.000037 2
-L zhx 257 0.000037 3
-L cyq 257 0.000037 3
-L sxl 257 0.000037 3
-L ge 255 0.000037 2
-L xi 255 0.000037 2
-L YU 255 0.000037 2
-L wzl 255 0.000037 3
-L ou 254 0.000037 2
-L D 254 0.000037 1
-L lgh 254 0.000037 3
-L yjj 254 0.000037 3
-L am 253 0.000037 2
-L le 253 0.000037 2
-L lzm 253 0.000037 3
-L hyjzstx 253 0.000037 7
-L kkkkkkkk 252 0.000037 8
-L jjjjjjjj 252 0.000037 8
-L jd 251 0.000036 2
-L km 251 0.000036 2
-L xxl 251 0.000036 3
-L cjj 251 0.000036 3
-L nm 250 0.000036 2
-L lmy 250 0.000036 3
-L px 249 0.000036 2
-L na 249 0.000036 2
-L Qq 249 0.000036 2
-L zwl 249 0.000036 3
-L zxp 249 0.000036 3
-L ca 248 0.000036 2
-L ah 248 0.000036 2
-L cjh 248 0.000036 3
-L mb 247 0.000036 2
-L ax 247 0.000036 2
-L xzy 247 0.000036 3
-L dp 246 0.000036 2
-L wys 246 0.000036 3
-L wyb 246 0.000036 3
-L LJ 245 0.000036 2
-L WWW 245 0.000036 3
-L qd 245 0.000036 2
-L lina 244 0.000035 4
-L wyz 244 0.000035 3
-L XX 244 0.000035 2
-L wxq 243 0.000035 3
-L qc 242 0.000035 2
-L ZL 242 0.000035 2
-L vivian 241 0.000035 6
-L zzg 241 0.000035 3
-L QW 241 0.000035 2
-L lsq 241 0.000035 3
-L cccccccc 240 0.000035 8
-L yyj 240 0.000035 3
-L wxx 240 0.000035 3
-L qwqwqwqw 239 0.000035 8
-L zhm 239 0.000035 3
-L czh 239 0.000035 3
-L wxb 239 0.000035 3
-L hyy 239 0.000035 3
-L pppppppp 238 0.000035 8
-L qazWSX 238 0.000035 6
-L ks 237 0.000034 2
-L kkkk 237 0.000034 4
-L lhf 237 0.000034 3
-L zyt 237 0.000034 3
-L yjl 237 0.000034 3
-L J 236 0.000034 1
-L qh 236 0.000034 2
-L lyt 236 0.000034 3
-L chj 236 0.000034 3
-L xxy 236 0.000034 3
-L bl 235 0.000034 2
-L wsw 235 0.000034 3
-L gggggggg 234 0.000034 8
-L nb 234 0.000034 2
-L gk 234 0.000034 2
-L de 234 0.000034 2
-L hhhhhhhh 234 0.000034 8
-L CC 234 0.000034 2
-L yyl 234 0.000034 3
-L QAZWSXEDC 234 0.000034 9
-L zjs 234 0.000034 3
-L mu 233 0.000034 2
-L asdqwe 232 0.000034 6
-L CSDN 232 0.000034 4
-L aw 231 0.000034 2
-L pt 231 0.000034 2
-L cyf 231 0.000034 3
-L zjb 231 0.000034 3
-L yxh 231 0.000034 3
-L lss 230 0.000033 3
-L jq 230 0.000033 2
-L xyj 230 0.000033 3
-L ashley 229 0.000033 6
-L dgdg 229 0.000033 4
-L hjx 229 0.000033 3
-L hyq 229 0.000033 3
-L angela 228 0.000033 6
-L asdzxc 228 0.000033 6
-L wsq 228 0.000033 3
-L xyh 228 0.000033 3
-L wxc 228 0.000033 3
-L ttt 227 0.000033 3
-L lhx 227 0.000033 3
-L wss 227 0.000033 3
-L wch 226 0.000033 3
-L ZJ 226 0.000033 2
-L yjy 226 0.000033 3
-L zxs 226 0.000033 3
-L cccc 225 0.000033 4
-L zwb 225 0.000033 3
-L wcy 225 0.000033 3
-L csy 225 0.000033 3
-L zzm 225 0.000033 3
-L zww 224 0.000033 3
-L zzf 224 0.000033 3
-L la 223 0.000032 2
-L jjj 223 0.000032 3
-L llll 223 0.000032 4
-L qf 223 0.000032 2
-L lyg 223 0.000032 3
-L SUN 223 0.000032 3
-L lxz 223 0.000032 3
-L bh 222 0.000032 2
-L sakura 222 0.000032 6
-L fff 222 0.000032 3
-L syh 222 0.000032 3
-L wjq 222 0.000032 3
-L lwh 222 0.000032 3
-L po 221 0.000032 2
-L sjj 221 0.000032 3
-L lgy 221 0.000032 3
-L zlh 221 0.000032 3
-L tu 220 0.000032 2
-L mw 220 0.000032 2
-L iloveu 220 0.000032 6
-L qwerqwer 220 0.000032 8
-L cxh 220 0.000032 3
-L LIN 219 0.000032 3
-L WY 219 0.000032 2
-L mnbvcxz 218 0.000032 7
-L amanda 217 0.000032 6
-L wjc 217 0.000032 3
-L xyl 217 0.000032 3
-L zlf 217 0.000032 3
-L ZH 217 0.000032 2
-L md 216 0.000031 2
-L aj 216 0.000031 2
-L yr 216 0.000031 2
-L fg 216 0.000031 2
-L wyp 216 0.000031 3
-L syj 216 0.000031 3
-L cxf 216 0.000031 3
-L jennifer 215 0.000031 8
-L ny 214 0.000031 2
-L JJ 214 0.000031 2
-L lcx 214 0.000031 3
-L go 213 0.000031 2
-L windowsxp 213 0.000031 9
-L WU 213 0.000031 2
-L ko 212 0.000031 2
-L er 212 0.000031 2
-L xn 212 0.000031 2
-L cba 212 0.000031 3
-L zxzx 212 0.000031 4
-L syl 212 0.000031 3
-L hjf 212 0.000031 3
-L zsw 211 0.000031 3
-L yyf 211 0.000031 3
-L yyyyyyyy 211 0.000031 8
-L hyx 210 0.000031 3
-L chl 210 0.000031 3
-L T 209 0.000030 1
-L zzp 209 0.000030 3
-L lzp 209 0.000030 3
-L yhb 209 0.000030 3
-L oooooooo 208 0.000030 8
-L wly 208 0.000030 3
-L qp 208 0.000030 2
-L czx 208 0.000030 3
-L sophia 207 0.000030 6
-L xr 207 0.000030 2
-L lpf 207 0.000030 3
-L tsinghua 207 0.000030 8
-L wjs 207 0.000030 3
-L wzw 207 0.000030 3
-L at 206 0.000030 2
-L Ab 206 0.000030 2
-L yxj 206 0.000030 3
-L lzg 206 0.000030 3
-L okok 205 0.000030 4
-L bt 204 0.000030 2
-L zjp 204 0.000030 3
-L wsad 204 0.000030 4
-L zyw 204 0.000030 3
-L lenovo 203 0.000029 6
-L QWERT 203 0.000029 5
-L WJ 203 0.000029 2
-L cjw 202 0.000029 3
-L zxcasdqwe 202 0.000029 9
-L zgq 202 0.000029 3
-L jojo 201 0.000029 4
-L mf 201 0.000029 2
-L xyf 201 0.000029 3
-L lzz 201 0.000029 3
-L wzc 201 0.000029 3
-L bd 200 0.000029 2
-L yxf 200 0.000029 3
-L tq 200 0.000029 2
-L asdfzxcv 200 0.000029 8
-L lzf 200 0.000029 3
-L zwx 199 0.000029 3
-L ads 199 0.000029 3
-L wjb 199 0.000029 3
-L lxg 199 0.000029 3
-L zlx 199 0.000029 3
-L K 198 0.000029 1
-L bbbb 198 0.000029 4
-L zzb 198 0.000029 3
-L qwertyuio 198 0.000029 9
-L kb 197 0.000029 2
-L zwh 197 0.000029 3
-L vincent 196 0.000028 7
-L wht 196 0.000028 3
-L szy 196 0.000028 3
-L zhc 196 0.000028 3
-L cxd 196 0.000028 3
-L bs 195 0.000028 2
-L TT 195 0.000028 2
-L cxz 195 0.000028 3
-L wxp 195 0.000028 3
-L OK 195 0.000028 2
-L WO 195 0.000028 2
-L tp 194 0.000028 2
-L SS 194 0.000028 2
-L hjw 194 0.000028 3
-L hhy 194 0.000028 3
-L zjz 194 0.000028 3
-L lsm 193 0.000028 3
-L fk 193 0.000028 2
-L lyw 193 0.000028 3
-L zdh 193 0.000028 3
-L zss 193 0.000028 3
-L xyy 193 0.000028 3
-L xjj 192 0.000028 3
-L wym 192 0.000028 3
-L lgl 191 0.000028 3
-L cjf 191 0.000028 3
-L czq 191 0.000028 3
-L xyq 191 0.000028 3
-L bm 190 0.000028 2
-L sjh 190 0.000028 3
-L cxm 190 0.000028 3
-L wyw 190 0.000028 3
-L zml 190 0.000028 3
-L syf 190 0.000028 3
-L lsw 190 0.000028 3
-L xzh 190 0.000028 3
-L tr 189 0.000027 2
-L mg 189 0.000027 2
-L jsj 189 0.000027 3
-L ILOVEYOU 189 0.000027 8
-L hxj 189 0.000027 3
-L zqy 189 0.000027 3
-L xjh 189 0.000027 3
-L kissme 188 0.000027 6
-L qu 188 0.000027 2
-L wjm 188 0.000027 3
-L lwq 188 0.000027 3
-L lhw 187 0.000027 3
+wang 9750 0.001417 4
+zhang 7826 0.001137 5
+liu 7306 0.001062 3
+woaini 6514 0.000947 6
+chen 6290 0.000914 4
+yang 5173 0.000752 4
+xiazhili 3650 0.000530 8
+sun 3373 0.000490 3
+lin 3306 0.000480 3
+huang 3045 0.000442 5
+zhou 2722 0.000396 4
+wei 2691 0.000391 3
+long 2669 0.000388 4
+feng 2548 0.000370 4
+xiao 2453 0.000356 4
+zhao 2439 0.000354 4
+zhu 2141 0.000311 3
+jiang 2071 0.000301 5
+yan 1958 0.000285 3
+liang 1856 0.000270 5
+yuan 1809 0.000263 4
+hao 1795 0.000261 3
+gao 1704 0.000248 3
+jia 1688 0.000245 3
+han 1545 0.000224 3
+song 1509 0.000219 4
+wen 1505 0.000219 3
+jing 1500 0.000218 4
+luo 1483 0.000215 3
+guo 1470 0.000214 3
+tang 1463 0.000213 4
+woaiwojia 1318 0.000192 9
+wan 1307 0.000190 3
+jin 1291 0.000188 3
+cheng 1291 0.000188 5
+dong 1285 0.000187 4
+ming 1224 0.000178 4
+hua 1151 0.000167 3
+fang 1145 0.000166 4
+jie 1135 0.000165 3
+xiaoxiao 1133 0.000165 8
+tian 1132 0.000164 4
+aini 1124 0.000163 4
+shi 1118 0.000162 3
+cao 1118 0.000162 3
+fan 1105 0.000161 3
+hui 1094 0.000159 3
+peng 1085 0.000158 4
+meng 1080 0.000157 4
+zheng 1075 0.000156 5
+china 1065 0.000155 5
+cai 1044 0.000152 3
+yao 1042 0.000151 3
+fei 1026 0.000149 3
+sunshine 1024 0.000149 8
+ling 1021 0.000148 4
+shen 993 0.000144 4
+xin 990 0.000144 3
+yangyang 970 0.000141 8
+xie 962 0.000140 3
+tao 953 0.000138 3
+weiwei 937 0.000136 6
+woshi 922 0.000134 5
+nihao 922 0.000134 5
+woshishui 922 0.000134 9
+mima 920 0.000134 4
+hong 915 0.000133 4
+pan 902 0.000131 3
+jian 891 0.000129 4
+ying 890 0.000129 4
+lei 886 0.000129 3
+xue 846 0.000123 3
+lan 833 0.000121 3
+xia 831 0.000121 3
+xiang 829 0.000120 5
+woai 826 0.000120 4
+ren 805 0.000117 3
+lili 794 0.000115 4
+xing 789 0.000115 4
+buzhidao 776 0.000113 8
+jingjing 769 0.000112 8
+mao 765 0.000111 3
+bin 765 0.000111 3
+deng 742 0.000108 4
+haha 738 0.000107 4
+maomao 722 0.000105 6
+tan 709 0.000103 3
+qin 709 0.000103 3
+woainima 704 0.000102 8
+ping 702 0.000102 4
+ding 697 0.000101 4
+wocaonima 695 0.000101 9
+baobao 694 0.000101 6
+liwei 689 0.000100 5
+qing 682 0.000099 4
+yun 680 0.000099 3
+you 675 0.000098 3
+wojiushiwo 675 0.000098 10
+bobo 670 0.000097 4
+qian 658 0.000096 4
+jiajia 650 0.000094 6
+zhangwei 650 0.000094 8
+yue 649 0.000094 3
+chao 643 0.000093 4
+feifei 642 0.000093 6
+wangwei 642 0.000093 7
+tiantian 637 0.000093 8
+xiaoyu 627 0.000091 6
+bao 620 0.000090 3
+liao 617 0.000090 4
+ting 615 0.000089 4
+caonima 613 0.000089 7
+dai 601 0.000087 3
+cui 582 0.000085 3
+min 580 0.000084 3
+yuanyuan 580 0.000084 8
+qiang 576 0.000084 5
+laopo 573 0.000083 5
+yin 572 0.000083 3
+qiu 568 0.000083 3
+zhong 563 0.000082 5
+bai 560 0.000081 3
+shan 555 0.000081 4
+jiao 551 0.000080 4
+wangjian 548 0.000080 8
+wodemima 545 0.000079 8
+zeng 538 0.000078 4
+sheng 527 0.000077 5
+kai 524 0.000076 3
+hai 523 0.000076 3
+wangjing 517 0.000075 8
+lulu 512 0.000074 4
+bing 511 0.000074 4
+dongdong 510 0.000074 8
+shanghai 509 0.000074 8
+chang 505 0.000073 5
+zhanglei 497 0.000072 8
+dan 496 0.000072 3
+miao 492 0.000071 4
+liuyang 491 0.000071 7
+kang 490 0.000071 4
+zhuzhu 486 0.000071 6
+mama 476 0.000069 4
+mei 475 0.000069 3
+ning 472 0.000069 4
+baobei 467 0.000068 6
+juan 466 0.000068 4
+xiong 466 0.000068 5
+beijing 465 0.000068 7
+shao 464 0.000067 4
+mike 462 0.000067 4
+xuan 462 0.000067 4
+liuwei 461 0.000067 6
+chenchen 459 0.000067 8
+wode 459 0.000067 4
+wanglei 456 0.000066 7
+nan 444 0.000065 3
+shanshan 439 0.000064 8
+dandan 438 0.000064 6
+rong 438 0.000064 4
+hou 435 0.000063 3
+liyang 433 0.000063 6
+zhen 429 0.000062 4
+mingming 427 0.000062 8
+duan 423 0.000061 4
+xiaolong 422 0.000061 8
+niu 420 0.000061 3
+tingting 413 0.000060 8
+yong 412 0.000060 4
+xiaowei 407 0.000059 7
+kong 406 0.000059 4
+linlin 403 0.000059 6
+zhangjie 402 0.000058 8
+huan 399 0.000058 4
+wangpeng 397 0.000058 8
+wangyang 397 0.000058 8
+wangwang 397 0.000058 8
+longlong 396 0.000058 8
+lijie 392 0.000057 5
+guan 388 0.000056 4
+zou 387 0.000056 3
+lele 385 0.000056 4
+zhangyu 384 0.000056 7
+xinxin 382 0.000056 6
+qiao 381 0.000055 4
+she 380 0.000055 3
+gong 380 0.000055 4
+tong 378 0.000055 4
+lai 375 0.000054 3
+xingxing 375 0.000054 8
+lang 374 0.000054 4
+lijing 373 0.000054 6
+wangyu 371 0.000054 6
+zhanghao 370 0.000054 8
+woailaopo 370 0.000054 9
+shuai 366 0.000053 5
+lian 365 0.000053 4
+xiaoqiang 362 0.000053 9
+rui 359 0.000052 3
+june 358 0.000052 4
+xiaofeng 358 0.000052 8
+lijian 358 0.000052 6
+yanyan 357 0.000052 6
+worinima 356 0.000052 8
+wenwen 355 0.000052 6
+lingling 348 0.000051 8
+zhangyan 347 0.000050 8
+wangchao 346 0.000050 8
+miaomiao 346 0.000050 8
+zhan 343 0.000050 4
+ken 342 0.000050 3
+kaka 342 0.000050 4
+chenwei 342 0.000050 7
+shuang 342 0.000050 6
+xixi 341 0.000050 4
+zhangjian 341 0.000050 9
+shang 341 0.000050 5
+huanhuan 335 0.000049 8
+ben 330 0.000048 3
+wanghao 330 0.000048 7
+quan 327 0.000048 4
+wanghui 326 0.000047 7
+libo 323 0.000047 4
+zhangjing 320 0.000046 9
+meiyoumima 318 0.000046 10
+taotao 316 0.000046 6
+leilei 316 0.000046 6
+man 315 0.000046 3
+shu 314 0.000046 3
+tianshi 313 0.000045 7
+hahahaha 312 0.000045 8
+liming 312 0.000045 6
+lihui 307 0.000045 5
+wangxin 306 0.000044 7
+qiqi 305 0.000044 4
+zhi 305 0.000044 3
+hehe 302 0.000044 4
+xian 302 0.000044 4
+liujie 295 0.000043 6
+zhanghui 295 0.000043 8
+chenjian 294 0.000043 8
+libin 293 0.000043 5
+yaya 292 0.000042 4
+yaoyao 292 0.000042 6
+xiaozhu 291 0.000042 7
+huihui 289 0.000042 6
+guang 288 0.000042 5
+zhangyang 288 0.000042 9
+yingying 287 0.000042 8
+fangfang 287 0.000042 8
+momo 285 0.000041 4
+tiancai 285 0.000041 7
+xiaobai 284 0.000041 7
+yanzi 283 0.000041 5
+dingding 282 0.000041 8
+yuyu 280 0.000041 4
+zhuang 280 0.000041 6
+doudou 279 0.000041 6
+nihaoma 279 0.000041 7
+binbin 278 0.000040 6
+like 276 0.000040 4
+lixin 275 0.000040 5
+haohao 274 0.000040 6
+huahua 274 0.000040 6
+lixiang 274 0.000040 7
+liangliang 274 0.000040 10
+yoyo 272 0.000040 4
+chun 272 0.000040 4
+wangjie 272 0.000040 7
+kuaile 270 0.000039 6
+wangyan 268 0.000039 7
+zhongguo 267 0.000039 8
+qianqian 265 0.000039 8
+niuniu 264 0.000038 6
+zhangyi 263 0.000038 7
+mengmeng 263 0.000038 8
+wangtao 263 0.000038 7
+wangbo 262 0.000038 6
+jiaojiao 261 0.000038 8
+jiejie 260 0.000038 6
+zhangtao 260 0.000038 8
+gang 259 0.000038 4
+wangli 259 0.000038 6
+jiayou 257 0.000037 6
+wangfei 257 0.000037 7
+wangdong 255 0.000037 8
+baidu 254 0.000037 5
+linda 252 0.000037 5
+lilei 251 0.000036 5
+ouyang 251 0.000036 6
+wobuzhidao 251 0.000036 10
+xiaoming 250 0.000036 8
+zhangxin 249 0.000036 8
+liyan 248 0.000036 5
+xiaofei 245 0.000036 7
+yangfan 245 0.000036 7
+mimi 244 0.000035 4
+qingqing 244 0.000035 8
+zhimakaimen 242 0.000035 11
+cong 241 0.000035 4
+wangying 240 0.000035 8
+beibei 240 0.000035 6
+zhangbin 240 0.000035 8
+wangyi 240 0.000035 6
+wanggang 239 0.000035 8
+wangyong 238 0.000035 8
+chenhao 234 0.000034 7
+guoguo 234 0.000034 6
+kun 233 0.000034 3
+lisa 231 0.000034 4
+xiaoyang 231 0.000034 8
+wangbin 231 0.000034 7
+xiaohui 231 0.000034 7
+meimei 230 0.000033 6
+xiaoli 230 0.000033 6
+liqiang 229 0.000033 7
+benben 228 0.000033 6
+liuyu 226 0.000033 5
+jiangnan 226 0.000033 8
+woshishei 226 0.000033 9
+panda 225 0.000033 5
+liuxin 225 0.000033 6
+liuyan 225 0.000033 6
+gan 224 0.000033 3
+xiaoxin 224 0.000033 7
+chenjie 224 0.000033 7
+liuhui 224 0.000033 6
+sha 222 0.000032 3
+lichao 222 0.000032 6
+jianjian 221 0.000032 8
+zhangpeng 221 0.000032 9
+kaixin 221 0.000032 6
+zhangli 221 0.000032 7
+liuyi 220 0.000032 5
+wudi 220 0.000032 4
+yangjie 220 0.000032 7
+wangfeng 219 0.000032 8
+liuqiang 219 0.000032 8
+woainiwoaini 218 0.000032 12
+huangwei 217 0.000032 8
+chu 215 0.000031 3
+hanhan 215 0.000031 6
+lipeng 215 0.000031 6
+lilin 214 0.000031 5
+lifeng 214 0.000031 6
+woshitiancai 212 0.000031 12
+chenyu 212 0.000031 6
+zhangbo 211 0.000031 7
+wangliang 211 0.000031 9
+chinaren 211 0.000031 8
+minmin 210 0.000031 6
+bingbing 210 0.000031 8
+woshiwo 210 0.000031 7
+yuyang 210 0.000031 6
+future 209 0.000030 6
+xiaoyao 208 0.000030 7
+lihao 207 0.000030 5
+lifei 207 0.000030 5
+keke 206 0.000030 4
+wangzhen 206 0.000030 8
+jiangwei 205 0.000030 8
+haohaoxuexi 205 0.000030 11
+liutao 204 0.000030 6
+tangtang 203 0.000029 8
+litao 203 0.000029 5
+woshizhu 202 0.000029 8
+fengfeng 202 0.000029 8
+susan 201 0.000029 5
+feixiang 201 0.000029 8
+woaiwoziji 201 0.000029 10
+liubin 200 0.000029 6
+dada 199 0.000029 4
+zhouzhou 199 0.000029 8
+xuwei 198 0.000029 5
+yueyue 198 0.000029 6
+woaimama 197 0.000029 8
+liujia 197 0.000029 6
+xiaodong 197 0.000029 8
+zhangkai 196 0.000028 8
+mouse 195 0.000028 5
+wuhao 195 0.000028 5
+xiaojing 194 0.000028 8
+wangkai 194 0.000028 7
+hang 193 0.000028 4
+wangmeng 193 0.000028 8
+yiyi 192 0.000028 4
+sai 191 0.000028 3
+pang 189 0.000027 4
+zhangchao 189 0.000027 9
+liuhao 189 0.000027 6
+woshishen 188 0.000027 9
+yangjing 188 0.000027 8
+liujing 188 0.000027 7
+songguang 188 0.000027 9
+ran 186 0.000027 3
+liying 186 0.000027 6
+zhai 186 0.000027 4
+chenxi 185 0.000027 6
+liuliu 185 0.000027 6
+gui 185 0.000027 3
+tina 184 0.000027 4
+likai 184 0.000027 5
+liubo 184 0.000027 5
+zhangying 183 0.000027 9
+wangqi 183 0.000027 6
+yanglei 183 0.000027 7
+chenchao 183 0.000027 8
+liujian 183 0.000027 7
+zhangqiang 182 0.000026 10
+zhaowei 181 0.000026 7
+pengpeng 180 0.000026 8
+wodeai 180 0.000026 6
+pingping 179 0.000026 8
+wangning 179 0.000026 8
+zhangliang 179 0.000026 10
+shasha 178 0.000026 6
+xingfu 178 0.000026 6
+wangqiang 178 0.000026 9
+nannan 177 0.000026 6
+chenfeng 177 0.000026 8
+zhangzhang 177 0.000026 10
+nishizhu 177 0.000026 8
+youyou 176 0.000026 6
+xuanxuan 176 0.000026 8
+liukai 176 0.000026 6
+xiaobao 175 0.000025 7
+xiaogang 175 0.000025 8
+nishishui 175 0.000025 9
+chenlei 175 0.000025 7
+liuchao 174 0.000025 7
+wanghuan 174 0.000025 8
+chi 173 0.000025 3
+lanlan 173 0.000025 6
+xiaojian 173 0.000025 8
+liyong 173 0.000025 6
+yangjian 173 0.000025 8
+jianqiao 173 0.000025 8
+shine 172 0.000025 5
+zhanglin 172 0.000025 8
+wuwei 172 0.000025 5
+ruan 172 0.000025 4
+liyu 172 0.000025 4
+rongrong 172 0.000025 8
+shilei 172 0.000025 6
+tianya 172 0.000025 6
+chinese 171 0.000025 7
+huangjie 171 0.000025 8
+yangchao 171 0.000025 8
+liulei 170 0.000025 6
+wangxiao 170 0.000025 8
+lijia 169 0.000025 5
+xiaojie 169 0.000025 7
+chenjing 169 0.000025 8
+liuli 169 0.000025 5
+kaikai 168 0.000024 6
+wangming 168 0.000024 8
+qingfeng 168 0.000024 8
+dou 168 0.000024 3
+xiaoxue 168 0.000024 7
+zhangrui 168 0.000024 8
+kuang 167 0.000024 5
+geng 167 0.000024 4
+nie 166 0.000024 3
+zaiwa 166 0.000024 5
+yangguang 166 0.000024 9
+xuxu 165 0.000024 4
+zhangqi 165 0.000024 7
+wangshuai 165 0.000024 9
+jinjin 164 0.000024 6
+tongtong 164 0.000024 8
+dudu 164 0.000024 4
+biao 164 0.000024 4
+lidan 164 0.000024 5
+cici 163 0.000024 4
+heng 163 0.000024 4
+ligang 163 0.000024 6
+zhenzhen 163 0.000024 8
+lizhi 163 0.000024 5
+liyuan 162 0.000024 6
+sean 161 0.000023 4
+zhangming 161 0.000023 9
+sunwei 161 0.000023 6
+chenyang 161 0.000023 8
+lala 160 0.000023 4
+chai 160 0.000023 4
+babamama 159 0.000023 8
+chenlin 159 0.000023 7
+zuo 158 0.000023 3
+jiushiaini 158 0.000023 10
+xiaoyan 158 0.000023 7
+huhu 157 0.000023 4
+zhangfeng 157 0.000023 9
+chaochao 157 0.000023 8
+panpan 157 0.000023 6
+chenliang 157 0.000023 9
+lou 156 0.000023 3
+yatou 156 0.000023 5
+tiankong 156 0.000023 8
+zhangfan 156 0.000023 8
+liufeng 156 0.000023 7
+zhangxu 155 0.000023 7
+caonimabi 155 0.000023 9
+tianxia 155 0.000023 7
+xiaoyi 154 0.000022 6
+wangzi 154 0.000022 6
+zhangmin 154 0.000022 8
+zhangyong 154 0.000022 9
+wangrui 154 0.000022 7
+chenlong 153 0.000022 8
+wangchen 153 0.000022 8
+xiaoqi 152 0.000022 6
+jisuanji 152 0.000022 8
+hewei 151 0.000022 5
+teng 151 0.000022 4
+xujie 151 0.000022 5
+liupeng 151 0.000022 7
+nian 151 0.000022 4
+liyi 150 0.000022 4
+yezi 150 0.000022 4
+fanfan 150 0.000022 6
+popo 149 0.000022 4
+baba 149 0.000022 4
+guaiguai 149 0.000022 8
+songsong 149 0.000022 8
+wangqing 149 0.000022 8
+che 148 0.000022 3
+liufei 148 0.000022 6
+zhoujian 148 0.000022 8
+zhanghua 148 0.000022 8
+chenli 147 0.000021 6
+limin 147 0.000021 5
+xiaolei 146 0.000021 7
+wangping 146 0.000021 8
+xiaohu 145 0.000021 6
+huo 145 0.000021 3
+pei 145 0.000021 3
+zhangyue 145 0.000021 8
+wangqian 145 0.000021 8
+xiangxiang 144 0.000021 10
+kangkang 144 0.000021 8
+fendou 144 0.000021 6
+maidoumaidou 144 0.000021 12
+yangli 143 0.000021 6
+mimamima 142 0.000021 8
+chenhui 142 0.000021 7
+rongfan 142 0.000021 7
+liuxing 142 0.000021 7
+zhouyang 142 0.000021 8
+yangyu 142 0.000021 6
+lirui 141 0.000020 5
+xinyu 141 0.000020 5
+anna 140 0.000020 4
+zhaoyang 140 0.000020 8
+dongfang 140 0.000020 8
+guowei 140 0.000020 6
+wawa 139 0.000020 4
+juanjuan 139 0.000020 8
+zhangqian 139 0.000020 9
+chenfei 139 0.000020 7
+lidong 139 0.000020 6
+zhaojing 139 0.000020 8
+game 138 0.000020 4
+weng 138 0.000020 4
+yangyong 138 0.000020 8
+zhoujie 138 0.000020 7
+zhangjin 138 0.000020 8
+wangyuan 138 0.000020 8
+haiyang 138 0.000020 7
+limeng 138 0.000020 6
+chengcheng 137 0.000020 10
+shui 137 0.000020 4
+aiziji 137 0.000020 6
+jiangtao 136 0.000020 8
+fengyun 136 0.000020 7
+ruirui 136 0.000020 6
+hanbing 136 0.000020 7
+yongyuan 135 0.000020 8
+chuan 135 0.000020 5
+xiaomei 135 0.000020 7
+bian 135 0.000020 4
+liuying 135 0.000020 7
+liliang 135 0.000020 7
+wanglin 134 0.000019 7
+woshiniba 134 0.000019 9
+wanglong 134 0.000019 8
+liuyong 134 0.000019 7
+xiaobo 134 0.000019 6
+anan 133 0.000019 4
+wangcheng 133 0.000019 9
+yangyi 133 0.000019 6
+chenming 133 0.000019 8
+xiaoxiong 133 0.000019 9
+huwei 133 0.000019 5
+weiweiwei 133 0.000019 9
+yangbo 133 0.000019 6
+zhouwei 133 0.000019 7
+chong 132 0.000019 5
+ningning 132 0.000019 8
+liqi 132 0.000019 4
+lilong 132 0.000019 6
+dahai 132 0.000019 5
+xiaolin 131 0.000019 7
+san 131 0.000019 3
+wokao 131 0.000019 5
+gaofeng 131 0.000019 7
+wangting 131 0.000019 8
+youaifa 131 0.000019 7
+lizhen 130 0.000019 6
+wujian 130 0.000019 6
+womendeai 130 0.000019 9
+xixihaha 130 0.000019 8
+xiaotian 129 0.000019 8
+xiaohua 129 0.000019 7
+huanghao 129 0.000019 8
+diandian 129 0.000019 8
+wade 128 0.000019 4
+chan 128 0.000019 4
+annie 128 0.000019 5
+wokaonima 128 0.000019 9
+lihua 128 0.000019 5
+wocao 128 0.000019 5
+wangyue 127 0.000018 7
+xiaofang 127 0.000018 8
+wangjin 127 0.000018 7
+wangxu 127 0.000018 6
+xiaoqing 126 0.000018 8
+woxiangni 126 0.000018 9
+wujing 125 0.000018 6
+chenyan 125 0.000018 7
+huangjian 125 0.000018 9
+zhaozhao 125 0.000018 8
+zhangnan 125 0.000018 8
+lixiao 124 0.000018 6
+xiaoliang 124 0.000018 9
+tiantang 124 0.000018 8
+huanglei 124 0.000018 8
+yongheng 124 0.000018 8
+zhendeaini 124 0.000018 10
+xiu 124 0.000018 3
+xujian 123 0.000018 6
+sisi 122 0.000018 4
+shun 122 0.000018 4
+linfeng 122 0.000018 7
+xiaoying 122 0.000018 8
+zhanghong 122 0.000018 9
+liuchang 122 0.000018 8
+zhangzhen 122 0.000018 9
+zhanglong 122 0.000018 9
+qiuqiu 122 0.000018 6
+xiaoxi 121 0.000018 6
+xiaohao 121 0.000018 7
+sen 120 0.000017 3
+manman 120 0.000017 6
+xiuxiu 120 0.000017 6
+gaoyang 120 0.000017 7
+wanglu 120 0.000017 6
+chenxin 120 0.000017 7
+mingtian 120 0.000017 8
+gaofei 120 0.000017 6
+fengzi 120 0.000017 6
+tianyu 119 0.000017 6
+wangjia 119 0.000017 7
+mimashi 119 0.000017 7
+jinxin 119 0.000017 6
+wangdan 119 0.000017 7
+chenggong 119 0.000017 9
+wujie 119 0.000017 5
+haozi 119 0.000017 5
+lijin 119 0.000017 5
+gaowei 119 0.000017 6
+liping 118 0.000017 6
+wanwan 118 0.000017 6
+chenpeng 118 0.000017 8
+nishiwode 118 0.000017 9
+machao 118 0.000017 6
+linan 118 0.000017 5
+liuming 118 0.000017 7
+hahaha 117 0.000017 6
+sina 117 0.000017 4
+dawei 117 0.000017 5
+zhe 117 0.000017 3
+haitao 117 0.000017 6
+feiyang 117 0.000017 7
+zhonghua 117 0.000017 8
+zhaolei 117 0.000017 7
+jiji 116 0.000017 4
+chengang 116 0.000017 8
+langzi 116 0.000017 6
+wuhan 116 0.000017 5
+huangtao 116 0.000017 8
+liugang 116 0.000017 7
+xiaopeng 116 0.000017 8
+duoduo 115 0.000017 6
+jiushiwo 115 0.000017 8
+gaojie 115 0.000017 6
+zhouyu 115 0.000017 6
+yangming 115 0.000017 8
+haifeng 115 0.000017 7
+wuyan 115 0.000017 5
+chenzhen 115 0.000017 8
+caicai 114 0.000017 6
+yujie 114 0.000017 5
+wangmin 114 0.000017 7
+chenbin 114 0.000017 7
+wenjing 114 0.000017 7
+qinqin 114 0.000017 6
+jianghui 114 0.000017 8
+monica 113 0.000016 6
+liting 113 0.000016 6
+mai 113 0.000016 3
+rao 113 0.000016 3
+xulei 113 0.000016 5
+haiyan 113 0.000016 6
+liuliang 113 0.000016 8
+chenxiao 113 0.000016 8
+luke 112 0.000016 4
+mengxiang 112 0.000016 9
+wangkun 112 0.000016 7
+xuchao 112 0.000016 6
+xiaowu 112 0.000016 6
+lixu 112 0.000016 4
+menghuan 112 0.000016 8
+wangji 112 0.000016 6
+zhangshuai 111 0.000016 10
+sunjian 111 0.000016 7
+woshiren 111 0.000016 8
+wowo 111 0.000016 4
+xiaohan 111 0.000016 7
+bei 111 0.000016 3
+can 110 0.000016 3
+wangzhe 110 0.000016 7
+wuming 110 0.000016 6
+niaishui 110 0.000016 8
+xiaoma 110 0.000016 6
+zhuwei 110 0.000016 6
+yangtao 109 0.000016 7
+yuwei 109 0.000016 5
+laogong 109 0.000016 7
+shuaishuai 109 0.000016 10
+liumin 109 0.000016 6
+woshinidie 109 0.000016 10
+wangfang 108 0.000016 8
+pengfei 108 0.000016 7
+xubin 108 0.000016 5
+wubin 108 0.000016 5
+caonimama 108 0.000016 9
+chentao 108 0.000016 7
+piao 107 0.000016 4
+yufei 107 0.000016 5
+luowei 107 0.000016 6
+woshihaoren 107 0.000016 11
+xiangni 107 0.000016 7
+lihong 107 0.000016 6
+libing 107 0.000016 6
+sasa 106 0.000015 4
+ranran 106 0.000015 6
+xiaoqian 106 0.000015 8
+wanghong 106 0.000015 8
+qingtian 106 0.000015 8
+liling 106 0.000015 6
+liuqi 106 0.000015 5
+honghong 106 0.000015 8
+lizheng 106 0.000015 7
+chenying 105 0.000015 8
+chenyi 105 0.000015 6
+wangbing 105 0.000015 8
+lantian 105 0.000015 7
+yangning 105 0.000015 8
+xiaoxia 105 0.000015 7
+yujian 105 0.000015 6
+susu 104 0.000015 4
+woaiziji 104 0.000015 8
+yangwei 104 0.000015 7
+chenbo 104 0.000015 6
+huanghe 104 0.000015 7
+liudan 104 0.000015 6
+xujing 104 0.000015 6
+tutu 103 0.000015 4
+xiaomin 103 0.000015 7
+zhangkun 103 0.000015 8
+zhanshen 103 0.000015 8
+zhangfei 103 0.000015 8
+xiaohong 103 0.000015 8
+congcong 103 0.000015 8
+pipi 102 0.000015 4
+liqian 102 0.000015 6
+shangxin 102 0.000015 8
+xiaobin 102 0.000015 7
+wohenhao 102 0.000015 8
+wenjie 102 0.000015 6
+zhangyun 102 0.000015 8
+zhangyuan 102 0.000015 9
+gaoyuan 102 0.000015 7
+hanwei 101 0.000015 6
+fengye 101 0.000015 6
+huangyan 101 0.000015 8
+lijuan 101 0.000015 6
+yufeng 101 0.000015 6
+huanghuang 101 0.000015 10
+peipei 100 0.000015 6
+xiaobing 100 0.000015 8
+wangxiang 99 0.000014 9
+yangfeng 99 0.000014 8
+xiaolu 99 0.000014 6
+songyang 99 0.000014 8
+xiaomao 99 0.000014 7
+zhangxiao 99 0.000014 9
+yunyun 99 0.000014 6
+xiaohei 99 0.000014 7
+weiyi 99 0.000014 5
+hongkong 98 0.000014 8
+liyue 98 0.000014 5
+xufei 98 0.000014 5
+luoluo 98 0.000014 6
+woainiya 98 0.000014 8
+wodezuiai 98 0.000014 9
+tianyuan 98 0.000014 8
+zhaohui 98 0.000014 7
+mumu 98 0.000014 4
+hanyu 98 0.000014 5
+aiwo 98 0.000014 4
+chenqi 98 0.000014 6
+police 97 0.000014 6
+nike 97 0.000014 4
+bama 97 0.000014 4
+zhuo 97 0.000014 4
+jiangjiang 97 0.000014 10
+shiwei 97 0.000014 6
+caonimade 97 0.000014 9
+wangke 97 0.000014 6
+xuyang 97 0.000014 6
+guoliang 97 0.000014 8
+wangbadan 97 0.000014 9
+chenyong 97 0.000014 8
+heihei 97 0.000014 6
+liuhuan 97 0.000014 7
+songaideng 97 0.000014 10
+time 96 0.000014 4
+sunsun 96 0.000014 6
+yingzi 96 0.000014 6
+zhangwen 96 0.000014 8
+liyun 96 0.000014 5
+haoren 96 0.000014 6
+liqing 96 0.000014 6
+fen 96 0.000014 3
+zhaoyu 96 0.000014 6
+zhangchen 96 0.000014 9
+wangxing 96 0.000014 8
+dangyuan 96 0.000014 8
+jiandanai 96 0.000014 9
+liuqing 96 0.000014 7
+zhangning 96 0.000014 9
+sunhao 96 0.000014 6
+chance 95 0.000014 6
+lichen 95 0.000014 6
+lixia 95 0.000014 5
+wuyu 95 0.000014 4
+hongwei 95 0.000014 7
+zhujie 95 0.000014 6
+liuxiang 95 0.000014 8
+wushuang 95 0.000014 8
+xuyan 95 0.000014 5
+karen 94 0.000014 5
+kan 94 0.000014 3
+mali 94 0.000014 4
+wangzheng 94 0.000014 9
+wuliao 94 0.000014 6
+shenzhen 94 0.000014 8
+xuhui 94 0.000014 5
+waini 94 0.000014 5
+meimima 94 0.000014 7
+licheng 94 0.000014 7
+liudong 94 0.000014 7
+linxing 94 0.000014 7
+angle 93 0.000014 5
+jiajiajia 93 0.000014 9
+wahaha 93 0.000014 6
+gaojian 93 0.000014 7
+aiai 93 0.000014 4
+zhaoyan 93 0.000014 7
+liuqian 93 0.000014 7
+gaoxiang 93 0.000014 8
+xiaopang 92 0.000013 8
+likun 92 0.000013 5
+woxihuanni 92 0.000013 10
+shitou 92 0.000013 6
+zhoufeng 92 0.000013 8
+huangxin 92 0.000013 8
+mamawoaini 92 0.000013 10
+wangyun 92 0.000013 7
+nanjing 92 0.000013 7
+hubin 92 0.000013 5
+jiawei 91 0.000013 6
+zha 91 0.000013 3
+xun 91 0.000013 3
+bendan 91 0.000013 6
+liuyun 91 0.000013 6
+xiaohe 91 0.000013 6
+sunyanzi 91 0.000013 8
+ruanjian 91 0.000013 8
+zhaojian 91 0.000013 8
+chencheng 91 0.000013 9
+zhoujing 91 0.000013 8
+huanghui 91 0.000013 8
+weiyu 91 0.000013 5
+wowangle 91 0.000013 8
+duke 90 0.000013 4
+didi 90 0.000013 4
+daidai 90 0.000013 6
+xihuanni 90 0.000013 8
+lingfeng 90 0.000013 8
+sunlei 90 0.000013 6
+xiaoyong 90 0.000013 8
+maomaomao 90 0.000013 9
+shijian 90 0.000013 7
+zhouli 90 0.000013 6
+xiaomi 90 0.000013 6
+shenyang 89 0.000013 8
+fengyu 89 0.000013 6
+weishenme 89 0.000013 9
+hetao 89 0.000013 5
+woshini 89 0.000013 7
+chenkai 89 0.000013 7
+woshinibaba 89 0.000013 11
+zhanglu 89 0.000013 7
+laopowoaini 89 0.000013 11
+xiaoping 89 0.000013 8
+qiong 89 0.000013 5
+liuwen 89 0.000013 6
+women 88 0.000013 5
+xiaomeng 88 0.000013 8
+leng 88 0.000013 4
+shengri 88 0.000013 7
+weixiao 88 0.000013 7
+chendong 88 0.000013 8
+tianyi 88 0.000013 6
+yangfei 88 0.000013 7
+xiaohai 88 0.000013 7
+xuhao 88 0.000013 5
+lixing 88 0.000013 6
+xiaowen 88 0.000013 7
+huanying 88 0.000013 8
+zhongnan 88 0.000013 8
+liujianliu 88 0.000013 10
+dean 87 0.000013 4
+zhanghan 87 0.000013 8
+baichi 87 0.000013 6
+zhangmeng 87 0.000013 9
+xiaoxu 87 0.000013 6
+sunyan 87 0.000013 6
+zhangjia 87 0.000013 8
+changjiang 87 0.000013 10
+shijie 87 0.000013 6
+zhangcheng 87 0.000013 10
+zhangheng 87 0.000013 9
+kangta 87 0.000013 6
+yangliu 87 0.000013 7
+wenhui 87 0.000013 6
+wanghai 87 0.000013 7
+ranger 86 0.000012 6
+caocao 86 0.000012 6
+liwen 86 0.000012 5
+liuxiao 86 0.000012 7
+zhuzhuzhu 86 0.000012 9
+heyong 86 0.000012 6
+yangpeng 86 0.000012 8
+hujie 86 0.000012 5
+qinghua 86 0.000012 7
+guodong 86 0.000012 7
+yuyan 86 0.000012 5
+wangsong 86 0.000012 8
+milan 85 0.000012 5
+suzhou 85 0.000012 6
+dang 85 0.000012 4
+tuzi 85 0.000012 4
+niaiwoma 85 0.000012 8
+linyu 85 0.000012 5
+lifang 85 0.000012 6
+haohaohao 85 0.000012 9
+luwei 85 0.000012 5
+liuyuan 85 0.000012 7
+wobuaini 85 0.000012 8
+zhaopeng 85 0.000012 8
+diao 85 0.000012 4
+guolei 85 0.000012 6
+lishuang 85 0.000012 8
+liuxu 84 0.000012 5
+lao 84 0.000012 3
+kaoyan 84 0.000012 6
+yangbin 84 0.000012 7
+yanwei 84 0.000012 6
+hanxiao 84 0.000012 7
+liucheng 84 0.000012 8
+sunjing 83 0.000012 7
+liudehua 83 0.000012 8
+xianjian 83 0.000012 8
+weijie 83 0.000012 6
+zhangqing 83 0.000012 9
+zhaoming 83 0.000012 8
+zhoulei 83 0.000012 7
+love 7161 0.001041 4
+password 5507 0.000800 8
+iloveyou 4345 0.000631 8
+www 3257 0.000473 3
+happy 1759 0.000256 5
+king 1710 0.000248 4
+qwerty 1581 0.000230 6
+code 1422 0.000207 4
+sky 1295 0.000188 3
+apple 1211 0.000176 5
+hello 1123 0.000163 5
+windows 1123 0.000163 7
+jun 1089 0.000158 3
+angel 1075 0.000156 5
+lee 1065 0.000155 3
+jay 923 0.000134 3
+andy 912 0.000133 4
+welcome 873 0.000127 7
+dragon 782 0.000114 6
+why 780 0.000113 3
+computer 776 0.000113 8
+superman 773 0.000112 8
+forever 765 0.000111 7
+xxx 731 0.000106 3
+star 726 0.000105 4
+kevin 723 0.000105 5
+michael 698 0.000101 7
+fly 690 0.000100 3
+monkey 679 0.000099 6
+baby 658 0.000096 4
+pass 654 0.000095 4
+loveyou 636 0.000092 7
+test 621 0.000090 4
+tiger 619 0.000090 5
+lily 596 0.000087 4
+tony 585 0.000085 4
+david 580 0.000084 5
+freedom 579 0.000084 7
+sunny 575 0.000084 5
+leo 570 0.000083 3
+sss 564 0.000082 3
+kiss 555 0.000081 4
+money 553 0.000080 5
+blue 550 0.000080 4
+summer 549 0.000080 6
+jordan 548 0.000080 6
+fuckyou 532 0.000077 7
+beyond 528 0.000077 6
+james 527 0.000077 5
+good 521 0.000076 4
+ilove 520 0.000076 5
+ccc 499 0.000073 3
+kkk 488 0.000071 3
+john 487 0.000071 4
+lucky 483 0.000070 5
+nana 479 0.000070 4
+shadow 470 0.000068 6
+helloworld 470 0.000068 10
+success 467 0.000068 7
+eric 463 0.000067 4
+sam 461 0.000067 3
+nba 456 0.000066 3
+java 448 0.000065 4
+killer 446 0.000065 6
+fish 432 0.000063 4
+kobe 429 0.000062 4
+princess 414 0.000060 8
+daniel 413 0.000060 6
+jesus 408 0.000059 5
+super 408 0.000059 5
+nicholas 407 0.000059 8
+snow 405 0.000059 4
+win 405 0.000059 3
+ninja 395 0.000057 5
+rain 394 0.000057 4
+jerry 392 0.000057 5
+hunter 391 0.000057 6
+allen 391 0.000057 5
+wolf 385 0.000056 4
+nokia 385 0.000056 5
+justdoit 378 0.000055 8
+smile 373 0.000054 5
+writer 366 0.000053 6
+may 365 0.000053 3
+hero 363 0.000053 4
+dream 362 0.000053 5
+peter 362 0.000053 5
+orange 359 0.000052 6
+boy 355 0.000052 3
+zero 346 0.000050 4
+stone 345 0.000050 5
+winner 343 0.000050 6
+tom 341 0.000050 3
+mmm 340 0.000049 3
+lcl 340 0.000049 3
+wangjun 339 0.000049 7
+cool 338 0.000049 4
+shy 337 0.000049 3
+family 333 0.000048 6
+jimmy 332 0.000048 5
+internet 331 0.000048 8
+phoenix 328 0.000048 7
+spring 328 0.000048 6
+football 326 0.000047 8
+jacky 325 0.000047 5
+leon 324 0.000047 4
+wind 323 0.000047 4
+master 318 0.000046 6
+candy 317 0.000046 5
+adsl 316 0.000046 4
+water 315 0.000046 5
+hacker 315 0.000046 6
+crystal 314 0.000046 7
+sea 312 0.000045 3
+butterfly 310 0.000045 9
+max 308 0.000045 3
+home 306 0.000044 4
+testtest 304 0.000044 8
+moon 303 0.000044 4
+fox 301 0.000044 3
+cctv 301 0.000044 4
+frank 298 0.000043 5
+wll 298 0.000043 3
+henry 297 0.000043 5
+ice 295 0.000043 3
+wsj 295 0.000043 3
+cherry 293 0.000043 6
+bbs 293 0.000043 3
+purple 292 0.000042 6
+system 289 0.000042 6
+power 288 0.000042 5
+handsome 287 0.000042 8
+microsoft 287 0.000042 9
+andrew 286 0.000042 6
+genius 285 0.000041 6
+lxx 285 0.000041 3
+secret 282 0.000041 6
+kitty 281 0.000041 5
+bbb 281 0.000041 3
+nick 279 0.000041 4
+george 279 0.000041 6
+rainbow 276 0.000040 7
+mark 276 0.000040 4
+red 275 0.000040 3
+free 275 0.000040 4
+robert 273 0.000040 6
+nicole 273 0.000040 6
+associated 272 0.000040 10
+fuck 270 0.000039 4
+july 267 0.000039 4
+sos 267 0.000039 3
+ddd 265 0.000039 3
+jasmine 263 0.000038 7
+ray 263 0.000038 3
+content 261 0.000038 7
+jackie 261 0.000038 6
+alan 261 0.000038 4
+snoopy 258 0.000037 6
+flower 258 0.000037 6
+jackson 258 0.000037 7
+and 258 0.000037 3
+tigger 257 0.000037 6
+ghost 257 0.000037 5
+magic 255 0.000037 5
+jeff 255 0.000037 4
+administrator 255 0.000037 13
+jane 254 0.000037 4
+green 252 0.000037 5
+bill 252 0.000037 4
+yellow 251 0.000036 6
+cookie 250 0.000036 6
+joshua 249 0.000036 6
+lovely 246 0.000036 6
+bob 246 0.000036 3
+rose 246 0.000036 4
+diamond 243 0.000035 7
+april 243 0.000035 5
+net 243 0.000035 3
+mickey 242 0.000035 6
+richard 240 0.000035 7
+heaven 239 0.000035 6
+baseball 239 0.000035 8
+winter 238 0.000035 6
+mac 236 0.000034 3
+prince 236 0.000034 6
+yes 236 0.000034 3
+beckham 235 0.000034 7
+coco 234 0.000034 4
+new 234 0.000034 3
+soccer 233 0.000034 6
+anthony 233 0.000034 7
+english 230 0.000033 7
+thomas 230 0.000033 6
+rabbit 230 0.000033 6
+wing 229 0.000033 4
+grace 227 0.000033 5
+seven 227 0.000033 5
+owen 227 0.000033 4
+will 226 0.000033 4
+daisy 226 0.000033 5
+junjun 225 0.000033 6
+open 223 0.000032 4
+lht 223 0.000032 3
+victor 221 0.000032 6
+honey 220 0.000032 5
+matthew 219 0.000032 7
+august 218 0.000032 6
+top 218 0.000032 3
+ginger 216 0.000031 6
+knight 216 0.000031 6
+eagle 213 0.000031 5
+ufo 212 0.000031 3
+amy 211 0.000031 3
+jim 210 0.000031 3
+vip 210 0.000031 3
+lwl 210 0.000031 3
+kingking 209 0.000030 8
+wwwwww 209 0.000030 6
+cyc 209 0.000030 3
+paul 208 0.000030 4
+sandy 207 0.000030 5
+wendy 205 0.000030 5
+destiny 204 0.000030 7
+edward 204 0.000030 6
+robin 204 0.000030 5
+mary 203 0.000029 4
+terry 203 0.000029 5
+taylor 202 0.000029 6
+fantasy 202 0.000029 7
+mother 201 0.000029 6
+adam 201 0.000029 4
+lover 201 0.000029 5
+legend 199 0.000029 6
+samsung 199 0.000029 7
+echo 198 0.000029 4
+jenny 197 0.000029 5
+austin 196 0.000028 6
+aaron 196 0.000028 5
+lion 196 0.000028 4
+kelly 195 0.000028 5
+flying 194 0.000028 6
+support 194 0.000028 7
+lmh 194 0.000028 3
+blessed 193 0.000028 7
+crazy 192 0.000028 5
+operation 191 0.000028 9
+lcj 191 0.000028 3
+silver 190 0.000028 6
+chenjun 190 0.000028 7
+whatever 189 0.000027 8
+rock 189 0.000027 4
+wow 189 0.000027 3
+lhc 187 0.000027 3
+bear 185 0.000027 4
+martin 185 0.000027 6
+music 185 0.000027 5
+lemon 184 0.000027 5
+joy 184 0.000027 3
+pop 183 0.000027 3
+young 183 0.000027 5
+delphi 183 0.000027 6
+babygirl 182 0.000026 8
+coffee 181 0.000026 6
+jessie 181 0.000026 6
+november 181 0.000026 8
+hot 181 0.000026 3
+beautiful 180 0.000026 9
+fire 180 0.000026 4
+another 180 0.000026 7
+ryan 179 0.000026 4
+rachel 179 0.000026 6
+dell 179 0.000026 4
+naruto 179 0.000026 6
+jan 178 0.000026 3
+howareyou 178 0.000026 9
+emily 177 0.000026 5
+friend 177 0.000026 6
+key 177 0.000026 3
+bailey 176 0.000026 6
+victory 175 0.000025 7
+yangjun 175 0.000025 7
+kill 174 0.000025 4
+paradise 172 0.000025 8
+alexander 172 0.000025 9
+download 172 0.000025 8
+sweet 171 0.000025 5
+johnny 171 0.000025 6
+peanut 171 0.000025 6
+change 171 0.000025 6
+thunder 170 0.000025 7
+buster 170 0.000025 6
+gemini 170 0.000025 6
+lucy 170 0.000025 4
+alice 170 0.000025 5
+hsh 169 0.000025 3
+harry 168 0.000024 5
+october 168 0.000024 7
+lcm 168 0.000024 3
+writing 167 0.000024 7
+mars 167 0.000024 4
+luck 167 0.000024 4
+mustang 166 0.000024 7
+wonderful 166 0.000024 9
+ldh 166 0.000024 3
+cindy 165 0.000024 5
+iam 165 0.000024 3
+chocolate 164 0.000024 9
+remember 164 0.000024 8
+pig 164 0.000024 3
+cisco 164 0.000024 5
+linux 164 0.000024 5
+miss 164 0.000024 4
+pepper 163 0.000024 6
+march 163 0.000024 5
+iiii 163 0.000024 4
+madison 162 0.000024 7
+faith 161 0.000023 5
+sherry 161 0.000023 6
+yahoo 161 0.000023 5
+snake 161 0.000023 5
+jake 159 0.000023 4
+god 158 0.000023 3
+nancy 157 0.000023 5
+eva 157 0.000023 3
+best 157 0.000023 4
+charles 156 0.000023 7
+basketball 156 0.000023 10
+black 156 0.000023 5
+oliver 155 0.000023 6
+myself 155 0.000023 6
+tel 155 0.000023 3
+show 155 0.000023 4
+diablo 154 0.000022 6
+iou 154 0.000022 3
+lining 154 0.000022 6
+joseph 153 0.000022 6
+batman 151 0.000022 6
+fighting 151 0.000022 8
+banana 150 0.000022 6
+benjamin 150 0.000022 8
+enter 150 0.000022 5
+root 150 0.000022 4
+westlife 150 0.000022 8
+melody 149 0.000022 6
+poi 149 0.000022 3
+cndkervip 149 0.000022 9
+scorpio 148 0.000022 7
+nothing 148 0.000022 7
+helen 148 0.000022 5
+sally 148 0.000022 5
+perfect 147 0.000021 7
+ocean 147 0.000021 5
+ycl 147 0.000021 3
+emma 146 0.000021 4
+gary 146 0.000021 4
+iop 146 0.000021 3
+guitar 145 0.000021 6
+happyday 145 0.000021 8
+hellohello 145 0.000021 10
+danny 145 0.000021 5
+web 145 0.000021 3
+vicky 145 0.000021 5
+rocky 144 0.000021 5
+edison 144 0.000021 6
+kid 144 0.000021 3
+bbc 144 0.000021 3
+dog 143 0.000021 3
+user 143 0.000021 4
+buddy 142 0.000021 5
+dolphin 141 0.000020 7
+cheese 141 0.000020 6
+devil 141 0.000020 5
+boss 141 0.000020 4
+supervisor 141 0.000020 10
+sarah 140 0.000020 5
+hope 140 0.000020 4
+ace 140 0.000020 3
+student 140 0.000020 7
+sunday 140 0.000020 6
+software 140 0.000020 8
+ivan 139 0.000020 4
+december 139 0.000020 8
+gogo 139 0.000020 4
+number 138 0.000020 6
+adidas 138 0.000020 6
+oscar 138 0.000020 5
+maple 137 0.000020 5
+apollo 136 0.000020 6
+ass 136 0.000020 3
+fifa 136 0.000020 4
+matrix 135 0.000020 6
+violet 135 0.000020 6
+philips 135 0.000020 7
+css 135 0.000020 3
+cyp 135 0.000020 3
+chicken 134 0.000019 7
+cloud 134 0.000019 5
+morgan 133 0.000019 6
+beauty 133 0.000019 6
+autumn 133 0.000019 6
+ivy 133 0.000019 3
+talent 132 0.000019 6
+wilson 132 0.000019 6
+fred 132 0.000019 4
+oracle 132 0.000019 6
+aaabbb 132 0.000019 6
+lcf 132 0.000019 3
+tommy 131 0.000019 5
+jiangjun 131 0.000019 8
+hcl 131 0.000019 3
+sony 130 0.000019 4
+billy 130 0.000019 5
+yyz 130 0.000019 3
+lavender 129 0.000019 8
+foreverlove 129 0.000019 11
+bandit 128 0.000019 6
+asa 128 0.000019 3
+alpha 127 0.000018 5
+slamdunk 127 0.000018 8
+tank 126 0.000018 4
+molly 126 0.000018 5
+alexis 126 0.000018 6
+tomorrow 126 0.000018 8
+badboy 125 0.000018 6
+johnson 124 0.000018 7
+heather 124 0.000018 7
+demon 124 0.000018 5
+junior 123 0.000018 6
+cathy 122 0.000018 5
+tim 122 0.000018 3
+spider 122 0.000018 6
+playboy 122 0.000018 7
+spirit 121 0.000018 6
+catherine 121 0.000018 9
+betty 121 0.000018 5
+wwf 121 0.000018 3
+ann 120 0.000017 3
+athena 120 0.000017 6
+wlm 120 0.000017 3
+hyp 120 0.000017 3
+hjs 120 0.000017 3
+sammy 119 0.000017 5
+ruby 119 0.000017 4
+ada 119 0.000017 3
+manager 119 0.000017 7
+sly 119 0.000017 3
+dick 119 0.000017 4
+kenny 118 0.000017 5
+hawk 118 0.000017 4
+thinkpad 118 0.000017 8
+tyler 117 0.000017 5
+jonathan 117 0.000017 8
+london 116 0.000017 6
+monster 116 0.000017 7
+elizabeth 116 0.000017 9
+great 116 0.000017 5
+america 116 0.000017 7
+kobebryant 116 0.000017 10
+passion 115 0.000017 7
+chelsea 115 0.000017 7
+matt 115 0.000017 4
+passport 115 0.000017 8
+wsb 115 0.000017 3
+lws 115 0.000017 3
+dec 114 0.000017 3
+asshole 114 0.000017 7
+hellokitty 113 0.000016 10
+sunflower 113 0.000016 9
+online 113 0.000016 6
+ronaldo 113 0.000016 7
+eleven 113 0.000016 6
+light 113 0.000016 5
+write 112 0.000016 5
+christ 111 0.000016 6
+xxxxxx 111 0.000016 6
+golden 111 0.000016 6
+whp 111 0.000016 3
+gogogogo 111 0.000016 8
+scooter 110 0.000016 7
+bruce 110 0.000016 5
+january 110 0.000016 7
+flash 110 0.000016 5
+hit 110 0.000016 3
+hawaii 109 0.000016 6
+life 109 0.000016 4
+sonic 109 0.000016 5
+leslie 109 0.000016 6
+smart 109 0.000016 5
+usa 109 0.000016 3
+lucifer 109 0.000016 7
+ldc 109 0.000016 3
+elephant 108 0.000016 8
+bird 108 0.000016 4
+victoria 108 0.000016 8
+happiness 108 0.000016 9
+cowboy 108 0.000016 6
+one 108 0.000016 3
+nirvana 108 0.000016 7
+play 107 0.000016 4
+pumpkin 107 0.000016 7
+kitten 107 0.000016 6
+amber 107 0.000016 5
+dear 107 0.000016 4
+book 107 0.000016 4
+winston 106 0.000015 7
+little 106 0.000015 6
+birthday 106 0.000015 8
+acer 106 0.000015 4
+ssl 106 0.000015 3
+llc 106 0.000015 3
+pink 105 0.000015 4
+dallas 105 0.000015 6
+jesse 105 0.000015 5
+dangerous 105 0.000015 9
+only 105 0.000015 4
+meteor 105 0.000015 6
+sjc 105 0.000015 3
+work 104 0.000015 4
+school 104 0.000015 6
+brian 104 0.000015 5
+allan 104 0.000015 5
+penguin 103 0.000015 7
+server 103 0.000015 6
+cocacola 103 0.000015 8
+icecream 103 0.000015 8
+wisdom 103 0.000015 6
+pwd 103 0.000015 3
+danielle 102 0.000015 8
+bonnie 102 0.000015 6
+pokemon 102 0.000015 7
+peace 102 0.000015 5
+swallow 102 0.000015 7
+way 102 0.000015 3
+teacher 102 0.000015 7
+zoo 102 0.000015 3
+forget 102 0.000015 6
+chicago 101 0.000015 7
+associatedcontent 101 0.000015 17
+format 101 0.000015 6
+gameover 101 0.000015 8
+lbj 101 0.000015 3
+goodgood 101 0.000015 8
+wsp 101 0.000015 3
+happyboy 101 0.000015 8
+children 100 0.000015 8
+sara 100 0.000015 4
+windy 100 0.000015 5
+harrypotter 100 0.000015 11
+lst 100 0.000015 3
+sydney 99 0.000014 6
+midnight 99 0.000014 8
+muffin 99 0.000014 6
+river 99 0.000014 5
+mandy 99 0.000014 5
+bmw 99 0.000014 3
+command 98 0.000014 7
+miracle 98 0.000014 7
+sex 98 0.000014 3
+wcc 98 0.000014 3
+answer 98 0.000014 6
+dave 97 0.000014 4
+vampire 97 0.000014 7
+smokey 97 0.000014 6
+steve 97 0.000014 5
+dancer 97 0.000014 6
+sugar 97 0.000014 5
+simple 97 0.000014 6
+gold 97 0.000014 4
+hotmail 97 0.000014 7
+mine 97 0.000014 4
+kay 97 0.000014 3
+dhl 97 0.000014 3
+inter 97 0.000014 5
+msn 97 0.000014 3
+sabrina 96 0.000014 7
+willow 96 0.000014 6
+kyle 96 0.000014 4
+miller 96 0.000014 6
+cynthia 96 0.000014 7
+rich 96 0.000014 4
+cgh 96 0.000014 3
+christian 95 0.000014 9
+mail 95 0.000014 4
+ihateyou 95 0.000014 8
+cab 95 0.000014 3
+champion 95 0.000014 8
+forest 95 0.000014 6
+shf 95 0.000014 3
+hcj 95 0.000014 3
+xsl 95 0.000014 3
+cassie 94 0.000014 6
+scott 94 0.000014 5
+september 94 0.000014 9
+casper 94 0.000014 6
+ever 94 0.000014 4
+jacob 94 0.000014 5
+jade 94 0.000014 4
+soft 94 0.000014 4
+sql 94 0.000014 3
+arthur 93 0.000014 6
+easy 93 0.000014 4
+bobby 93 0.000014 5
+pretty 93 0.000014 6
+albert 93 0.000014 6
+bella 93 0.000014 5
+hack 93 0.000014 4
+lms 93 0.000014 3
+dark 93 0.000014 4
+capslock 93 0.000014 8
+thy 93 0.000014 3
+lgm 93 0.000014 3
+xml 93 0.000014 3
+dnf 93 0.000014 3
+business 92 0.000013 8
+nov 92 0.000013 3
+ricky 92 0.000013 5
+vic 92 0.000013 3
+hgh 92 0.000013 3
+lcp 92 0.000013 3
+melissa 91 0.000013 7
+maxwell 91 0.000013 7
+shit 91 0.000013 4
+office 91 0.000013 6
+sniper 91 0.000013 6
+just 91 0.000013 4
+roc 91 0.000013 3
+myl 91 0.000013 3
+along 91 0.000013 5
+verygood 91 0.000013 8
+huangjun 91 0.000013 8
+cmy 91 0.000013 3
+trinity 90 0.000013 7
+justice 90 0.000013 7
+player 90 0.000013 6
+start 90 0.000013 5
+warcraft 90 0.000013 8
+well 90 0.000013 4
+javascript 90 0.000013 10
+wap 90 0.000013 3
+cash 89 0.000013 4
+sue 89 0.000013 3
+arsenal 89 0.000013 7
+liverpool 89 0.000013 9
+gabriel 89 0.000013 7
+murphy 89 0.000013 6
+login 89 0.000013 5
+turtle 88 0.000013 6
+jasper 88 0.000013 6
+zachary 88 0.000013 7
+sapphire 88 0.000013 8
+precious 88 0.000013 8
+tree 88 0.000013 4
+asp 88 0.000013 3
+kelvin 88 0.000013 6
+passpass 88 0.000013 8
+air 88 0.000013 3
+merlin 87 0.000013 6
+stupid 87 0.000013 6
+feb 87 0.000013 3
+dreamer 87 0.000013 7
+carter 87 0.000013 6
+window 87 0.000013 6
+add 87 0.000013 3
+napoleon 87 0.000013 8
+include 87 0.000013 7
+lhd 87 0.000013 3
+falcon 86 0.000012 6
+abb 86 0.000012 3
+benny 86 0.000012 5
+carol 86 0.000012 5
+duck 86 0.000012 4
+weblogic 86 0.000012 8
+clx 86 0.000012 3
+boston 85 0.000012 6
+louise 85 0.000012 6
+fuckfuck 85 0.000012 8
+judy 85 0.000012 4
+garfield 85 0.000012 8
+spiderman 85 0.000012 9
+silence 85 0.000012 7
+cinderella 85 0.000012 10
+kent 85 0.000012 4
+hockey 84 0.000012 6
+sexy 84 0.000012 4
+compaq 84 0.000012 6
+ethan 84 0.000012 5
+people 84 0.000012 6
+louis 84 0.000012 5
+creative 84 0.000012 8
+elijah 84 0.000012 6
+ssssss 84 0.000012 6
+wonder 84 0.000012 6
+carl 84 0.000012 4
+csb 84 0.000012 3
+mlf 84 0.000012 3
+ctt 84 0.000012 3
+dexter 83 0.000012 6
+wizard 83 0.000012 6
+venus 83 0.000012 5
+joey 83 0.000012 4
+felix 83 0.000012 5
+double 83 0.000012 6
+nic 83 0.000012 3
+foxconn 83 0.000012 7
+poohbear 82 0.000012 8
+evan 82 0.000012 4
+goddess 82 0.000012 7
+florida 82 0.000012 7
+shorty 82 0.000012 6
+maverick 82 0.000012 8
+year 82 0.000012 4
+mommy 82 0.000012 5
+cooper 82 0.000012 6
+sheep 82 0.000012 5
+white 82 0.000012 5
+leaf 82 0.000012 4
+wert 82 0.000012 4
+cherish 82 0.000012 7
+iris 82 0.000012 4
+csf 82 0.000012 3
+never 81 0.000012 5
+sept 81 0.000012 4
+williams 81 0.000012 8
+bingo 81 0.000012 5
+hotdog 81 0.000012 6
+kathy 81 0.000012 5
+stanley 81 0.000012 7
+butter 81 0.000012 6
+girl 81 0.000012 4
+darling 81 0.000012 7
+bamboo 81 0.000012 6
+wdm 81 0.000012 3
+brandy 80 0.000012 6
+tiffany 80 0.000012 7
+sherlock 80 0.000012 8
+joker 80 0.000012 5
+look 80 0.000012 4
+ccs 80 0.000012 3
+clover 79 0.000011 6
+tennis 79 0.000011 6
+monday 79 0.000011 6
+jean 79 0.000011 4
+rocket 79 0.000011 6
+happyhappy 79 0.000011 10
+what 79 0.000011 4
+lonely 79 0.000011 6
+sad 79 0.000011 3
+seed 79 0.000011 4
+study 79 0.000011 5
+west 78 0.000011 4
+liberty 78 0.000011 7
+tomato 78 0.000011 6
+oct 78 0.000011 3
+norman 78 0.000011 6
+goldfish 78 0.000011 8
+father 78 0.000011 6
+ustc 78 0.000011 4
+sin 78 0.000011 3
+cad 78 0.000011 3
+wwwwwwwww 78 0.000011 9
+eddie 77 0.000011 5
+horse 77 0.000011 5
+testing 77 0.000011 7
+nintendo 77 0.000011 8
+intel 77 0.000011 5
+link 77 0.000011 4
+dsl 77 0.000011 3
+comer 77 0.000011 5
+gracie 76 0.000011 6
+pisces 76 0.000011 6
+makemoney 76 0.000011 9
+cookies 76 0.000011 7
+panther 76 0.000011 7
+toby 76 0.000011 4
+wood 76 0.000011 4
+first 76 0.000011 5
+yesterday 76 0.000011 9
+day 76 0.000011 3
+virgo 75 0.000011 5
+friday 75 0.000011 6
+libra 75 0.000011 5
+veronica 75 0.000011 8
+isaiah 75 0.000011 6
+bigdaddy 75 0.000011 8
+memory 75 0.000011 6
+motorola 75 0.000011 8
+war 75 0.000011 3
+auto 75 0.000011 4
+snail 75 0.000011 5
+wps 75 0.000011 3
+phantom 74 0.000011 7
+abby 74 0.000011 4
+sierra 74 0.000011 6
+larry 74 0.000011 5
+penny 74 0.000011 5
+strong 74 0.000011 6
+cmh 74 0.000011 3
+shawn 74 0.000011 5
+bryant 74 0.000011 6
+makelove 74 0.000011 8
+hdl 74 0.000011 3
+honda 73 0.000011 5
+bright 73 0.000011 6
+kingdom 73 0.000011 7
+mountain 73 0.000011 8
+popcorn 73 0.000011 7
+fucker 73 0.000011 6
+franklin 73 0.000011 8
+kisskiss 73 0.000011 8
+shh 73 0.000011 3
+lam 73 0.000011 3
+clc 73 0.000011 3
+kissyou 73 0.000011 7
+kingsoft 73 0.000011 8
+andrea 72 0.000010 6
+shelly 72 0.000010 6
+solomon 72 0.000010 7
+savannah 72 0.000010 8
+chloe 72 0.000010 5
+rick 72 0.000010 4
+josh 72 0.000010 4
+ladybug 72 0.000010 7
+single 72 0.000010 6
+mini 72 0.000010 4
+logitech 72 0.000010 8
+nina 72 0.000010 4
+unique 72 0.000010 6
+javajava 72 0.000010 8
+ibm 72 0.000010 3
+fairy 71 0.000010 5
+lionking 71 0.000010 8
+dodo 71 0.000010 4
+timothy 70 0.000010 7
+shark 70 0.000010 5
+wesley 70 0.000010 6
+please 70 0.000010 6
+world 70 0.000010 5
+soul 70 0.000010 4
+serenity 70 0.000010 8
+iii 70 0.000010 3
+connie 70 0.000010 6
+mar 70 0.000010 3
+acd 70 0.000010 3
+wenjun 70 0.000010 6
+mercury 69 0.000010 7
+fluffy 69 0.000010 6
+mydream 69 0.000010 7
+design 69 0.000010 6
+showtime 69 0.000010 8
+the 69 0.000010 3
+rex 69 0.000010 3
+diana 69 0.000010 5
+dawn 69 0.000010 4
+romantic 69 0.000010 8
+loveforever 69 0.000010 11
+down 69 0.000010 4
+autoexec 69 0.000010 8
+cancer 68 0.000010 6
+onelove 68 0.000010 7
+rush 68 0.000010 4
+gateway 68 0.000010 7
+sword 68 0.000010 5
+brittany 68 0.000010 8
+sister 68 0.000010 6
+noah 68 0.000010 4
+spencer 68 0.000010 7
+moonlight 68 0.000010 9
+universe 68 0.000010 8
+hlf 68 0.000010 3
+engineer 68 0.000010 8
+dll 68 0.000010 3
+jam 68 0.000010 3
+tty 68 0.000010 3
+casey 67 0.000010 5
+archer 67 0.000010 6
+access 67 0.000010 6
+copper 67 0.000010 6
+frenzy 67 0.000010 6
+bluebird 67 0.000010 8
+appleapple 67 0.000010 10
+question 67 0.000010 8
+truelove 67 0.000010 8
+pentium 67 0.000010 7
+sorry 67 0.000010 5
+east 67 0.000010 4
+index 67 0.000010 5
+mayday 67 0.000010 6
+explorer 67 0.000010 8
+wto 67 0.000010 3
+digital 66 0.000010 7
+bunny 66 0.000010 5
+tinkerbell 66 0.000010 10
+sweety 66 0.000010 6
+iceman 66 0.000010 6
+mango 66 0.000010 5
+gordon 66 0.000010 6
+sweetie 66 0.000010 7
+lightning 66 0.000010 9
+saber 66 0.000010 5
+babydoll 66 0.000010 8
+born 66 0.000010 4
+shm 66 0.000010 3
+lcd 66 0.000010 3
+wdp 66 0.000010 3
+comeonbaby 66 0.000010 10
+aquarius 65 0.000009 8
+poop 65 0.000009 4
+marcus 65 0.000009 6
+lincoln 65 0.000009 7
+fisher 65 0.000009 6
+luna 65 0.000009 4
+private 65 0.000009 7
+loving 65 0.000009 6
+starstar 65 0.000009 8
+sunlight 65 0.000009 8
+yvonne 65 0.000009 6
+morning 65 0.000009 7
+yeah 65 0.000009 4
+gyp 65 0.000009 3
+mvp 65 0.000009 3
+donkey 64 0.000009 6
+swordfish 64 0.000009 9
+brooklyn 64 0.000009 8
+holly 64 0.000009 5
+aug 64 0.000009 3
+snowball 64 0.000009 8
+network 64 0.000009 7
+softball 64 0.000009 8
+cdd 64 0.000009 3
+starcraft 64 0.000009 9
+ash 64 0.000009 3
+batistuta 64 0.000009 9
+ccm 64 0.000009 3
+anycall 64 0.000009 7
+weijun 64 0.000009 6
+yanjun 64 0.000009 6
+ingtake 64 0.000009 7
+carrie 63 0.000009 6
+trouble 63 0.000009 7
+nascar 63 0.000009 6
+poetry 63 0.000009 6
+security 63 0.000009 8
+ring 63 0.000009 4
+voodoo 63 0.000009 6
+squall 63 0.000009 6
+toyota 63 0.000009 6
+india 63 0.000009 5
+hans 63 0.000009 4
+flyinsky 63 0.000009 8
+laser 62 0.000009 5
+chevy 62 0.000009 5
+buddha 62 0.000009 6
+scorpion 62 0.000009 8
+thinking 62 0.000009 8
+tucker 62 0.000009 6
+delta 62 0.000009 5
+walter 62 0.000009 6
+eugene 62 0.000009 6
+texas 62 0.000009 5
+jamesbond 62 0.000009 9
+hill 62 0.000009 4
+canada 62 0.000009 6
+loveless 62 0.000009 8
+spy 62 0.000009 3
+ccw 62 0.000009 3
+jcl 62 0.000009 3
+wdc 62 0.000009 3
+sassy 61 0.000009 5
+slipknot 61 0.000009 8
+vision 61 0.000009 6
+ireland 61 0.000009 7
+marvin 61 0.000009 6
+jupiter 61 0.000009 7
+college 61 0.000009 7
+million 61 0.000009 7
+today 61 0.000009 5
+shane 61 0.000009 5
+pakistan 61 0.000009 8
+eclipse 61 0.000009 7
+jazz 61 0.000009 4
+aries 61 0.000009 5
+toshiba 61 0.000009 7
+irene 61 0.000009 5
+class 61 0.000009 5
+wingzero 61 0.000009 8
+freeman 61 0.000009 7
+was 61 0.000009 3
+andyandy 61 0.000009 8
+lewis 61 0.000009 5
+sty 61 0.000009 3
+confidence 61 0.000009 10
+wpc 61 0.000009 3
+catdog 60 0.000009 6
+barney 60 0.000009 6
+better 60 0.000009 6
+blizzard 60 0.000009 8
+disney 60 0.000009 6
+saint 60 0.000009 5
+xavier 60 0.000009 6
+believe 60 0.000009 7
+a 79400 0.011537 1
+dearbook 46149 0.006706 8
+qq 33325 0.004842 2
+aa 24899 0.003618 2
+abc 22155 0.003219 3
+q 15182 0.002206 1
+z 12830 0.001864 1
+w 11007 0.001599 1
+asd 10909 0.001585 3
+abcd 9779 0.001421 4
+qwer 9291 0.001350 4
+li 7964 0.001157 2
+aaa 7727 0.001123 3
+l 6756 0.000982 1
+qwe 6749 0.000981 3
+s 6633 0.000964 1
+as 6534 0.000949 2
+x 6191 0.000900 1
+ab 6099 0.000886 2
+qazwsx 5803 0.000843 6
+aaaaaaaa 5551 0.000807 8
+A 5442 0.000791 1
+zz 5081 0.000738 2
+zx 4934 0.000717 2
+qaz 4841 0.000703 3
+asdf 4833 0.000702 4
+yy 4800 0.000697 2
+c 4480 0.000651 1
+ly 4360 0.000634 2
+csdn 4286 0.000623 4
+zy 4116 0.000598 2
+ww 4028 0.000585 2
+y 3840 0.000558 1
+h 3750 0.000545 1
+qw 3728 0.000542 2
+zxc 3723 0.000541 3
+yu 3710 0.000539 2
+mm 3682 0.000535 2
+cc 3563 0.000518 2
+qwertyuiop 3555 0.000517 10
+ll 3528 0.000513 2
+b 3396 0.000493 1
+xx 3350 0.000487 2
+m 3347 0.000486 1
+qqqqqqqq 3346 0.000486 8
+asdfghjkl 3314 0.000482 9
+zj 3096 0.000450 2
+zl 3023 0.000439 2
+lj 3012 0.000438 2
+qazwsxedc 2910 0.000423 9
+f 2856 0.000415 1
+wy 2804 0.000407 2
+ss 2799 0.000407 2
+wu 2749 0.000399 2
+zh 2691 0.000391 2
+wj 2683 0.000390 2
+qwert 2679 0.000389 5
+aaaa 2678 0.000389 4
+d 2658 0.000386 1
+ok 2572 0.000374 2
+xy 2570 0.000373 2
+qqq 2516 0.000366 3
+wo 2505 0.000364 2
+QQ 2467 0.000358 2
+xu 2465 0.000358 2
+zxcvbnm 2440 0.000355 7
+k 2404 0.000349 1
+asdasdasd 2333 0.000339 9
+g 2331 0.000339 1
+jj 2326 0.000338 2
+cs 2258 0.000328 2
+hu 2250 0.000327 2
+bb 2249 0.000327 2
+wl 2166 0.000315 2
+j 2161 0.000314 1
+lx 2148 0.000312 2
+p 2147 0.000312 1
+qqqq 2113 0.000307 4
+t 2100 0.000305 1
+qwertyui 2084 0.000303 8
+asdfasdf 2075 0.000302 8
+wq 2050 0.000298 2
+hy 1999 0.000290 2
+tt 1991 0.000289 2
+pp 1954 0.000284 2
+zw 1950 0.000283 2
+zc 1940 0.000282 2
+dd 1905 0.000277 2
+kk 1904 0.000277 2
+ma 1899 0.000276 2
+sd 1891 0.000275 2
+hh 1879 0.000273 2
+AA 1843 0.000268 2
+ws 1837 0.000267 2
+ABC 1818 0.000264 3
+zq 1790 0.000260 2
+wx 1749 0.000254 2
+qweasd 1737 0.000252 6
+lh 1727 0.000251 2
+admin 1686 0.000245 5
+yj 1674 0.000243 2
+wh 1658 0.000241 2
+cy 1642 0.000239 2
+hj 1633 0.000237 2
+qweasdzxc 1628 0.000237 9
+lc 1622 0.000236 2
+ai 1591 0.000231 2
+my 1581 0.000230 2
+ch 1564 0.000227 2
+lb 1557 0.000226 2
+cj 1548 0.000225 2
+xyz 1542 0.000224 3
+sy 1542 0.000224 2
+abcde 1534 0.000223 5
+he 1529 0.000222 2
+jy 1513 0.000220 2
+lp 1490 0.000217 2
+lq 1481 0.000215 2
+lw 1476 0.000214 2
+lz 1469 0.000213 2
+lu 1416 0.000206 2
+ff 1414 0.000205 2
+ls 1406 0.000204 2
+cx 1405 0.000204 2
+az 1391 0.000202 2
+yl 1374 0.000200 2
+o 1369 0.000199 1
+lm 1360 0.000198 2
+cl 1352 0.000196 2
+qazxsw 1349 0.000196 6
+xj 1335 0.000194 2
+xl 1325 0.000193 2
+yh 1320 0.000192 2
+ty 1319 0.000192 2
+zb 1304 0.000189 2
+sj 1283 0.000186 2
+msjxj 1268 0.000184 5
+zzzzzzzz 1265 0.000184 8
+zzz 1265 0.000184 3
+wz 1253 0.000182 2
+zs 1245 0.000181 2
+gg 1241 0.000180 2
+qweqweqwe 1227 0.000178 9
+zm 1196 0.000174 2
+com 1189 0.000173 3
+jack 1183 0.000172 4
+zf 1178 0.000171 2
+lf 1174 0.000171 2
+sz 1171 0.000170 2
+wf 1165 0.000169 2
+lk 1161 0.000169 2
+hl 1154 0.000168 2
+sl 1147 0.000167 2
+sh 1128 0.000164 2
+wd 1127 0.000164 2
+asdfghjk 1100 0.000160 8
+wc 1093 0.000159 2
+zp 1069 0.000155 2
+ac 1040 0.000151 2
+dj 1030 0.000150 2
+e 1030 0.000150 1
+xz 1029 0.000150 2
+wb 1020 0.000148 2
+zxcv 1017 0.000148 4
+lg 1011 0.000147 2
+Q 1008 0.000146 1
+gy 1000 0.000145 2
+asdasd 999 0.000145 6
+yc 987 0.000143 2
+yf 984 0.000143 2
+cz 978 0.000142 2
+r 977 0.000142 1
+zt 962 0.000140 2
+sw 951 0.000138 2
+yx 944 0.000137 2
+xc 940 0.000137 2
+wt 939 0.000136 2
+Aa 938 0.000136 2
+wp 933 0.000136 2
+ad 930 0.000135 2
+zk 924 0.000134 2
+xh 921 0.000134 2
+lt 920 0.000134 2
+cd 918 0.000133 2
+gh 914 0.000133 2
+asdfg 913 0.000133 5
+ye 906 0.000132 2
+oo 894 0.000130 2
+kingcom 894 0.000130 7
+yz 876 0.000127 2
+hb 875 0.000127 2
+zxy 868 0.000126 3
+wwwwwwww 867 0.000126 8
+qwaszx 855 0.000124 6
+yt 852 0.000124 2
+xf 849 0.000123 2
+zxl 848 0.000123 3
+hx 839 0.000122 2
+wm 834 0.000121 2
+wk 833 0.000121 2
+sc 830 0.000121 2
+zhy 823 0.000120 3
+lxy 823 0.000120 3
+qweqwe 811 0.000118 6
+st 806 0.000117 2
+ld 805 0.000117 2
+sx 801 0.000116 2
+jk 800 0.000116 2
+google 800 0.000116 6
+W 798 0.000116 1
+xm 792 0.000115 2
+abcdef 791 0.000115 6
+su 790 0.000115 2
+n 783 0.000114 1
+lilylily 780 0.000113 8
+Z 778 0.000113 1
+ABCD 778 0.000113 4
+tj 772 0.000112 2
+ml 767 0.000111 2
+sa 767 0.000111 2
+mn 766 0.000111 2
+ds 765 0.000111 2
+cn 765 0.000111 2
+ys 765 0.000111 2
+fy 759 0.000110 2
+xp 759 0.000110 2
+sb 756 0.000110 2
+aaaaaa 752 0.000109 6
+jh 752 0.000109 2
+dy 746 0.000108 2
+xw 745 0.000108 2
+dl 736 0.000107 2
+mj 735 0.000107 2
+cq 732 0.000106 2
+shmily 731 0.000106 6
+yb 731 0.000106 2
+cf 729 0.000106 2
+abcabc 722 0.000105 6
+abcdefg 719 0.000104 7
+jl 714 0.000104 2
+zd 713 0.000104 2
+lyh 710 0.000103 3
+an 706 0.000103 2
+sq 706 0.000103 2
+xq 706 0.000103 2
+qqcom 705 0.000102 5
+cw 702 0.000102 2
+ak 695 0.000101 2
+lxl 692 0.000101 3
+hf 685 0.000100 2
+hw 680 0.000099 2
+lll 677 0.000098 3
+gj 674 0.000098 2
+fu 673 0.000098 2
+ck 672 0.000098 2
+gl 672 0.000098 2
+zzy 672 0.000098 3
+ASD 668 0.000097 3
+ffffffff 668 0.000097 8
+cb 667 0.000097 2
+lv 664 0.000096 2
+L 663 0.000096 1
+hk 663 0.000096 2
+hz 662 0.000096 2
+lzy 659 0.000096 3
+dg 654 0.000095 2
+wxy 653 0.000095 3
+xb 652 0.000095 2
+dx 644 0.000094 2
+ljh 643 0.000093 3
+yq 639 0.000093 2
+fj 634 0.000092 2
+ssssssss 633 0.000092 8
+kl 630 0.000092 2
+dh 630 0.000092 2
+goodluck 623 0.000091 8
+df 622 0.000090 2
+hs 622 0.000090 2
+js 622 0.000090 2
+AAA 622 0.000090 3
+csdncsdn 621 0.000090 8
+i 618 0.000090 1
+WANG 618 0.000090 4
+v 614 0.000089 1
+X 612 0.000089 1
+ht 611 0.000089 2
+cm 610 0.000089 2
+jason 610 0.000089 5
+lzh 608 0.000088 3
+gf 606 0.000088 2
+zaqwsx 604 0.000088 6
+zzh 604 0.000088 3
+tl 599 0.000087 2
+zyh 599 0.000087 3
+hc 597 0.000087 2
+wa 596 0.000087 2
+yw 596 0.000087 2
+lyj 593 0.000086 3
+xt 592 0.000086 2
+qwerasdf 591 0.000086 8
+yi 590 0.000086 2
+ym 589 0.000086 2
+alex 584 0.000085 4
+qa 583 0.000085 2
+jx 582 0.000085 2
+lyf 581 0.000084 3
+zyj 579 0.000084 3
+ln 576 0.000084 2
+AB 575 0.000084 2
+xs 574 0.000083 2
+abcdefgh 573 0.000083 8
+bj 569 0.000083 2
+aq 567 0.000082 2
+zjh 566 0.000082 3
+wg 566 0.000082 2
+gx 562 0.000082 2
+hp 559 0.000081 2
+zyl 559 0.000081 3
+zhj 557 0.000081 3
+lyl 554 0.000080 3
+zaq 550 0.000080 3
+ljy 549 0.000080 3
+qazqaz 548 0.000080 6
+yk 547 0.000079 2
+gu 545 0.000079 2
+LI 544 0.000079 2
+du 543 0.000079 2
+zyf 543 0.000079 3
+zhl 537 0.000078 3
+lhy 537 0.000078 3
+sk 535 0.000078 2
+dc 534 0.000078 2
+ljj 534 0.000078 3
+zjl 533 0.000077 3
+sf 532 0.000077 2
+sm 530 0.000077 2
+yyy 529 0.000077 3
+dddddddd 528 0.000077 8
+zxczxczxc 527 0.000077 9
+LIU 524 0.000076 3
+ms 522 0.000076 2
+qi 521 0.000076 2
+S 518 0.000075 1
+tc 517 0.000075 2
+zyy 516 0.000075 3
+asdfgh 511 0.000074 6
+QWER 509 0.000074 4
+wwww 509 0.000074 4
+me 508 0.000074 2
+wxl 508 0.000074 3
+lyy 508 0.000074 3
+pl 507 0.000074 2
+hq 507 0.000074 2
+xd 506 0.000074 2
+zjj 506 0.000074 3
+wzy 504 0.000073 3
+lxj 503 0.000073 3
+aaaaaaaaa 503 0.000073 9
+sr 502 0.000073 2
+zxj 500 0.000073 3
+nn 499 0.000073 2
+lxh 496 0.000072 3
+zxh 491 0.000071 3
+zjy 490 0.000071 3
+jm 488 0.000071 2
+qy 487 0.000071 2
+mylove 484 0.000070 6
+by 482 0.000070 2
+sp 481 0.000070 2
+zyx 479 0.000070 3
+dw 478 0.000069 2
+lijun 478 0.000069 5
+xxxxxxxx 474 0.000069 8
+zxf 472 0.000069 3
+jw 471 0.000068 2
+pk 471 0.000068 2
+ljl 471 0.000068 3
+hm 469 0.000068 2
+we 469 0.000068 2
+zxd 467 0.000068 3
+wzh 466 0.000068 3
+zn 461 0.000067 2
+cp 460 0.000067 2
+wjj 460 0.000067 3
+zzx 459 0.000067 3
+ZHANG 458 0.000067 5
+wyl 457 0.000066 3
+LOVE 457 0.000066 4
+oooo 456 0.000066 4
+zr 456 0.000066 2
+cg 453 0.000066 2
+zzzz 451 0.000066 4
+ji 451 0.000066 2
+jc 449 0.000065 2
+wyj 449 0.000065 3
+gz 448 0.000065 2
+th 445 0.000065 2
+py 444 0.000065 2
+da 444 0.000065 2
+csdnnet 444 0.000065 7
+wjh 443 0.000064 3
+jkl 442 0.000064 3
+fl 442 0.000064 2
+lyq 441 0.000064 3
+zzq 440 0.000064 3
+QWE 439 0.000064 3
+zg 439 0.000064 2
+aptx 438 0.000064 4
+jb 436 0.000063 2
+aaaaa 436 0.000063 5
+ct 435 0.000063 2
+wyh 434 0.000063 3
+ljx 433 0.000063 3
+ft 432 0.000063 2
+bo 431 0.000063 2
+aA 431 0.000063 2
+zzj 430 0.000062 3
+aaaaaaaaaa 429 0.000062 10
+lsy 429 0.000062 3
+fc 427 0.000062 2
+fx 427 0.000062 2
+lzj 427 0.000062 3
+zxm 427 0.000062 3
+ljw 425 0.000062 3
+wjy 425 0.000062 3
+lr 424 0.000062 2
+hg 424 0.000062 2
+lxf 424 0.000062 3
+zyc 423 0.000061 3
+fa 421 0.000061 2
+zyq 420 0.000061 3
+gs 419 0.000061 2
+ljb 419 0.000061 3
+fs 416 0.000060 2
+hd 413 0.000060 2
+gw 413 0.000060 2
+tx 412 0.000060 2
+gb 412 0.000060 2
+chris 410 0.000060 5
+jz 410 0.000060 2
+op 410 0.000060 2
+lyx 409 0.000059 3
+zhb 408 0.000059 3
+yp 408 0.000059 2
+wr 407 0.000059 2
+ljf 407 0.000059 3
+yg 405 0.000059 2
+lwj 405 0.000059 3
+lzq 402 0.000058 3
+lyc 402 0.000058 3
+cat 401 0.000058 3
+lcy 401 0.000058 3
+loveme 400 0.000058 6
+AS 398 0.000058 2
+lyz 398 0.000058 3
+wyf 398 0.000058 3
+wyq 398 0.000058 3
+lxm 396 0.000058 3
+QAZ 396 0.000058 3
+db 393 0.000057 2
+cxy 393 0.000057 3
+zsj 392 0.000057 3
+vv 391 0.000057 2
+zsy 391 0.000057 3
+mc 390 0.000057 2
+QWERTYUIOP 389 0.000057 10
+wxj 389 0.000057 3
+zjw 387 0.000056 3
+QAZWSX 385 0.000056 6
+sn 382 0.000056 2
+psswrd 380 0.000055 6
+pc 380 0.000055 2
+ee 380 0.000055 2
+jf 379 0.000055 2
+zwj 379 0.000055 3
+wjl 378 0.000055 3
+Psswrd 375 0.000054 6
+pj 375 0.000054 2
+mo 375 0.000054 2
+sg 375 0.000054 2
+YY 375 0.000054 2
+zxx 374 0.000054 3
+qj 374 0.000054 2
+hhh 372 0.000054 3
+CHEN 371 0.000054 4
+zjf 370 0.000054 3
+gc 369 0.000054 2
+ZZ 368 0.000053 2
+zzl 367 0.000053 3
+ts 366 0.000053 2
+newhappy 366 0.000053 8
+qz 366 0.000053 2
+wn 365 0.000053 2
+fh 364 0.000053 2
+wxf 364 0.000053 3
+lzx 364 0.000053 3
+qazxswedc 363 0.000053 9
+hxy 363 0.000053 3
+dz 362 0.000053 2
+Password 362 0.000053 8
+xk 362 0.000053 2
+zxw 362 0.000053 3
+nj 361 0.000052 2
+lsh 360 0.000052 3
+lovelove 358 0.000052 8
+maggie 355 0.000052 6
+lzl 355 0.000052 3
+william 354 0.000051 7
+dk 354 0.000051 2
+gm 354 0.000051 2
+ql 354 0.000051 2
+lhl 354 0.000051 3
+hyj 353 0.000051 3
+tw 352 0.000051 2
+AAAAAAAA 352 0.000051 8
+wiiidsE 351 0.000051 7
+passwrd 350 0.000051 7
+wyy 348 0.000051 3
+yd 348 0.000051 2
+hn 347 0.000050 2
+za 347 0.000050 2
+H 347 0.000050 1
+chy 347 0.000050 3
+wasd 344 0.000050 4
+lsj 344 0.000050 3
+zll 344 0.000050 3
+qqqqqq 343 0.000050 6
+lhb 343 0.000050 3
+lhj 343 0.000050 3
+mx 343 0.000050 2
+zxq 343 0.000050 3
+LY 342 0.000050 2
+qazqazqaz 340 0.000049 9
+fq 339 0.000049 2
+gq 338 0.000049 2
+zcy 338 0.000049 3
+mz 337 0.000049 2
+steven 336 0.000049 6
+asdfjkl 335 0.000049 7
+wxh 335 0.000049 3
+jt 334 0.000049 2
+aabb 334 0.000049 4
+xg 334 0.000049 2
+wsh 333 0.000048 3
+whj 333 0.000048 3
+wwj 333 0.000048 3
+rr 332 0.000048 2
+zjx 332 0.000048 3
+wxm 331 0.000048 3
+lxd 331 0.000048 3
+jp 330 0.000048 2
+lyb 330 0.000048 3
+wyx 329 0.000048 3
+zxcvb 328 0.000048 5
+hjh 328 0.000048 3
+Y 327 0.000048 1
+zlj 327 0.000048 3
+zzw 327 0.000048 3
+czy 327 0.000048 3
+tk 326 0.000047 2
+ni 326 0.000047 2
+B 325 0.000047 1
+qs 325 0.000047 2
+zxb 325 0.000047 3
+dq 321 0.000047 2
+al 320 0.000046 2
+tf 320 0.000046 2
+YANG 318 0.000046 4
+lys 318 0.000046 3
+WW 317 0.000046 2
+xxxx 316 0.000046 4
+ya 316 0.000046 2
+zcl 316 0.000046 3
+wxd 315 0.000046 3
+dt 314 0.000046 2
+wzj 314 0.000046 3
+wwwcom 313 0.000045 6
+zhangjun 313 0.000045 8
+ooo 312 0.000045 3
+ap 312 0.000045 2
+asas 312 0.000045 4
+wsy 312 0.000045 3
+C 311 0.000045 1
+ba 310 0.000045 2
+zyz 310 0.000045 3
+whl 309 0.000045 3
+hjj 309 0.000045 3
+wjf 309 0.000045 3
+yyh 308 0.000045 3
+kj 307 0.000045 2
+hyl 306 0.000044 3
+cyj 306 0.000044 3
+ppp 305 0.000044 3
+u 304 0.000044 1
+ljc 303 0.000044 3
+qwqw 301 0.000044 4
+wsx 301 0.000044 3
+lyp 301 0.000044 3
+mh 300 0.000044 2
+LL 300 0.000044 2
+yhy 300 0.000044 3
+ASDF 300 0.000044 4
+liujun 300 0.000044 6
+ha 299 0.000043 2
+ljm 299 0.000043 3
+cxl 299 0.000043 3
+yzh 299 0.000043 3
+whb 299 0.000043 3
+hyh 299 0.000043 3
+hr 298 0.000043 2
+F 298 0.000043 1
+michelle 297 0.000043 8
+gt 297 0.000043 2
+M 297 0.000043 1
+ily 296 0.000043 3
+fz 296 0.000043 2
+cyy 296 0.000043 3
+yxy 296 0.000043 3
+justin 294 0.000043 6
+gp 294 0.000043 2
+zyp 294 0.000043 3
+lzw 293 0.000043 3
+wzx 293 0.000043 3
+qx 291 0.000042 2
+ZX 291 0.000042 2
+dm 290 0.000042 2
+fd 290 0.000042 2
+zzc 290 0.000042 3
+ljq 290 0.000042 3
+zly 289 0.000042 3
+wzq 289 0.000042 3
+ps 288 0.000042 2
+pw 288 0.000042 2
+tz 288 0.000042 2
+cyh 288 0.000042 3
+wjx 288 0.000042 3
+lch 287 0.000042 3
+zjm 287 0.000042 3
+gd 286 0.000042 2
+ph 286 0.000042 2
+tb 285 0.000041 2
+zxz 285 0.000041 3
+WOAINI 285 0.000041 6
+bc 284 0.000041 2
+zch 283 0.000041 3
+mmmmmmmm 282 0.000041 8
+qqqqq 282 0.000041 5
+zsh 282 0.000041 3
+zhq 282 0.000041 3
+hxl 282 0.000041 3
+yxl 282 0.000041 3
+lsl 281 0.000041 3
+zcx 281 0.000041 3
+zys 281 0.000041 3
+letmein 280 0.000041 7
+zhh 280 0.000041 3
+asasasas 279 0.000041 8
+llllllll 279 0.000041 8
+lxc 279 0.000041 3
+zhw 279 0.000041 3
+lxq 279 0.000041 3
+zym 279 0.000041 3
+wyc 279 0.000041 3
+G 278 0.000040 1
+tm 278 0.000040 2
+ASDFGHJKL 278 0.000040 9
+fb 277 0.000040 2
+lym 277 0.000040 3
+imissyou 276 0.000040 8
+joe 275 0.000040 3
+ZY 275 0.000040 2
+simon 274 0.000040 5
+zxcvbn 273 0.000040 6
+zaqxsw 273 0.000040 6
+fw 273 0.000040 2
+wxw 273 0.000040 3
+hjl 272 0.000040 3
+zjc 272 0.000040 3
+pb 271 0.000039 2
+ssss 271 0.000039 4
+lxw 271 0.000039 3
+sxy 270 0.000039 3
+poiu 270 0.000039 4
+charlie 269 0.000039 7
+hzy 269 0.000039 3
+lxb 269 0.000039 3
+zsq 268 0.000039 3
+jessica 267 0.000039 7
+ljp 267 0.000039 3
+af 267 0.000039 2
+lzc 267 0.000039 3
+zht 266 0.000039 3
+MM 266 0.000039 2
+tzwadmin 266 0.000039 8
+ZXC 266 0.000039 3
+llj 266 0.000039 3
+zyb 266 0.000039 3
+yzy 266 0.000039 3
+lmj 266 0.000039 3
+zjq 266 0.000039 3
+jn 265 0.000039 2
+wlj 265 0.000039 3
+ke 264 0.000038 2
+mk 264 0.000038 2
+yyyy 264 0.000038 4
+mt 263 0.000038 2
+ky 263 0.000038 2
+fm 263 0.000038 2
+yn 263 0.000038 2
+wsl 263 0.000038 3
+hyf 263 0.000038 3
+cjy 262 0.000038 3
+hjy 262 0.000038 3
+zsl 262 0.000038 3
+qqqqqqqqqq 261 0.000038 10
+lxp 261 0.000038 3
+yjh 261 0.000038 3
+cr 260 0.000038 2
+qqww 260 0.000038 4
+cyl 260 0.000038 3
+cjl 259 0.000038 3
+ljs 259 0.000038 3
+hzh 259 0.000038 3
+cxj 259 0.000038 3
+zhf 259 0.000038 3
+zxczxc 258 0.000037 6
+lly 258 0.000037 3
+wjw 258 0.000037 3
+qqqqqqqqq 258 0.000037 9
+mq 257 0.000037 2
+zhx 257 0.000037 3
+cyq 257 0.000037 3
+sxl 257 0.000037 3
+ge 255 0.000037 2
+xi 255 0.000037 2
+YU 255 0.000037 2
+wzl 255 0.000037 3
+ou 254 0.000037 2
+D 254 0.000037 1
+lgh 254 0.000037 3
+yjj 254 0.000037 3
+am 253 0.000037 2
+le 253 0.000037 2
+lzm 253 0.000037 3
+hyjzstx 253 0.000037 7
+kkkkkkkk 252 0.000037 8
+jjjjjjjj 252 0.000037 8
+jd 251 0.000036 2
+km 251 0.000036 2
+xxl 251 0.000036 3
+cjj 251 0.000036 3
+nm 250 0.000036 2
+lmy 250 0.000036 3
+px 249 0.000036 2
+na 249 0.000036 2
+Qq 249 0.000036 2
+zwl 249 0.000036 3
+zxp 249 0.000036 3
+ca 248 0.000036 2
+ah 248 0.000036 2
+cjh 248 0.000036 3
+mb 247 0.000036 2
+ax 247 0.000036 2
+xzy 247 0.000036 3
+dp 246 0.000036 2
+wys 246 0.000036 3
+wyb 246 0.000036 3
+LJ 245 0.000036 2
+WWW 245 0.000036 3
+qd 245 0.000036 2
+lina 244 0.000035 4
+wyz 244 0.000035 3
+XX 244 0.000035 2
+wxq 243 0.000035 3
+qc 242 0.000035 2
+ZL 242 0.000035 2
+vivian 241 0.000035 6
+zzg 241 0.000035 3
+QW 241 0.000035 2
+lsq 241 0.000035 3
+cccccccc 240 0.000035 8
+yyj 240 0.000035 3
+wxx 240 0.000035 3
+qwqwqwqw 239 0.000035 8
+zhm 239 0.000035 3
+czh 239 0.000035 3
+wxb 239 0.000035 3
+hyy 239 0.000035 3
+pppppppp 238 0.000035 8
+qazWSX 238 0.000035 6
+ks 237 0.000034 2
+kkkk 237 0.000034 4
+lhf 237 0.000034 3
+zyt 237 0.000034 3
+yjl 237 0.000034 3
+J 236 0.000034 1
+qh 236 0.000034 2
+lyt 236 0.000034 3
+chj 236 0.000034 3
+xxy 236 0.000034 3
+bl 235 0.000034 2
+wsw 235 0.000034 3
+gggggggg 234 0.000034 8
+nb 234 0.000034 2
+gk 234 0.000034 2
+de 234 0.000034 2
+hhhhhhhh 234 0.000034 8
+CC 234 0.000034 2
+yyl 234 0.000034 3
+QAZWSXEDC 234 0.000034 9
+zjs 234 0.000034 3
+mu 233 0.000034 2
+asdqwe 232 0.000034 6
+CSDN 232 0.000034 4
+aw 231 0.000034 2
+pt 231 0.000034 2
+cyf 231 0.000034 3
+zjb 231 0.000034 3
+yxh 231 0.000034 3
+lss 230 0.000033 3
+jq 230 0.000033 2
+xyj 230 0.000033 3
+ashley 229 0.000033 6
+dgdg 229 0.000033 4
+hjx 229 0.000033 3
+hyq 229 0.000033 3
+angela 228 0.000033 6
+asdzxc 228 0.000033 6
+wsq 228 0.000033 3
+xyh 228 0.000033 3
+wxc 228 0.000033 3
+ttt 227 0.000033 3
+lhx 227 0.000033 3
+wss 227 0.000033 3
+wch 226 0.000033 3
+ZJ 226 0.000033 2
+yjy 226 0.000033 3
+zxs 226 0.000033 3
+cccc 225 0.000033 4
+zwb 225 0.000033 3
+wcy 225 0.000033 3
+csy 225 0.000033 3
+zzm 225 0.000033 3
+zww 224 0.000033 3
+zzf 224 0.000033 3
+la 223 0.000032 2
+jjj 223 0.000032 3
+llll 223 0.000032 4
+qf 223 0.000032 2
+lyg 223 0.000032 3
+SUN 223 0.000032 3
+lxz 223 0.000032 3
+bh 222 0.000032 2
+sakura 222 0.000032 6
+fff 222 0.000032 3
+syh 222 0.000032 3
+wjq 222 0.000032 3
+lwh 222 0.000032 3
+po 221 0.000032 2
+sjj 221 0.000032 3
+lgy 221 0.000032 3
+zlh 221 0.000032 3
+tu 220 0.000032 2
+mw 220 0.000032 2
+iloveu 220 0.000032 6
+qwerqwer 220 0.000032 8
+cxh 220 0.000032 3
+LIN 219 0.000032 3
+WY 219 0.000032 2
+mnbvcxz 218 0.000032 7
+amanda 217 0.000032 6
+wjc 217 0.000032 3
+xyl 217 0.000032 3
+zlf 217 0.000032 3
+ZH 217 0.000032 2
+md 216 0.000031 2
+aj 216 0.000031 2
+yr 216 0.000031 2
+fg 216 0.000031 2
+wyp 216 0.000031 3
+syj 216 0.000031 3
+cxf 216 0.000031 3
+jennifer 215 0.000031 8
+ny 214 0.000031 2
+JJ 214 0.000031 2
+lcx 214 0.000031 3
+go 213 0.000031 2
+windowsxp 213 0.000031 9
+WU 213 0.000031 2
+ko 212 0.000031 2
+er 212 0.000031 2
+xn 212 0.000031 2
+cba 212 0.000031 3
+zxzx 212 0.000031 4
+syl 212 0.000031 3
+hjf 212 0.000031 3
+zsw 211 0.000031 3
+yyf 211 0.000031 3
+yyyyyyyy 211 0.000031 8
+hyx 210 0.000031 3
+chl 210 0.000031 3
+T 209 0.000030 1
+zzp 209 0.000030 3
+lzp 209 0.000030 3
+yhb 209 0.000030 3
+oooooooo 208 0.000030 8
+wly 208 0.000030 3
+qp 208 0.000030 2
+czx 208 0.000030 3
+sophia 207 0.000030 6
+xr 207 0.000030 2
+lpf 207 0.000030 3
+tsinghua 207 0.000030 8
+wjs 207 0.000030 3
+wzw 207 0.000030 3
+at 206 0.000030 2
+Ab 206 0.000030 2
+yxj 206 0.000030 3
+lzg 206 0.000030 3
+okok 205 0.000030 4
+bt 204 0.000030 2
+zjp 204 0.000030 3
+wsad 204 0.000030 4
+zyw 204 0.000030 3
+lenovo 203 0.000029 6
+QWERT 203 0.000029 5
+WJ 203 0.000029 2
+cjw 202 0.000029 3
+zxcasdqwe 202 0.000029 9
+zgq 202 0.000029 3
+jojo 201 0.000029 4
+mf 201 0.000029 2
+xyf 201 0.000029 3
+lzz 201 0.000029 3
+wzc 201 0.000029 3
+bd 200 0.000029 2
+yxf 200 0.000029 3
+tq 200 0.000029 2
+asdfzxcv 200 0.000029 8
+lzf 200 0.000029 3
+zwx 199 0.000029 3
+ads 199 0.000029 3
+wjb 199 0.000029 3
+lxg 199 0.000029 3
+zlx 199 0.000029 3
+K 198 0.000029 1
+bbbb 198 0.000029 4
+zzb 198 0.000029 3
+qwertyuio 198 0.000029 9
+kb 197 0.000029 2
+zwh 197 0.000029 3
+vincent 196 0.000028 7
+wht 196 0.000028 3
+szy 196 0.000028 3
+zhc 196 0.000028 3
+cxd 196 0.000028 3
+bs 195 0.000028 2
+TT 195 0.000028 2
+cxz 195 0.000028 3
+wxp 195 0.000028 3
+OK 195 0.000028 2
+WO 195 0.000028 2
+tp 194 0.000028 2
+SS 194 0.000028 2
+hjw 194 0.000028 3
+hhy 194 0.000028 3
+zjz 194 0.000028 3
+lsm 193 0.000028 3
+fk 193 0.000028 2
+lyw 193 0.000028 3
+zdh 193 0.000028 3
+zss 193 0.000028 3
+xyy 193 0.000028 3
+xjj 192 0.000028 3
+wym 192 0.000028 3
+lgl 191 0.000028 3
+cjf 191 0.000028 3
+czq 191 0.000028 3
+xyq 191 0.000028 3
+bm 190 0.000028 2
+sjh 190 0.000028 3
+cxm 190 0.000028 3
+wyw 190 0.000028 3
+zml 190 0.000028 3
+syf 190 0.000028 3
+lsw 190 0.000028 3
+xzh 190 0.000028 3
+tr 189 0.000027 2
+mg 189 0.000027 2
+jsj 189 0.000027 3
+ILOVEYOU 189 0.000027 8
+hxj 189 0.000027 3
+zqy 189 0.000027 3
+xjh 189 0.000027 3
+kissme 188 0.000027 6
+qu 188 0.000027 2
+wjm 188 0.000027 3
+lwq 188 0.000027 3
+lhw 187 0.000027 3
