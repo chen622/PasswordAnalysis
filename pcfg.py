@@ -15,7 +15,7 @@ class PCFG:
         for line in letter:
             if int(line[3]) not in self.letter:
                 self.letter[int(line[3])] = []
-            self.letter[int(line[3])].append([line[0], float(line[2])*100])
+            self.letter[int(line[3])].append([line[0], float(line[2])])
         with open('./KeyboardMap/result_big_csdn_number.dat', 'r') as file:
             number = file.readlines()[:1000]
         number = [line[:-1].split(' ') for line in number]
@@ -23,13 +23,13 @@ class PCFG:
         for line in number:
             if int(line[3]) not in self.number:
                 self.number[int(line[3])] = []
-            self.number[int(line[3])].append([line[0], float(line[2])*100])
+            self.number[int(line[3])].append([line[0], float(line[2])])
         with open('./result_small_csdn.txt', 'r') as file:
             rules = file.readlines()[:80]
         rules = [line.split(' ') for line in rules]
         self.rules = []
         for rule in rules:
-            p = float(rule[2][:-2])*100
+            p = float(rule[2][:-2]) / 100
             rule = rule[0]
             single = []
             i = 0
