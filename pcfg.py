@@ -8,30 +8,29 @@ class PCFG:
         with open('./EnglishPinyinDetection/top1000.txt', 'r') as file:
             letter = file.readlines()[:-1]
         with open('./KeyboardMap/result_big_csdn_char.dat', 'r') as file:
-            tmp = file.readlines()[:5000]
+            tmp = file.readlines()[:1000]
             letter = letter + tmp
         letter = [line[:-1].split(' ') for line in letter]
         self.letter = {}
-        self.letter[1] = [chr(i) for i in range(97, 123)]
         for line in letter:
             if int(line[3]) not in self.letter:
                 self.letter[int(line[3])] = []
-            self.letter[int(line[3])].append(line[0])
+            self.letter[int(line[3])].append([line[0], float(line[2])*100])
         with open('./KeyboardMap/result_big_csdn_number.dat', 'r') as file:
-            number = file.readlines()[:5000]
+            number = file.readlines()[:1000]
         number = [line[:-1].split(' ') for line in number]
         self.number = {}
-        self.number[1] = [str(i) for i in range(10)]
-        self.number[2] = [str(i) for i in range(10, 100)]
         for line in number:
             if int(line[3]) not in self.number:
                 self.number[int(line[3])] = []
-            self.number[int(line[3])].append(line[0])
+            self.number[int(line[3])].append([line[0], float(line[2])*100])
         with open('./result_small_csdn.txt', 'r') as file:
             rules = file.readlines()[:80]
-        rules = [line.split(' ')[0] for line in rules]
+        rules = [line.split(' ') for line in rules]
         self.rules = []
         for rule in rules:
+            p = float(rule[2][:-2])*100
+            rule = rule[0]
             single = []
             i = 0
             while i < len(rule):
@@ -43,20 +42,23 @@ class PCFG:
                     i = i + length
                 else:
                     i = i + 1
-            self.rules.append(single)
+            self.rules.append([single, p])
         self.char = '~`!@#$%^&*()_+-=[]{}|;:"\',./<>?'
 
     def merge(self):
+        res = []
         for rule in tqdm(self.rules):
             try:
-                ret = self.digui(rule)
+                ret = self.digui(rule[0])
             except:
                 continue
-            with open('./password_dict.txt', 'a') as file:
-                for password in ret:
-                    file.write(password + '\n')
+
+            ret = [[line[0], line[1] * rule[1]] for line in ret]
+            res = res + ret
             del ret
             gc.collect()
+        res.sort(key=lambda x:x[1], reverse=True)
+        return res[:1000]
 
     def digui(self, rule):
         if len(rule) > 1:
@@ -70,10 +72,10 @@ class PCFG:
             elif key == "D":
                 tmp = self.number[val]
             elif key == "S":
-                tmp = [i for i in itertools.product(self.char, repeat=val)]
+                tmp = [[i, 1] for i in itertools.product(self.char, repeat=val)]
             for line_left in tmp:
                 for line_right in string:
-                    res.append(line_left + line_right)
+                    res.append([line_left[0] + line_right[0], line_left[1] * line_right[1]])
             return res
         else:
             key = rule[0][0]
@@ -83,7 +85,7 @@ class PCFG:
             elif key == "D":
                 return self.number[val]
             elif key == "S":
-                return [i for i in itertools.product(self.char, repeat=val)]
+                return [[i, 1] for i in itertools.product(self.char, repeat=val)]
             else:
                 return []
 
@@ -91,6 +93,9 @@ class PCFG:
 if __name__ == "__main__":
     app = PCFG()
     app.loading()
-    app.merge()
+    res = app.merge()
+    with open('./password_dict.txt', 'w') as file:
+        for password in res:
+            file.write(str(password[0]) + ' ' + str(password[1]) + '\n')
 
 
