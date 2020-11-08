@@ -45,8 +45,7 @@ if __name__ == "__main__":
               errors='ignore') as out_file:
         j = 0
         for item in order_list:
-            if item[0].isdigit():
-                out_file.write(f'{item[0]} {item[1]} {(item[1] / i):.6f} {len(item[0])}\n')
-                j += 1
-                if j % 1000:
-                    out_file.flush()
+            out_file.write(f'{item[0]} {item[1]} {(item[1] / i):.6f} {len(item[0])}\n')
+            j += 1
+            if j % 1000:
+                out_file.flush()
