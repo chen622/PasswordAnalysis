@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603713977 source:c:\users\administrator\desktop\code\qeq\main.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<string>
+	<vector>
+
