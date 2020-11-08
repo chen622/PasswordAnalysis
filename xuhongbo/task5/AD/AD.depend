@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1603714777 source:c:\users\administrator\desktop\code\ad\main.cpp
-	<iostream>
-	<cstring>
-	<cstdio>
-	<bits/stdc++.h>
-
